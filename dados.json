@@ -1,0 +1,141 @@
+{
+  "SP": {
+    "nome": "São Paulo",
+    "regiao": "Sudeste",
+    "cidades": {
+      "Indaiatuba": [
+        {
+          "nome": "RE/MAX Indaiatuba",
+          "porte": "Grande",
+          "endereco": "Av. Presidente Vargas, 1200 – Centro",
+          "bairro": "Centro",
+          "telefone": "(19) 3875-0001",
+          "site": "https://www.remax.com.br",
+          "zap": "5519999990001",
+          "instagram": "remax_indaiatuba",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -23.0889,
+          "lng": -47.2199
+        },
+        {
+          "nome": "Lopes Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua Ouvidor Palmeiro, 450 – Vila Musa",
+          "bairro": "Vila Musa",
+          "telefone": "(19) 3875-0002",
+          "site": "https://www.lopes.com.br",
+          "zap": "5519999990002",
+          "instagram": "lopes_indaiatuba",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -23.092,
+          "lng": -47.223
+        },
+        {
+          "nome": "Terraplan Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua 15 de Novembro, 330 – Centro",
+          "bairro": "Centro",
+          "telefone": "(19) 3875-0003",
+          "site": "https://www.terraplan.com.br",
+          "zap": "5519999990003",
+          "instagram": "terraplan_imoveis",
+          "atuacao": [
+            "Residencial",
+            "Loteamentos"
+          ],
+          "lat": -23.087,
+          "lng": -47.2185
+        },
+        {
+          "nome": "Indaiplan Negócios",
+          "porte": "Médio",
+          "endereco": "Av. Eng. Barnabé, 900 – Jd. Veneza",
+          "bairro": "Jardim Veneza",
+          "telefone": "(19) 3875-0004",
+          "site": null,
+          "zap": "5519999990004",
+          "instagram": "indaiplan_imoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.081,
+          "lng": -47.228
+        },
+        {
+          "nome": "Campo Verde Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Profa. Flora Lopes, 88",
+          "bairro": "Jd. Morada do Sol",
+          "telefone": "(19) 3875-0006",
+          "site": "https://www.campoverdeimoveis.com.br",
+          "zap": "5519999990006",
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Rural",
+            "Loteamentos"
+          ],
+          "lat": -23.0755,
+          "lng": -47.231
+        },
+        {
+          "nome": "Cipasa Urbanismo",
+          "porte": "Grande",
+          "endereco": "Rod. Lix da Cunha, km 22",
+          "bairro": "Cipasa",
+          "telefone": "(19) 3875-0007",
+          "site": "https://www.cipasa.com.br",
+          "zap": "5519999990007",
+          "instagram": "cipasa_urbanismo",
+          "atuacao": [
+            "Loteamentos",
+            "Lançamentos"
+          ],
+          "lat": -23.068,
+          "lng": -47.242
+        },
+        {
+          "nome": "Horizonte Imóveis",
+          "porte": "Médio",
+          "endereco": "Av. São Paulo, 760 – Jd. Horizonte",
+          "bairro": "Jardim Horizonte",
+          "telefone": "(19) 3875-0010",
+          "site": "https://www.horizonteimoveis.com.br",
+          "zap": "5519999990010",
+          "instagram": "horizonte_imoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -23.08,
+          "lng": -47.205
+        },
+        {
+          "nome": "Plano&Plano Indaiatuba",
+          "porte": "Grande",
+          "endereco": "Av. Dr. Moraes Salles, 1500",
+          "bairro": "Jd. Novo Horizonte",
+          "telefone": "(19) 3875-0012",
+          "site": "https://www.planoplano.com.br",
+          "zap": "5519999990012",
+          "instagram": "planoplano_indaiatuba",
+          "atuacao": [
+            "Lançamentos",
+            "Residencial"
+          ],
+          "lat": -23.074,
+          "lng": -47.217
+        }
+      ]
+    }
+  }
+}
