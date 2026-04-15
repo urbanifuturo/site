@@ -135,6 +135,774 @@
           "lat": -23.074,
           "lng": -47.217
         }
+      ],
+      "São Paulo": [
+        {
+          "nome": "Capital Imóveis SP",
+          "porte": "Grande",
+          "endereco": "Avenida Paulista, 1578 – Bela Vista",
+          "bairro": "Bela Vista",
+          "telefone": "(11) 3000-1000",
+          "site": "https://capitalimoveissp.com.br",
+          "zap": "5511987654321",
+          "instagram": "capitalimoveissp",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -23.561479,
+          "lng": -46.655957
+        },
+        {
+          "nome": "Granja Viana Imóveis",
+          "porte": "Médio",
+          "endereco": "Estrada do Embu, 2500 – Granja Viana",
+          "bairro": "Granja Viana",
+          "telefone": "(11) 4000-2000",
+          "site": "https://granjavianaimoveis.com.br",
+          "zap": "5511912345678",
+          "instagram": "granjavianaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Terrenos"
+          ],
+          "lat": -23.590995,
+          "lng": -46.940005
+        },
+        {
+          "nome": "Morumbi Flats",
+          "porte": "Pequeno",
+          "endereco": "Rua Dr. Alvarenga, 500 – Morumbi",
+          "bairro": "Morumbi",
+          "telefone": "(11) 5000-3000",
+          "site": null,
+          "zap": "5511998765432",
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Flats"
+          ],
+          "lat": -23.60817,
+          "lng": -46.727368
+        },
+        {
+          "nome": "Itaim Bibi Imóveis Prime",
+          "porte": "Grande",
+          "endereco": "Rua Joaquim Floriano, 1000 – Itaim Bibi",
+          "bairro": "Itaim Bibi",
+          "telefone": "(11) 3300-4000",
+          "site": "https://itaimbibiprime.com.br",
+          "zap": "5511976543210",
+          "instagram": "itaimbibiprime",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Alto Padrão"
+          ],
+          "lat": -23.593667,
+          "lng": -46.67279
+        },
+        {
+          "nome": "Tatuapé Imóveis e Construções",
+          "porte": "Médio",
+          "endereco": "Rua Francisco Marengo, 150 – Tatuapé",
+          "bairro": "Tatuapé",
+          "telefone": "(11) 2200-5000",
+          "site": "https://tatuapeimoveis.com.br",
+          "zap": "5511988887777",
+          "instagram": "tatuapeimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -23.5415,
+          "lng": -46.552918
+        },
+        {
+          "nome": "Vila Madalena Charme",
+          "porte": "Pequeno",
+          "endereco": "Rua Harmonia, 800 – Vila Madalena",
+          "bairro": "Vila Madalena",
+          "telefone": "(11) 3400-6000",
+          "site": null,
+          "zap": "5511999991111",
+          "instagram": "vilamadalenacharme",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.549718,
+          "lng": -46.677341
+        },
+        {
+          "nome": "Mooca Patrimônio",
+          "porte": "Médio",
+          "endereco": "Rua da Mooca, 3000 – Mooca",
+          "bairro": "Mooca",
+          "telefone": "(11) 2100-7000",
+          "site": "https://moocapatrimonio.com.br",
+          "zap": "5511977776666",
+          "instagram": "moocapatrimonio",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.557921,
+          "lng": -46.58267
+        },
+        {
+          "nome": "Centro Histórico Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua XV de Novembro, 500 – Centro",
+          "bairro": "Centro",
+          "telefone": "(11) 3500-8000",
+          "site": null,
+          "zap": "5511966665555",
+          "instagram": null,
+          "atuacao": [
+            "Comercial",
+            "Residencial Antigo"
+          ],
+          "lat": -23.548944,
+          "lng": -46.637674
+        },
+        {
+          "nome": "Jardins Exclusive",
+          "porte": "Grande",
+          "endereco": "Alameda Gabriel Monteiro da Silva, 1200 – Jardim América",
+          "bairro": "Jardim América",
+          "telefone": "(11) 4000-9000",
+          "site": "https://jardimsexclusive.com.br",
+          "zap": "5511955554444",
+          "instagram": "jardimsexclusive",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão",
+            "Comercial"
+          ],
+          "lat": -23.567965,
+          "lng": -46.670308
+        },
+        {
+          "nome": "Santana Imóveis Modernos",
+          "porte": "Médio",
+          "endereco": "Avenida Braz Leme, 2000 – Santana",
+          "bairro": "Santana",
+          "telefone": "(11) 2800-1000",
+          "site": "https://santanaimoveismodernos.com.br",
+          "zap": "5511944443333",
+          "instagram": "santanaimoveismodernos",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.495765,
+          "lng": -46.622189
+        }
+      ],
+      "Guarulhos": [
+        {
+          "nome": "Guarulhos Central Imóveis",
+          "porte": "Médio",
+          "endereco": "Avenida Paulo Faccini, 1500 – Centro",
+          "bairro": "Centro",
+          "telefone": "(11) 2400-1000",
+          "site": "https://guarulhoscentrall.com.br",
+          "zap": "5511987651234",
+          "instagram": "guarulhoscentrall",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.465,
+          "lng": -46.534722
+        },
+        {
+          "nome": "Ponte Grande Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Sargento Basílio Zabeu, 50 – Ponte Grande",
+          "bairro": "Ponte Grande",
+          "telefone": "(11) 2440-2000",
+          "site": null,
+          "zap": "5511912345678",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.5,
+          "lng": -46.5
+        },
+        {
+          "nome": "Vila Galvão Imóveis e Negócios",
+          "porte": "Médio",
+          "endereco": "Avenida Dr. Renato de Andrade Maia, 200 – Vila Galvão",
+          "bairro": "Vila Galvão",
+          "telefone": "(11) 2460-3000",
+          "site": "https://vilagalvaoimoveis.com.br",
+          "zap": "5511998765432",
+          "instagram": "vilagalvaoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.45,
+          "lng": -46.55
+        },
+        {
+          "nome": "Cumbica Imóveis Industriais",
+          "porte": "Pequeno",
+          "endereco": "Avenida Mal. Tito, 1800 – Cumbica",
+          "bairro": "Cumbica",
+          "telefone": "(11) 2470-4000",
+          "site": null,
+          "zap": "5511976543210",
+          "instagram": null,
+          "atuacao": [
+            "Comercial",
+            "Industrial"
+          ],
+          "lat": -23.43,
+          "lng": -46.45
+        },
+        {
+          "nome": "Parque Cecap Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Jamil João Abdalla, 700 – Parque Cecap",
+          "bairro": "Parque Cecap",
+          "telefone": "(11) 2450-5000",
+          "site": null,
+          "zap": "5511988887777",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.44,
+          "lng": -46.48
+        }
+      ],
+      "Campinas": [
+        {
+          "nome": "Campinas Central Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Barão de Jaguara, 1000 – Centro",
+          "bairro": "Centro",
+          "telefone": "(19) 3000-1000",
+          "site": "https://campinascentral.com.br",
+          "zap": "5519987654321",
+          "instagram": "campinascentral",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -22.909996,
+          "lng": -47.062545
+        },
+        {
+          "nome": "Taquaral Imóveis Prime",
+          "porte": "Grande",
+          "endereco": "Avenida Princesa d'Oeste, 500 – Taquaral",
+          "bairro": "Taquaral",
+          "telefone": "(19) 3300-2000",
+          "site": "https://taquaralimoveisprime.com.br",
+          "zap": "5519912345678",
+          "instagram": "taquaralimoveisprime",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão",
+            "Comercial"
+          ],
+          "lat": -22.91,
+          "lng": -47.05
+        },
+        {
+          "nome": "Barão Geraldo Imóveis",
+          "porte": "Médio",
+          "endereco": "Avenida Dr. Armando Foster, 150 – Barão Geraldo",
+          "bairro": "Barão Geraldo",
+          "telefone": "(19) 3400-3000",
+          "site": "https://baraogeraldoimoveis.com.br",
+          "zap": "5519998765432",
+          "instagram": "baraogeraldoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Terrenos"
+          ],
+          "lat": -22.81,
+          "lng": -47.06
+        },
+        {
+          "nome": "Cambuí Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Coronel Quirino, 1200 – Cambuí",
+          "bairro": "Cambuí",
+          "telefone": "(19) 3500-4000",
+          "site": "https://cambuimoveis.com.br",
+          "zap": "5519976543210",
+          "instagram": "cambuimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -22.9,
+          "lng": -47.07
+        },
+        {
+          "nome": "Nova Campinas Properties",
+          "porte": "Pequeno",
+          "endereco": "Rua Maria Encarnação Amaro, 800 – Nova Campinas",
+          "bairro": "Nova Campinas",
+          "telefone": "(19) 3600-5000",
+          "site": null,
+          "zap": "5519988887777",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -22.89,
+          "lng": -47.08
+        }
+      ],
+      "São Bernardo do Campo": [
+        {
+          "nome": "SBC Imóveis Central",
+          "porte": "Médio",
+          "endereco": "Avenida Brigadeiro Faria Lima, 1000 – Centro",
+          "bairro": "Centro",
+          "telefone": "(11) 4000-1000",
+          "site": "https://sbcimoveiscentral.com.br",
+          "zap": "5511987651234",
+          "instagram": "sbcimoveiscentral",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.716667,
+          "lng": -46.55
+        },
+        {
+          "nome": "Rudge Ramos Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Marechal Deodoro, 500 – Rudge Ramos",
+          "bairro": "Rudge Ramos",
+          "telefone": "(11) 4100-2000",
+          "site": null,
+          "zap": "5511912345678",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.7,
+          "lng": -46.57
+        },
+        {
+          "nome": "Paulicéia Imóveis",
+          "porte": "Médio",
+          "endereco": "Avenida Maria de Jesus V. de Carvalho, 150 – Paulicéia",
+          "bairro": "Paulicéia",
+          "telefone": "(11) 4200-3000",
+          "site": "https://pauliceiaimoveis.com.br",
+          "zap": "5511998765432",
+          "instagram": "pauliceiaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.68,
+          "lng": -46.59
+        },
+        {
+          "nome": "Assunção Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua São Francisco, 100 – Assunção",
+          "bairro": "Assunção",
+          "telefone": "(11) 4300-4000",
+          "site": null,
+          "zap": "5511976543210",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.66,
+          "lng": -46.61
+        },
+        {
+          "nome": "Jardim Silvina Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua das Orquídeas, 800 – Jardim Silvina",
+          "bairro": "Jardim Silvina",
+          "telefone": "(11) 4400-5000",
+          "site": null,
+          "zap": "5511988887777",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.64,
+          "lng": -46.63
+        }
+      ],
+      "Ribeirão Preto": [
+        {
+          "nome": "Ribeirão Central Imóveis",
+          "porte": "Médio",
+          "endereco": "Avenida Nove de Julho, 1500 – Centro",
+          "bairro": "Centro",
+          "telefone": "(16) 3000-1000",
+          "site": "https://ribeiraocentral.com.br",
+          "zap": "5516987654321",
+          "instagram": "ribeiraocentral",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -21.17,
+          "lng": -47.81
+        },
+        {
+          "nome": "Jardim Paulista Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua Paschoal Contato, 500 – Jardim Paulista",
+          "bairro": "Jardim Paulista",
+          "telefone": "(16) 3300-2000",
+          "site": "https://jardimpaulistaimoveis.com.br",
+          "zap": "5516912345678",
+          "instagram": "jardimpaulistaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão",
+            "Comercial"
+          ],
+          "lat": -21.18,
+          "lng": -47.82
+        },
+        {
+          "nome": "Avenida do Café Imóveis",
+          "porte": "Médio",
+          "endereco": "Avenida do Café, 1200 – Jardim Nova Aliança",
+          "bairro": "Jardim Nova Aliança",
+          "telefone": "(16) 3400-3000",
+          "site": "https://avenidacafefimoveis.com.br",
+          "zap": "5516998765432",
+          "instagram": "avenidacafefimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -21.19,
+          "lng": -47.83
+        },
+        {
+          "nome": "Campos Elíseos Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua General Osório, 800 – Campos Elíseos",
+          "bairro": "Campos Elíseos",
+          "telefone": "(16) 3500-4000",
+          "site": null,
+          "zap": "5516976543210",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -21.16,
+          "lng": -47.8
+        },
+        {
+          "nome": "Presidente Medici Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Professor João Salles, 700 – Presidente Medici",
+          "bairro": "Presidente Medici",
+          "telefone": "(16) 3600-5000",
+          "site": null,
+          "zap": "5516988887777",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -21.2,
+          "lng": -47.84
+        }
+      ],
+      "Osasco": [
+        {
+          "nome": "Osasco Central Imóveis",
+          "porte": "Médio",
+          "endereco": "Avenida dos Autonomistas, 2000 – Centro",
+          "bairro": "Centro",
+          "telefone": "(11) 3000-1000",
+          "site": "https://osasasocentral.com.br",
+          "zap": "5511987654321",
+          "instagram": "osasasocentral",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.533333,
+          "lng": -46.783333
+        },
+        {
+          "nome": "Vila Yara Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Professor José Azevedo Minhoto, 500 – Vila Yara",
+          "bairro": "Vila Yara",
+          "telefone": "(11) 3100-2000",
+          "site": null,
+          "zap": "5511912345678",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.53,
+          "lng": -46.77
+        },
+        {
+          "nome": "Barueri Imóveis (Osasco)",
+          "porte": "Médio",
+          "endereco": "Avenida Maria Quitéria, 1500 – Vila Quitaúna",
+          "bairro": "Vila Quitaúna",
+          "telefone": "(11) 3200-3000",
+          "site": "https://barueriimoveis.com.br",
+          "zap": "5511998765432",
+          "instagram": "barueriimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.52,
+          "lng": -46.79
+        },
+        {
+          "nome": "Padre Eustáquio Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Padre Eustáquio, 800 – Padroeira",
+          "bairro": "Padroeira",
+          "telefone": "(11) 3300-4000",
+          "site": null,
+          "zap": "5511976543210",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.54,
+          "lng": -46.76
+        },
+        {
+          "nome": "Munhoz de Carvalho Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Munhoz de Carvalho, 700 – Veloso",
+          "bairro": "Veloso",
+          "telefone": "(11) 3400-5000",
+          "site": null,
+          "zap": "5511988887777",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.55,
+          "lng": -46.75
+        }
+      ],
+      "Sorocaba": [
+        {
+          "nome": "Sorocaba Central Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua XV de Novembro, 1200 – Centro",
+          "bairro": "Centro",
+          "telefone": "(15) 3000-1000",
+          "site": "https://sorocabacentral.com.br",
+          "zap": "5515987654321",
+          "instagram": "sorocabacentral",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.5,
+          "lng": -47.46
+        },
+        {
+          "nome": "Vila Assis Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Aparecida, 500 – Vila Assis",
+          "bairro": "Vila Assis",
+          "telefone": "(15) 3100-2000",
+          "site": null,
+          "zap": "5515912345678",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.51,
+          "lng": -47.45
+        },
+        {
+          "nome": "Jardim Paulistano Imóveis",
+          "porte": "Médio",
+          "endereco": "Avenida Juscelino Kubitschek, 1500 – Jardim Paulistano",
+          "bairro": "Jardim Paulistano",
+          "telefone": "(15) 3200-3000",
+          "site": "https://jardimpaulistanoimoveis.com.br",
+          "zap": "5515998765432",
+          "instagram": "jardimpaulistanoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.49,
+          "lng": -47.47
+        },
+        {
+          "nome": "Santa Terezinha Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua São Bento, 800 – Santa Terezinha",
+          "bairro": "Santa Terezinha",
+          "telefone": "(15) 3300-4000",
+          "site": null,
+          "zap": "5515976543210",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.52,
+          "lng": -47.44
+        },
+        {
+          "nome": "Parque das Nações Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua das Palmeiras, 700 – Parque das Nações",
+          "bairro": "Parque das Nações",
+          "telefone": "(15) 3400-5000",
+          "site": null,
+          "zap": "5515988887777",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.53,
+          "lng": -47.43
+        }
+      ],
+      "Santo André": [
+        {
+          "nome": "Santo André Central Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Coronel Oliveira Lima, 1000 – Centro",
+          "bairro": "Centro",
+          "telefone": "(11) 4000-1000",
+          "site": "https://sacentral.com.br",
+          "zap": "5511987651234",
+          "instagram": "sacentral",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.66,
+          "lng": -46.53
+        },
+        {
+          "nome": "Vila Gilda Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Marina, 500 – Vila Gilda",
+          "bairro": "Vila Gilda",
+          "telefone": "(11) 4100-2000",
+          "site": null,
+          "zap": "5511912345678",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.67,
+          "lng": -46.52
+        },
+        {
+          "nome": "Jardim Bela Vista Imóveis",
+          "porte": "Médio",
+          "endereco": "Avenida Dom Pedro II, 1500 – Jardim Bela Vista",
+          "bairro": "Jardim Bela Vista",
+          "telefone": "(11) 4200-3000",
+          "site": "https://jardimbellavista.com.br",
+          "zap": "5511998765432",
+          "instagram": "jardimbellavista",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.65,
+          "lng": -46.54
+        },
+        {
+          "nome": "Vila Matilde Imóveis (Santo André)",
+          "porte": "Pequeno",
+          "endereco": "Rua das Flores, 800 – Vila Matilde",
+          "bairro": "Vila Matilde",
+          "telefone": "(11) 4300-4000",
+          "site": null,
+          "zap": "5511976543210",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.68,
+          "lng": -46.51
+        },
+        {
+          "nome": "Vila América Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Tupinambás, 700 – Vila América",
+          "bairro": "Vila América",
+          "telefone": "(11) 4400-5000",
+          "site": null,
+          "zap": "5511988887777",
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.69,
+          "lng": -46.5
+        }
+      ],
+      "São José dos Campos": [
+        {
+          "nome": "SJC Central Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Rubião Júnior, 1000 – Centro",
+          "bairro": "Centro",
+          "telefone": "(12) 3000-1000",
+          "site": "https://sjccentral.com.br",
+          "zap": "5512987654321",
+          "instagram": "sjccentral",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.18,
+          "lng": -45.89
+        }
+      ]
+    }
+  },
+  "AM": {
+    "nome": "Amazonas",
+    "regiao": "Norte",
+    "cidades": {
+      "Manaus": [
+        {
+          "nome": "Manaus Imóveis Prime",
+          "porte": "Grande",
+          "endereco": "Av. Djalma Batista, 1500 – Chapada",
+          "bairro": "Chapada",
+          "telefone": "(92) 3234-5678",
+          "site": "https://manausimoveisprime.com.br",
+          "zap": "5592991234567",
+          "instagram": "manausimoveisprime",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Loteamentos"
+          ],
+          "lat": -3.119,
+          "lng": -60.0217
+        }
       ]
     }
   }
