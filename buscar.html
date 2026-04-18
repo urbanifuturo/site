@@ -149,7 +149,7 @@ header{background:var(--white);border-bottom:1px solid var(--border);height:60px
   <div class="hright">
     <a href="index.html" style="display:inline-flex;align-items:center;gap:5px;font-size:.8rem;font-weight:500;color:var(--muted);text-decoration:none;padding:6px 12px;border:1px solid var(--border);border-radius:7px;background:var(--white);transition:all .15s" onmouseover="this.style.color='var(--navy)'" onmouseout="this.style.color='var(--muted)'"><svg width="13" height="13" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 5l-7 7 7 7"/></svg> In&#237;cio</a>
     <button class="hlink" onclick="goHome()">Imobili&#225;rias em todo o Brasil</button>
-    <button class="settings-btn" onclick="openAdmin()" title="" id="adminBtn" style="display:none">
+    <button class="settings-btn" onclick="openAdmin()" title="" id="adminBtn" style="display:flex">
       <svg width="17" height="17" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06-.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
     </button>
   </div>
@@ -426,7 +426,14 @@ async function importUF(uf){
   if(btn.classList.contains('queued')){btn.classList.remove('queued');}
   const m=UFS[uf];btn.classList.add('loading');btn.innerHTML='<div class="spinner"></div> Buscando...';
   try{
-    const prompt=`Voc\u00ea \u00e9 um especialista em mercado imobili\u00e1rio brasileiro.\nGere dados de imobili\u00e1rias do estado de ${m.n} (${uf}).\n\nINSTRU\u00c7\u00d5ES:\n1. Inclua TODAS as cidades do estado que possuem imobili\u00e1rias ativas (m\u00ednimo 15 cidades; idealmente todas com mais de 10.000 habitantes).\n2. Para cada cidade, liste entre 8 e 12 imobili\u00e1rias com dados plaus\u00edveis e realistas.\n3. Use nomes de imobili\u00e1rias que soem locais e regionais.\n4. lat/lng devem ser coordenadas reais da cidade (n\u00e3o do estado).\n\nResponda SOMENTE com JSON v\u00e1lido, sem markdown, sem explica\u00e7\u00f5es:\n{\n  "cidades": {\n    "Nome da Cidade": [\n      {\n        "nome": "Nome da Imobili\u00e1ria",\n        "porte": "Grande|M\u00e9dio|Pequeno",\n        "endereco": "Rua X, 123 \u2013 Bairro",\n        "bairro": "Bairro",\n        "telefone": "(XX) XXXXX-XXXX",\n        "site": "https://site.com.br ou null",\n        "zap": "55XX9XXXXXXXX ou null",\n        "instagram": "handle_sem_arroba ou null",\n        "atuacao": ["Residencial","Comercial"],\n        "lat": -XX.XXXX,\n        "lng": -XX.XXXX\n      }\n    ]\n  }\n}\nUse null para campos sem dados.`;
+    // Detecta cidades existentes para pedir só as que faltam
+    const cidadesExistentes=Object.keys((DB[uf]&&DB[uf].cidades)||{});
+    // Limita a 10 cidades por lote para evitar JSON inválido
+    const LOTE=10;
+    const instrCidades=cidadesExistentes.length>0
+      ? 'CIDADES JÁ CADASTRADAS (NÃO REPITA ESTAS):\n'+cidadesExistentes.join(', ')+'\n\nRetorne APENAS '+LOTE+' cidades novas que NÃO estão na lista acima. Escolha as mais populosas ainda não cadastradas.'
+      : 'Retorne exatamente '+LOTE+' cidades do estado com mais imobiliárias ativas. Comece pelas mais populosas.';
+    const prompt='Você é um especialista em mercado imobiliário brasileiro.\nGere dados de imobiliárias do estado de '+m.n+' ('+uf+').\n\n'+instrCidades+'\n\nINSTRUÇÕES:\n1. Retorne EXATAMENTE '+LOTE+' cidades, nem mais nem menos.\n2. Para cada cidade liste entre 5 e 8 imobiliárias.\n3. Use nomes de imobiliárias locais e regionais realistas.\n4. lat/lng devem ser coordenadas reais do centro de cada cidade.\n5. Telefones com DDD correto da cidade.\n\nResponda SOMENTE com JSON valido, sem markdown, sem explicacoes:\n{"cidades":{"Nome da Cidade":[{"nome":"Nome","porte":"Grande|Medio|Pequeno","endereco":"Rua X, 123","bairro":"Bairro","telefone":"(XX) 9XXXX-XXXX","site":"https://site.com.br","zap":"55XX9XXXXXXXX","instagram":"handle","atuacao":["Residencial","Comercial"],"lat":-00.0000,"lng":-00.0000}]}}\nUse null para campos sem dados.';
     const resp=await fetch("/api/chat",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({messages:[{role:"user",content:prompt}]})});
     const data=await resp.json();
     if(data.error){
@@ -702,21 +709,43 @@ function init(){
     });
 }
 
-// Atalho secreto: Ctrl + Shift + A abre o admin
+// Atalho secreto: digitar "admin" abre o painel
+let _kseq='',_ktimer=null;
 document.addEventListener('keydown',function(e){
-  if(e.ctrlKey&&e.shiftKey&&e.key==='A'){e.preventDefault();openAdmin();}
+  if(e.ctrlKey||e.altKey||e.metaKey)return;
+  _kseq+=e.key.toLowerCase();
+  clearTimeout(_ktimer);
+  _ktimer=setTimeout(()=>{_kseq='';},2000);
+  if(_kseq.endsWith('admin')){_kseq='';openAdmin();}
 });
-// Toque secreto mobile: 5 toques rápidos no logo
+// Toque secreto mobile/desktop: 3 cliques rápidos no logo
 let _tapCount=0,_tapTimer=null;
 document.querySelector('.logo-wrap').addEventListener('click',function(){
   _tapCount++;
   clearTimeout(_tapTimer);
-  _tapTimer=setTimeout(()=>{_tapCount=0;},1500);
-  if(_tapCount>=5){_tapCount=0;openAdmin();}
+  _tapTimer=setTimeout(()=>{_tapCount=0;},1000);
+  if(_tapCount>=3){_tapCount=0;openAdmin();}
 });
 
 init();
 
+// Botão admin fixo
+(function(){
+  var b=document.createElement('button');
+  b.innerHTML='⚙';
+  b.title='Admin';
+  b.style.cssText='position:fixed;bottom:16px;right:16px;z-index:9999;background:#142058;color:#fff;border:none;border-radius:50%;width:44px;height:44px;font-size:1.2rem;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.3);display:flex;align-items:center;justify-content:center;';
+  b.addEventListener('click',function(e){
+    e.stopPropagation();
+    var m=document.getElementById('pinModal');
+    document.getElementById('pinIn').value='';
+    document.getElementById('perr').style.display='none';
+    m.style.display='flex';
+    m.classList.add('open');
+    setTimeout(function(){document.getElementById('pinIn').focus();},80);
+  });
+  document.body.appendChild(b);
+})();
 </script>
 </body>
 </html>
