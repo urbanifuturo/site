@@ -2513,5 +2513,44 @@
         }
       ]
     }
+  },
+  "RR": {
+    "nome": "Roraima",
+    "regiao": "Norte",
+    "cidades": {
+      "Boa Vista": [
+        {
+          "nome": "Boa Vista Imóveis",
+          "porte": "Grande",
+          "endereco": "Av. Major Williams, 1500",
+          "bairro": "Centro",
+          "telefone": "(95) 98123-4567",
+          "site": "https://boavistaimoveis.com.br",
+          "zap": "5595981234567",
+          "instagram": "@boavistaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": 2.8197,
+          "lng": -60.6733
+        },
+        {
+          "nome": "Norte Real Imobiliária",
+          "porte": "Médio",
+          "endereco": "Rua Ajuricaba, 880",
+          "bairro": "São Francisco",
+          "telefone": "(95) 98134-5678",
+          "site": "https://norterealimob.com.br",
+          "zap": "5595981345678",
+          "instagram": "@norterealimobiliaria",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": 2.8197,
+          "lng": -60.6733
+        }
+      ]
+    }
   }
 }
