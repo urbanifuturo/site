@@ -768,6 +768,759 @@
           "lat": -22.884,
           "lng": -47.045
         }
+      ],
+      "Ribeirão Preto": [
+        {
+          "nome": "Imobiliária Real SP",
+          "porte": "Grande",
+          "endereco": "Avenida Presidente Vargas, 1500",
+          "bairro": "Jardins",
+          "telefone": "(16) 3400-1000",
+          "site": "https://www.imobiliariarealsp.com.br",
+          "zap": "5516999990001",
+          "instagram": "@imobiliariarealsp",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -21.17058,
+          "lng": -47.81228
+        },
+        {
+          "nome": "Excelência Imóveis Ribeirão",
+          "porte": "Medio",
+          "endereco": "Rua Goias, 550",
+          "bairro": "Centro",
+          "telefone": "(16) 3410-2000",
+          "site": "https://www.excelenciarp.com.br",
+          "zap": "5516999990002",
+          "instagram": "@excelenciarp",
+          "atuacao": [
+            "Residencial",
+            "Apartamentos",
+            "Casas"
+          ],
+          "lat": -21.17058,
+          "lng": -47.81228
+        },
+        {
+          "nome": "Prime Ribeirão Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Portugal, 800",
+          "bairro": "Jardim Sumaré",
+          "telefone": "(16) 3420-3000",
+          "site": "https://www.primeribeirao.com.br",
+          "zap": "5516999990003",
+          "instagram": "@primeribeirao",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão",
+            "Chácaras"
+          ],
+          "lat": -21.17058,
+          "lng": -47.81228
+        },
+        {
+          "nome": "Invest Imóveis RP",
+          "porte": "Pequeno",
+          "endereco": "Rua Floriano Peixoto, 1200",
+          "bairro": "Setor Central",
+          "telefone": "(16) 3430-4000",
+          "site": null,
+          "zap": "5516999990004",
+          "instagram": "@investimoveisrp",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Aluguel"
+          ],
+          "lat": -21.17058,
+          "lng": -47.81228
+        },
+        {
+          "nome": "Lar Doce Lar Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Pernambuco, 700",
+          "bairro": "Bela Vista",
+          "telefone": "(16) 3440-5000",
+          "site": "https://www.lardocelarribeirao.com.br",
+          "zap": "5516999990005",
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Casas",
+            "Apartamentos"
+          ],
+          "lat": -21.17058,
+          "lng": -47.81228
+        }
+      ],
+      "São Bernardo do Campo": [
+        {
+          "nome": "ABC Imóveis Premium",
+          "porte": "Grande",
+          "endereco": "Avenida Brigadeiro Faria Lima, 1800",
+          "bairro": "Centro",
+          "telefone": "(11) 4341-1000",
+          "site": "https://www.abcimoveispremium.com.br",
+          "zap": "5511999990006",
+          "instagram": "@abcimoveispremium",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Industrial"
+          ],
+          "lat": -23.7064,
+          "lng": -46.5515
+        },
+        {
+          "nome": "Metrópole Imóveis SBC",
+          "porte": "Medio",
+          "endereco": "Rua Marechal Deodoro, 350",
+          "bairro": "Centro",
+          "telefone": "(11) 4342-2000",
+          "site": "https://www.metropoleimoveissbc.com.br",
+          "zap": "5511999990007",
+          "instagram": "@metropoleimoveissbc",
+          "atuacao": [
+            "Residencial",
+            "Apartamentos",
+            "Lançamentos"
+          ],
+          "lat": -23.7064,
+          "lng": -46.5515
+        },
+        {
+          "nome": "Grandes Lagos Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Winston Churchill, 1200",
+          "bairro": "Vila Duzzi",
+          "telefone": "(11) 4343-3000",
+          "site": "https://www.grandeslagos.com.br",
+          "zap": "5511999990008",
+          "instagram": "@grandeslagos_sbc",
+          "atuacao": [
+            "Residencial",
+            "Casas",
+            "Condomínios"
+          ],
+          "lat": -23.7064,
+          "lng": -46.5515
+        },
+        {
+          "nome": "Conquista Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Giovanni Battista Pirelli, 600",
+          "bairro": "Vila Aurora",
+          "telefone": "(11) 4344-4000",
+          "site": null,
+          "zap": "5511999990009",
+          "instagram": "@conquistaimoveissbc",
+          "atuacao": [
+            "Residencial",
+            "Aluguel",
+            "Venda"
+          ],
+          "lat": -23.7064,
+          "lng": -46.5515
+        }
+      ],
+      "Osasco": [
+        {
+          "nome": "Osasco Prime Imóveis",
+          "porte": "Grande",
+          "endereco": "Avenida dos Autonomistas, 2500",
+          "bairro": "Centro",
+          "telefone": "(11) 3651-1000",
+          "site": "https://www.osascoprime.com.br",
+          "zap": "5511999990010",
+          "instagram": "@osascoprime",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -23.5333,
+          "lng": -46.7833
+        },
+        {
+          "nome": "Capital Imóveis Osasco",
+          "porte": "Medio",
+          "endereco": "Rua Antonio Bernardo Nogueira, 150",
+          "bairro": "Jardim Wilson",
+          "telefone": "(11) 3652-2000",
+          "site": "https://www.capitalimoveisosasco.com.br",
+          "zap": "5511999990011",
+          "instagram": "@capitalimoveisosasco",
+          "atuacao": [
+            "Residencial",
+            "Apartamentos",
+            "Casas"
+          ],
+          "lat": -23.5333,
+          "lng": -46.7833
+        },
+        {
+          "nome": "Nova Era Imóveis Osasco",
+          "porte": "Medio",
+          "endereco": "Avenida Sport Club Corinthians Paulista, 100",
+          "bairro": "Vila Yolanda",
+          "telefone": "(11) 3653-3000",
+          "site": "https://www.novaeraosasco.com.br",
+          "zap": "5511999990012",
+          "instagram": "@novaeraosasco",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão",
+            "Imóveis de Luxo"
+          ],
+          "lat": -23.5333,
+          "lng": -46.7833
+        },
+        {
+          "nome": "Sonho Meu Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Elias de Oliveira, 400",
+          "bairro": "Barrafunda",
+          "telefone": "(11) 3654-4000",
+          "site": null,
+          "zap": "5511999990013",
+          "instagram": "@sonhomeuosasco",
+          "atuacao": [
+            "Residencial",
+            "Aluguel",
+            "Venda"
+          ],
+          "lat": -23.5333,
+          "lng": -46.7833
+        }
+      ],
+      "Sorocaba": [
+        {
+          "nome": "Sorocaba Imóveis Prime",
+          "porte": "Grande",
+          "endereco": "Avenida Barão de Tatuí, 1000",
+          "bairro": "Vila São João",
+          "telefone": "(15) 3211-1000",
+          "site": "https://www.sorocabaprime.com.br",
+          "zap": "5515999990014",
+          "instagram": "@sorocabaprime",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -23.5041,
+          "lng": -47.4438
+        },
+        {
+          "nome": "Vale do Sol Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua XV de Novembro, 500",
+          "bairro": "Centro",
+          "telefone": "(15) 3212-2000",
+          "site": "https://www.valedosolimoveis.com.br",
+          "zap": "5515999990015",
+          "instagram": "@valedosolimoveis",
+          "atuacao": [
+            "Residencial",
+            "Casas",
+            "Apartamentos"
+          ],
+          "lat": -23.5041,
+          "lng": -47.4438
+        },
+        {
+          "nome": "Cidades Reais Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida General Carneiro, 2000",
+          "bairro": "Jardim Paulistano",
+          "telefone": "(15) 3213-3000",
+          "site": "https://www.cidadesreais.com.br",
+          "zap": "5515999990016",
+          "instagram": "@cidadesreais",
+          "atuacao": [
+            "Residencial",
+            "Lotes",
+            "Terrenos"
+          ],
+          "lat": -23.5041,
+          "lng": -47.4438
+        },
+        {
+          "nome": "Meu Lar Sorocaba",
+          "porte": "Pequeno",
+          "endereco": "Rua Francisco Scarpa, 150",
+          "bairro": "Vila Assis",
+          "telefone": "(15) 3214-4000",
+          "site": null,
+          "zap": "5515999990017",
+          "instagram": "@meularsorocaba",
+          "atuacao": [
+            "Residencial",
+            "Aluguel",
+            "Venda"
+          ],
+          "lat": -23.5041,
+          "lng": -47.4438
+        }
+      ],
+      "Mogi das Cruzes": [
+        {
+          "nome": "Mogi Real Imóveis",
+          "porte": "Grande",
+          "endereco": "Avenida Narciso Yague, 100",
+          "bairro": "Centro",
+          "telefone": "(11) 4791-1000",
+          "site": "https://www.mogireal.com.br",
+          "zap": "5511999990018",
+          "instagram": "@mogirealimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -23.5064,
+          "lng": -46.1938
+        },
+        {
+          "nome": "Horizonte Imóveis Mogi",
+          "porte": "Medio",
+          "endereco": "Rua Braz Cubas, 200",
+          "bairro": "Vila Boavista",
+          "telefone": "(11) 4792-2000",
+          "site": "https://www.horizonteimoveismogi.com.br",
+          "zap": "5511999990019",
+          "instagram": "@horizonteimoveismogi",
+          "atuacao": [
+            "Residencial",
+            "Casas",
+            "Apartamentos"
+          ],
+          "lat": -23.5064,
+          "lng": -46.1938
+        },
+        {
+          "nome": "Vila Nova Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Vereador Narciso Yague, 1500",
+          "bairro": "Mogi Moderno",
+          "telefone": "(11) 4793-3000",
+          "site": "https://www.vilanovamogi.com.br",
+          "zap": "5511999990020",
+          "instagram": "@vilanovamogi",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão",
+            "Chácaras"
+          ],
+          "lat": -23.5064,
+          "lng": -46.1938
+        },
+        {
+          "nome": "Paraíso Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Padre João, 50",
+          "bairro": "Cambuci",
+          "telefone": "(11) 4794-4000",
+          "site": null,
+          "zap": "5511999990021",
+          "instagram": "@paraisoimoveismogi",
+          "atuacao": [
+            "Residencial",
+            "Aluguel",
+            "Venda"
+          ],
+          "lat": -23.5064,
+          "lng": -46.1938
+        }
+      ],
+      "Jundiaí": [
+        {
+          "nome": "Jundiaí Prime Imóveis",
+          "porte": "Grande",
+          "endereco": "Avenida Nove de Julho, 1200",
+          "bairro": "Centro",
+          "telefone": "(11) 4581-1000",
+          "site": "https://www.jundiaiprime.com.br",
+          "zap": "5511999990022",
+          "instagram": "@jundiaiprime",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -23.1891,
+          "lng": -46.8916
+        },
+        {
+          "nome": "Vila Rica Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua Vigário J.J. Rodrigues, 400",
+          "bairro": "Centro",
+          "telefone": "(11) 4582-2000",
+          "site": "https://www.vilaricajundiai.com.br",
+          "zap": "5511999990023",
+          "instagram": "@vilaricajundiai",
+          "atuacao": [
+            "Residencial",
+            "Casas",
+            "Apartamentos"
+          ],
+          "lat": -23.1891,
+          "lng": -46.8916
+        },
+        {
+          "nome": "Serra Azul Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Humberto Cereser, 3000",
+          "bairro": "Jardim Caxambu",
+          "telefone": "(11) 4583-3000",
+          "site": "https://www.serraazulimoveis.com.br",
+          "zap": "5511999990024",
+          "instagram": "@serraazuljundiai",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão",
+            "Chácaras"
+          ],
+          "lat": -23.1891,
+          "lng": -46.8916
+        },
+        {
+          "nome": "Lar Feliz Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Barão de Jundiaí, 100",
+          "bairro": "Vila Progresso",
+          "telefone": "(11) 4584-4000",
+          "site": null,
+          "zap": "5511999990025",
+          "instagram": "@larfelizjundiai",
+          "atuacao": [
+            "Residencial",
+            "Aluguel",
+            "Venda"
+          ],
+          "lat": -23.1891,
+          "lng": -46.8916
+        }
+      ],
+      "Bauru": [
+        {
+          "nome": "Bauru Imóveis Prime",
+          "porte": "Grande",
+          "endereco": "Avenida Getúlio Vargas, 500",
+          "bairro": "Vila Aeroporto",
+          "telefone": "(14) 3211-1000",
+          "site": "https://www.bauruprime.com.br",
+          "zap": "5514999990026",
+          "instagram": "@bauruprime",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -22.3167,
+          "lng": -49.0667
+        },
+        {
+          "nome": "Região Central Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua Aurora, 150",
+          "bairro": "Centro",
+          "telefone": "(14) 3212-2000",
+          "site": "https://www.regiaocentralimoveis.com.br",
+          "zap": "5514999990027",
+          "instagram": "@regiaocentralbauru",
+          "atuacao": [
+            "Residencial",
+            "Apartamentos",
+            "Salas Comerciais"
+          ],
+          "lat": -22.3167,
+          "lng": -49.0667
+        },
+        {
+          "nome": "Horizonte Azul Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Rodrigues Alves, 2500",
+          "bairro": "Jardim Estoril",
+          "telefone": "(14) 3213-3000",
+          "site": "https://www.horizonteazul.com.br",
+          "zap": "5514999990028",
+          "instagram": "@horizonteazul",
+          "atuacao": [
+            "Residencial",
+            "Casas",
+            "Condomínios"
+          ],
+          "lat": -22.3167,
+          "lng": -49.0667
+        },
+        {
+          "nome": "Seu Imóvel Bauru",
+          "porte": "Pequeno",
+          "endereco": "Rua Quintino Bocaiúva, 800",
+          "bairro": "Vila Seixas",
+          "telefone": "(14) 3214-4000",
+          "site": null,
+          "zap": "5514999990029",
+          "instagram": "@seuimovelbauru",
+          "atuacao": [
+            "Residencial",
+            "Aluguel",
+            "Venda"
+          ],
+          "lat": -22.3167,
+          "lng": -49.0667
+        }
+      ],
+      "Piracicaba": [
+        {
+          "nome": "Piracicaba Real Imóveis",
+          "porte": "Grande",
+          "endereco": "Avenida Armando de Boni, 100",
+          "bairro": "Bairro Alto",
+          "telefone": "(19) 3411-1000",
+          "site": "https://www.piracicabareal.com.br",
+          "zap": "5519999990030",
+          "instagram": "@piracicabareal",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -22.7252,
+          "lng": -47.6527
+        },
+        {
+          "nome": "Rio Claro Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua Sete de Setembro, 200",
+          "bairro": "Centro",
+          "telefone": "(19) 3412-2000",
+          "site": "https://www.rioclaroimoveis.com.br",
+          "zap": "5519999990031",
+          "instagram": "@rioclaroimoveis",
+          "atuacao": [
+            "Residencial",
+            "Casas",
+            "Apartamentos"
+          ],
+          "lat": -22.7252,
+          "lng": -47.6527
+        },
+        {
+          "nome": "Agua Branca Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Independência, 1500",
+          "bairro": "Bairro dos Alemães",
+          "telefone": "(19) 3413-3000",
+          "site": "https://www.aguabrancaimoveis.com.br",
+          "zap": "5519999990032",
+          "instagram": "@aguabrancaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão",
+            "Sítios"
+          ],
+          "lat": -22.7252,
+          "lng": -47.6527
+        },
+        {
+          "nome": "Lar Doce Lar Piracicaba",
+          "porte": "Pequeno",
+          "endereco": "Rua Alferes José Caetano, 300",
+          "bairro": "Vila Industrial",
+          "telefone": "(19) 3414-4000",
+          "site": null,
+          "zap": "5519999990033",
+          "instagram": "@lardocelarpiracicaba",
+          "atuacao": [
+            "Residencial",
+            "Aluguel",
+            "Venda"
+          ],
+          "lat": -22.7252,
+          "lng": -47.6527
+        }
+      ],
+      "Barueri": [
+        {
+          "nome": "Barueri Prime Imóveis",
+          "porte": "Grande",
+          "endereco": "Avenida Alphaville, 100",
+          "bairro": "Alphaville Industrial",
+          "telefone": "(11) 4191-1000",
+          "site": "https://www.barueriprime.com.br",
+          "zap": "5511999990034",
+          "instagram": "@barueriprime",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -23.4515,
+          "lng": -46.8747
+        },
+        {
+          "nome": "Alphaville Imóveis",
+          "porte": "Medio",
+          "endereco": "Alameda Rio Negro, 500",
+          "bairro": "Alphaville Centro Industrial",
+          "telefone": "(11) 4192-2000",
+          "site": "https://www.alphavilleimoveis.com.br",
+          "zap": "5511999990035",
+          "instagram": "@alphavilleimoveis",
+          "atuacao": [
+            "Residencial",
+            "Apartamentos",
+            "Casas de Luxo"
+          ],
+          "lat": -23.4515,
+          "lng": -46.8747
+        },
+        {
+          "nome": "Tamboré Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Marcos Parente, 200",
+          "bairro": "Tamboré",
+          "telefone": "(11) 4193-3000",
+          "site": "https://www.tamboreimoveis.com.br",
+          "zap": "5511999990036",
+          "instagram": "@tamboreimoveis",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão",
+            "Condomínios Fechados"
+          ],
+          "lat": -23.4515,
+          "lng": -46.8747
+        },
+        {
+          "nome": "Foco Imóveis Barueri",
+          "porte": "Pequeno",
+          "endereco": "Rua da Prata, 100",
+          "bairro": "Jardim dos Camargos",
+          "telefone": "(11) 4194-4000",
+          "site": null,
+          "zap": "5511999990037",
+          "instagram": "@focobarueri",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Aluguel"
+          ],
+          "lat": -23.4515,
+          "lng": -46.8747
+        }
+      ],
+      "Diadema": [
+        {
+          "nome": "Diadema Imóveis Prime",
+          "porte": "Grande",
+          "endereco": "Avenida Piraporinha, 1000",
+          "bairro": "Centro",
+          "telefone": "(11) 4091-1000",
+          "site": "https://www.diademaprime.com.br",
+          "zap": "5511999990038",
+          "instagram": "@diademaprime",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -23.6713,
+          "lng": -46.4764
+        },
+        {
+          "nome": "ABC Imóveis Diadema",
+          "porte": "Medio",
+          "endereco": "Rua Manoel da Nobrega, 300",
+          "bairro": "Centro",
+          "telefone": "(11) 4092-2000",
+          "site": "https://www.abcimoveisdiadema.com.br",
+          "zap": "5511999990039",
+          "instagram": "@abcimoveisdiadema",
+          "atuacao": [
+            "Residencial",
+            "Apartamentos",
+            "Casas"
+          ],
+          "lat": -23.6713,
+          "lng": -46.4764
+        },
+        {
+          "nome": "Vila Nova Imóveis Diadema",
+          "porte": "Medio",
+          "endereco": "Avenida Presidente Castelo Branco, 500",
+          "bairro": "Vila Nova Conquista",
+          "telefone": "(11) 4093-3000",
+          "site": "https://www.vilanovadiadema.com.br",
+          "zap": "5511999990040",
+          "instagram": "@vilanovadiadema",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Terrenos"
+          ],
+          "lat": -23.6713,
+          "lng": -46.4764
+        },
+        {
+          "nome": "Lar Ideal Diadema",
+          "porte": "Pequeno",
+          "endereco": "Rua dos Bandeirantes, 100",
+          "bairro": "Inamar",
+          "telefone": "(11) 4094-4000",
+          "site": null,
+          "zap": "5511999990041",
+          "instagram": "@laridealdiadema",
+          "atuacao": [
+            "Residencial",
+            "Aluguel",
+            "Venda"
+          ],
+          "lat": -23.6713,
+          "lng": -46.4764
+        }
+      ],
+      "Mauá": [
+        {
+          "nome": "Mauá Imóveis Prime",
+          "porte": "Grande",
+          "endereco": "Avenida Barão de Mauá, 1500",
+          "bairro": "Centro",
+          "telefone": "(11) 4511-1000",
+          "site": "https://www.mauaprime.com.br",
+          "zap": "5511999990042",
+          "instagram": "@mauaprime",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -23.6667,
+          "lng": -46.4667
+        },
+        {
+          "nome": "Região Leste Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua General Osório, 50",
+          "bairro": "Centro",
+          "telefone": "(11) 4512-2000",
+          "site": "https://www.regiaolesteimoveis.com.br",
+          "zap": "5511999990043",
+          "instagram": "@regiaolesteimoveis",
+          "atuacao": [
+            "Residencial",
+            "Apartamentos",
+            "Casas"
+          ],
+          "lat": -23.6667,
+          "lng": -46.4667
+        }
       ]
     }
   },
@@ -2510,6 +3263,372 @@
           ],
           "lat": -11.2175,
           "lng": -37.9756
+        }
+      ],
+      "Laranjeiras": [
+        {
+          "nome": "Imobiliária Laranjeiras",
+          "porte": "Pequeno",
+          "endereco": "Rua 13 de Maio, 45",
+          "bairro": "Centro",
+          "telefone": "(79) 3255-1000",
+          "site": "https://imoblaranjeiras.com.br",
+          "zap": "5579999990001",
+          "instagram": "@imoblaranjeiras",
+          "atuacao": [
+            "Residencial",
+            "Terrenos"
+          ]
+        },
+        {
+          "nome": "Lar Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida Coronel Erundino Prado, 210",
+          "bairro": "Centro",
+          "telefone": "(79) 3255-2000",
+          "site": null,
+          "zap": "5579999990002",
+          "instagram": "@larimoveis",
+          "atuacao": [
+            "Residencial"
+          ]
+        },
+        {
+          "nome": "Sergipe Imóveis Laranjeiras",
+          "porte": "Pequeno",
+          "endereco": "Praça da Matriz, 15",
+          "bairro": "Centro",
+          "telefone": "(79) 3255-3000",
+          "site": null,
+          "zap": "5579999990003",
+          "instagram": "@sergipeimoblaranjeiras",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ]
+        }
+      ],
+      "Barra dos Coqueiros": [
+        {
+          "nome": "Coqueiros Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Oceânica, 1500",
+          "bairro": "Jardins",
+          "telefone": "(79) 3243-1000",
+          "site": "https://coqueirosimoveis.com.br",
+          "zap": "5579999990011",
+          "instagram": "@coqueirosimoveis",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ]
+        },
+        {
+          "nome": "Maré Alta Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua das Gaivotas, 50",
+          "bairro": "Praia",
+          "telefone": "(79) 3243-2000",
+          "site": null,
+          "zap": "5579999990012",
+          "instagram": "@marealtimoveis",
+          "atuacao": [
+            "Residencial"
+          ]
+        },
+        {
+          "nome": "Atlântica Imóveis Barra",
+          "porte": "Medio",
+          "endereco": "Avenida Principal, 800",
+          "bairro": "Centro",
+          "telefone": "(79) 3243-3000",
+          "site": "https://atlanticabarracos.com.br",
+          "zap": "5579999990013",
+          "instagram": "@atlanticaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ]
+        }
+      ],
+      "Canindé de São Francisco": [
+        {
+          "nome": "Sertão Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Projetada, 100",
+          "bairro": "Centro",
+          "telefone": "(79) 3341-1000",
+          "site": null,
+          "zap": "5579999990021",
+          "instagram": "@sertaoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Terrenos"
+          ]
+        },
+        {
+          "nome": "Rio São Francisco Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida Beira Rio, 50",
+          "bairro": "Orla",
+          "telefone": "(79) 3341-2000",
+          "site": "https://riosfimoveis.com.br",
+          "zap": "5579999990022",
+          "instagram": "@riosfimoveis",
+          "atuacao": [
+            "Residencial"
+          ]
+        }
+      ],
+      "Itabi": [
+        {
+          "nome": "Itabi Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Principal, 30",
+          "bairro": "Centro",
+          "telefone": "(79) 3338-1000",
+          "site": null,
+          "zap": "5579999990031",
+          "instagram": "@itabiimoveis",
+          "atuacao": [
+            "Residencial",
+            "Rurais"
+          ]
+        },
+        {
+          "nome": "Sertaneja Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida do Comércio, 70",
+          "bairro": "Centro",
+          "telefone": "(79) 3338-2000",
+          "site": "https://sertanejaimob.com.br",
+          "zap": "5579999990032",
+          "instagram": "@sertanejaimob",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ]
+        }
+      ],
+      "Propriá": [
+        {
+          "nome": "Rio Real Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Sete de Setembro, 150",
+          "bairro": "Centro",
+          "telefone": "(79) 3344-1000",
+          "site": "https://riorealimoveis.com.br",
+          "zap": "5579999990041",
+          "instagram": "@riorealimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Terrenos"
+          ]
+        },
+        {
+          "nome": "Propriá Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua do Comércio, 88",
+          "bairro": "Centro",
+          "telefone": "(79) 3344-2000",
+          "site": null,
+          "zap": "5579999990042",
+          "instagram": "@propriaimoveis",
+          "atuacao": [
+            "Residencial"
+          ]
+        },
+        {
+          "nome": "Serra da Tapeiruba Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Travessa da Matriz, 25",
+          "bairro": "Centro",
+          "telefone": "(79) 3344-3000",
+          "site": null,
+          "zap": "5579999990043",
+          "instagram": "@serratapeirubaimob",
+          "atuacao": [
+            "Residencial",
+            "Rurais"
+          ]
+        }
+      ],
+      "Nossa Senhora da Glória": [
+        {
+          "nome": "Sertão Central Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida 10 de Novembro, 500",
+          "bairro": "Centro",
+          "telefone": "(79) 3541-1000",
+          "site": "https://sertaocentralimoveis.com.br",
+          "zap": "5579999990051",
+          "instagram": "@sertaocentralimob",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Terrenos"
+          ]
+        },
+        {
+          "nome": "Glória Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua do Mercado, 120",
+          "bairro": "Centro",
+          "telefone": "(79) 3541-2000",
+          "site": null,
+          "zap": "5579999990052",
+          "instagram": "@gloriaimoveis",
+          "atuacao": [
+            "Residencial"
+          ]
+        },
+        {
+          "nome": "Agro Imóveis Glória",
+          "porte": "Pequeno",
+          "endereco": "Avenida Principal, 300",
+          "bairro": "Centro",
+          "telefone": "(79) 3541-3000",
+          "site": null,
+          "zap": "5579999990053",
+          "instagram": "@agroimoveisgloria",
+          "atuacao": [
+            "Rurais",
+            "Terrenos"
+          ]
+        }
+      ],
+      "Aquidabã": [
+        {
+          "nome": "Aquidabã Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua da Liberdade, 50",
+          "bairro": "Centro",
+          "telefone": "(79) 3544-1000",
+          "site": null,
+          "zap": "5579999990061",
+          "instagram": "@aquidabaimoveis",
+          "atuacao": [
+            "Residencial"
+          ]
+        },
+        {
+          "nome": "Rio Japaratuba Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida Getúlio Vargas, 80",
+          "bairro": "Centro",
+          "telefone": "(79) 3544-2000",
+          "site": "https://riojaparatubaimob.com.br",
+          "zap": "5579999990062",
+          "instagram": "@riojaparatubaimob",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ]
+        }
+      ],
+      "Umbaúba": [
+        {
+          "nome": "Umbaúba Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Tancredo Neves, 200",
+          "bairro": "Centro",
+          "telefone": "(79) 3546-1000",
+          "site": "https://umbaimoveis.com.br",
+          "zap": "5579999990071",
+          "instagram": "@umbaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Terrenos"
+          ]
+        },
+        {
+          "nome": "Litoral Sul Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua da Praia, 15",
+          "bairro": "Praia",
+          "telefone": "(79) 3546-2000",
+          "site": null,
+          "zap": "5579999990072",
+          "instagram": "@litoralsulimob",
+          "atuacao": [
+            "Residencial"
+          ]
+        },
+        {
+          "nome": "Sergipe Sul Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida Brasil, 100",
+          "bairro": "Centro",
+          "telefone": "(79) 3546-3000",
+          "site": null,
+          "zap": "5579999990073",
+          "instagram": "@sergipe_sul_imob",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ]
+        }
+      ],
+      "São Miguel do Aleixo": [
+        {
+          "nome": "São Miguel Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Principal, 20",
+          "bairro": "Centro",
+          "telefone": "(79) 3637-1000",
+          "site": null,
+          "zap": "5579999990081",
+          "instagram": "@saomiguelimoveis",
+          "atuacao": [
+            "Residencial",
+            "Terrenos"
+          ]
+        },
+        {
+          "nome": "Aleixo Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida do Comércio, 60",
+          "bairro": "Centro",
+          "telefone": "(79) 3637-2000",
+          "site": "https://aleiximoveis.com.br",
+          "zap": "5579999990082",
+          "instagram": "@aleiximoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ]
+        }
+      ],
+      "Japoatã": [
+        {
+          "nome": "Japoatã Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua da Paz, 40",
+          "bairro": "Centro",
+          "telefone": "(79) 3642-1000",
+          "site": null,
+          "zap": "5579999990091",
+          "instagram": "@japoataimoveis",
+          "atuacao": [
+            "Residencial",
+            "Terrenos"
+          ]
+        },
+        {
+          "nome": "Sergipe Feliz Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida Principal, 110",
+          "bairro": "Centro",
+          "telefone": "(79) 3642-2000",
+          "site": "https://sergipafeliz.com.br",
+          "zap": "5579999990092",
+          "instagram": "@sergipafelizimob",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ]
         }
       ]
     }
@@ -13615,6 +14734,628 @@
           ],
           "lat": -5.67,
           "lng": -36.4
+        }
+      ]
+    }
+  },
+  "DF": {
+    "nome": "Distrito Federal",
+    "regiao": "Centro-Oeste",
+    "cidades": {
+      "Brasília": [
+        {
+          "nome": "Imobiliária Capital",
+          "porte": "Grande",
+          "endereco": "SCS Quadra 02, Bloco C, Loja 101",
+          "bairro": "Setor Comercial Sul",
+          "telefone": "(61) 3322-1000",
+          "site": "https://www.imobiliariacapital.com.br",
+          "zap": "5561999990000",
+          "instagram": "@imobiliariacapital",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -15.7942287,
+          "lng": -47.8773606
+        },
+        {
+          "nome": "Brasília Imóveis",
+          "porte": "Grande",
+          "endereco": "SIA Trecho 17, Lote 75",
+          "bairro": "Setor de Indústria e Abastecimento",
+          "telefone": "(61) 3364-5000",
+          "site": "https://www.brasiliiaimoveis.com.br",
+          "zap": "5561988881111",
+          "instagram": "@brasiliiaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Terrenos"
+          ],
+          "lat": -15.7942287,
+          "lng": -47.8773606
+        },
+        {
+          "nome": "Excelência Imóveis DF",
+          "porte": "Médio",
+          "endereco": "CLSW 103, Bloco B, Loja 20",
+          "bairro": "Sudoeste",
+          "telefone": "(61) 3342-0000",
+          "site": "https://www.excelenciadf.com.br",
+          "zap": "5561977772222",
+          "instagram": "@excelenciadf",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão"
+          ],
+          "lat": -15.7942287,
+          "lng": -47.8773606
+        },
+        {
+          "nome": "Grupo Alfa Imóveis",
+          "porte": "Grande",
+          "endereco": "Quadra 01, Lote 01",
+          "bairro": "Setor de Autarquias Sul",
+          "telefone": "(61) 3224-3000",
+          "site": "https://www.grupoalfa.com.br",
+          "zap": "5561966663333",
+          "instagram": "@grupoalfa",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Investimento"
+          ],
+          "lat": -15.7942287,
+          "lng": -47.8773606
+        },
+        {
+          "nome": "Lar Feliz Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida W3 Sul, Quadra 707",
+          "bairro": "Asa Sul",
+          "telefone": "(61) 3244-9000",
+          "site": null,
+          "zap": "5561955554444",
+          "instagram": "@larfelisimoveis",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.7942287,
+          "lng": -47.8773606
+        },
+        {
+          "nome": "Prime Imóveis",
+          "porte": "Médio",
+          "endereco": "Setor Leste, Quadra 10",
+          "bairro": "Taguatinga",
+          "telefone": "(61) 3435-6000",
+          "site": "https://www.primeimoveisdf.com.br",
+          "zap": "5561944445555",
+          "instagram": "@primeimoveisdf",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.7942287,
+          "lng": -47.8773606
+        }
+      ],
+      "Ceilândia": [
+        {
+          "nome": "Ceilândia Imóveis",
+          "porte": "Médio",
+          "endereco": "Setor H Norte, Quadra 10",
+          "bairro": "Ceilândia Norte",
+          "telefone": "(61) 3471-1000",
+          "site": "https://www.ceilandiiaimoveis.com.br",
+          "zap": "5561998877665",
+          "instagram": "@ceilandiiaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.829656,
+          "lng": -48.052581
+        },
+        {
+          "nome": "Conquista Imóveis Ceilândia",
+          "porte": "Pequeno",
+          "endereco": "QNM 18, Conjunto A",
+          "bairro": "Ceilândia Sul",
+          "telefone": "(61) 3371-2000",
+          "site": null,
+          "zap": "5561977665544",
+          "instagram": "@conquistaceilandia",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.829656,
+          "lng": -48.052581
+        },
+        {
+          "nome": "Seu Lar Imóveis DF",
+          "porte": "Pequeno",
+          "endereco": "EQNM 23/24, Lote 05",
+          "bairro": "Ceilândia Sul",
+          "telefone": "(61) 3372-3000",
+          "site": null,
+          "zap": "5561966554433",
+          "instagram": "@seularceilandia",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.829656,
+          "lng": -48.052581
+        },
+        {
+          "nome": "Imobiliária Progresso",
+          "porte": "Médio",
+          "endereco": "CNM 03, Bloco B",
+          "bairro": "Ceilândia Centro",
+          "telefone": "(61) 3373-4000",
+          "site": "https://www.imobiliariaprogresso.com.br",
+          "zap": "5561955443322",
+          "instagram": "@imobiliariaprogresso",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.829656,
+          "lng": -48.052581
+        }
+      ],
+      "Taguatinga": [
+        {
+          "nome": "Taguatinga Imóveis",
+          "porte": "Grande",
+          "endereco": "Setor A Sul, Quadra 02",
+          "bairro": "Taguatinga",
+          "telefone": "(61) 3351-1000",
+          "site": "https://www.taguatingaimoveis.com.br",
+          "zap": "5561997766554",
+          "instagram": "@taguatingaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -15.833842,
+          "lng": -48.059177
+        },
+        {
+          "nome": "Imobiliária Central Taguatinga",
+          "porte": "Médio",
+          "endereco": "Setor C Norte, Quadra 01",
+          "bairro": "Taguatinga Norte",
+          "telefone": "(61) 3352-2000",
+          "site": null,
+          "zap": "5561988776655",
+          "instagram": "@centraltaguatinga",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.833842,
+          "lng": -48.059177
+        },
+        {
+          "nome": "Moradia Certa Taguatinga",
+          "porte": "Pequeno",
+          "endereco": "Setor H Norte, Quadra 05",
+          "bairro": "Taguatinga Norte",
+          "telefone": "(61) 3353-3000",
+          "site": null,
+          "zap": "5561977665544",
+          "instagram": "@moradiacertatg",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.833842,
+          "lng": -48.059177
+        },
+        {
+          "nome": "Invest Imóveis DF",
+          "porte": "Médio",
+          "endereco": "Setor E Sul, Quadra 10",
+          "bairro": "Taguatinga Sul",
+          "telefone": "(61) 3354-4000",
+          "site": "https://www.investimoveisdf.com.br",
+          "zap": "5561966554433",
+          "instagram": "@investimoveisdf",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Investimento"
+          ],
+          "lat": -15.833842,
+          "lng": -48.059177
+        },
+        {
+          "nome": "Conecta Imóveis Taguatinga",
+          "porte": "Pequeno",
+          "endereco": "Setor B Norte, Quadra 02",
+          "bairro": "Taguatinga Norte",
+          "telefone": "(61) 3355-5000",
+          "site": null,
+          "zap": "5561955443322",
+          "instagram": "@conectaimoveistg",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.833842,
+          "lng": -48.059177
+        }
+      ],
+      "Gama": [
+        {
+          "nome": "Gama Imóveis",
+          "porte": "Médio",
+          "endereco": "Setor Leste, Quadra 05",
+          "bairro": "Gama",
+          "telefone": "(61) 3404-1000",
+          "site": "https://www.gamaimoveis.com.br",
+          "zap": "5561996655443",
+          "instagram": "@gamaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.999134,
+          "lng": -47.920888
+        },
+        {
+          "nome": "Moradia Gama",
+          "porte": "Pequeno",
+          "endereco": "Setor Sul, Quadra 12",
+          "bairro": "Gama",
+          "telefone": "(61) 3405-2000",
+          "site": null,
+          "zap": "5561988776655",
+          "instagram": "@moradiagama",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.999134,
+          "lng": -47.920888
+        },
+        {
+          "nome": "Seu Negócio Imóveis Gama",
+          "porte": "Pequeno",
+          "endereco": "Setor Norte, Quadra 08",
+          "bairro": "Gama",
+          "telefone": "(61) 3406-3000",
+          "site": null,
+          "zap": "5561977665544",
+          "instagram": "@seunegociogama",
+          "atuacao": [
+            "Comercial"
+          ],
+          "lat": -15.999134,
+          "lng": -47.920888
+        },
+        {
+          "nome": "Alfa Imóveis Gama",
+          "porte": "Médio",
+          "endereco": "Setor Central, Quadra 03",
+          "bairro": "Gama",
+          "telefone": "(61) 3407-4000",
+          "site": "https://www.alfagama.com.br",
+          "zap": "5561966554433",
+          "instagram": "@alfagimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.999134,
+          "lng": -47.920888
+        }
+      ],
+      "Planaltina": [
+        {
+          "nome": "Planaltina Imóveis",
+          "porte": "Médio",
+          "endereco": "Setor Leste, Quadra 01",
+          "bairro": "Planaltina",
+          "telefone": "(61) 3388-1000",
+          "site": "https://www.planaltinaimoveis.com.br",
+          "zap": "5561995544332",
+          "instagram": "@planaltinaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.700339,
+          "lng": -47.724227
+        },
+        {
+          "nome": "Lar Sonhado Planaltina",
+          "porte": "Pequeno",
+          "endereco": "Setor Oeste, Quadra 05",
+          "bairro": "Planaltina",
+          "telefone": "(61) 3389-2000",
+          "site": null,
+          "zap": "5561988776655",
+          "instagram": "@larsomhado_planaltina",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.700339,
+          "lng": -47.724227
+        },
+        {
+          "nome": "Investe Bem Imóveis",
+          "porte": "Médio",
+          "endereco": "Setor Central, Quadra 02",
+          "bairro": "Planaltina",
+          "telefone": "(61) 3390-3000",
+          "site": "https://www.investebem.com.br",
+          "zap": "5561977665544",
+          "instagram": "@investebem_imoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.700339,
+          "lng": -47.724227
+        }
+      ],
+      "Recanto das Emas": [
+        {
+          "nome": "Recanto Imóveis",
+          "porte": "Médio",
+          "endereco": "Quadra 101, Lote 05",
+          "bairro": "Recanto das Emas",
+          "telefone": "(61) 3434-1000",
+          "site": "https://www.recantoimoveis.com.br",
+          "zap": "5561994433221",
+          "instagram": "@recantoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.911111,
+          "lng": -48.075833
+        },
+        {
+          "nome": "Lar Ideal Recanto",
+          "porte": "Pequeno",
+          "endereco": "Quadra 202, Lote 10",
+          "bairro": "Recanto das Emas",
+          "telefone": "(61) 3435-2000",
+          "site": null,
+          "zap": "5561988776655",
+          "instagram": "@laridealrecanto",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.911111,
+          "lng": -48.075833
+        },
+        {
+          "nome": "Conquista Recanto",
+          "porte": "Pequeno",
+          "endereco": "Quadra 301, Lote 02",
+          "bairro": "Recanto das Emas",
+          "telefone": "(61) 3436-3000",
+          "site": null,
+          "zap": "5561977665544",
+          "instagram": "@conquistarecanto",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.911111,
+          "lng": -48.075833
+        }
+      ],
+      "Samambaia": [
+        {
+          "nome": "Samambaia Imóveis",
+          "porte": "Médio",
+          "endereco": "QS 102, Conjunto 12",
+          "bairro": "Samambaia Sul",
+          "telefone": "(61) 3454-1000",
+          "site": "https://www.samambaiiaimoveis.com.br",
+          "zap": "5561993322110",
+          "instagram": "@samambaiiaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.870425,
+          "lng": -48.098589
+        },
+        {
+          "nome": "Moradia Samambaia",
+          "porte": "Pequeno",
+          "endereco": "QS 405, Conjunto 08",
+          "bairro": "Samambaia Norte",
+          "telefone": "(61) 3455-2000",
+          "site": null,
+          "zap": "5561988665544",
+          "instagram": "@moradiasamambaia",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.870425,
+          "lng": -48.098589
+        },
+        {
+          "nome": "Seu Imóvel Samambaia",
+          "porte": "Pequeno",
+          "endereco": "QS 208, Conjunto 03",
+          "bairro": "Samambaia Sul",
+          "telefone": "(61) 3456-3000",
+          "site": null,
+          "zap": "5561977554433",
+          "instagram": "@seuimovel_samambaia",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.870425,
+          "lng": -48.098589
+        },
+        {
+          "nome": "Nova Era Imóveis Samambaia",
+          "porte": "Médio",
+          "endereco": "QS 106, Conjunto 15",
+          "bairro": "Samambaia Sul",
+          "telefone": "(61) 3457-4000",
+          "site": "https://www.novaeraimoveis.com.br",
+          "zap": "5561966443322",
+          "instagram": "@novaeraimoveissamambaia",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.870425,
+          "lng": -48.098589
+        }
+      ],
+      "Santa Maria": [
+        {
+          "nome": "Santa Maria Imóveis",
+          "porte": "Médio",
+          "endereco": "QS 301, Conjunto 05",
+          "bairro": "Santa Maria",
+          "telefone": "(61) 3417-1000",
+          "site": "https://www.santamariiaimoveis.com.br",
+          "zap": "5561992211009",
+          "instagram": "@santamariiaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.951944,
+          "lng": -48.021667
+        },
+        {
+          "nome": "Lar Feliz Santa Maria",
+          "porte": "Pequeno",
+          "endereco": "QS 404, Conjunto 02",
+          "bairro": "Santa Maria",
+          "telefone": "(61) 3418-2000",
+          "site": null,
+          "zap": "5561988554433",
+          "instagram": "@larfelissm",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.951944,
+          "lng": -48.021667
+        },
+        {
+          "nome": "Conquista Imóveis SM",
+          "porte": "Pequeno",
+          "endereco": "QS 103, Conjunto 10",
+          "bairro": "Santa Maria",
+          "telefone": "(61) 3419-3000",
+          "site": null,
+          "zap": "5561977443322",
+          "instagram": "@conquistasm",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.951944,
+          "lng": -48.021667
+        }
+      ],
+      "Sobradinho": [
+        {
+          "nome": "Sobradinho Imóveis",
+          "porte": "Médio",
+          "endereco": "Quadra 03, Lote 05",
+          "bairro": "Sobradinho",
+          "telefone": "(61) 3487-1000",
+          "site": "https://www.sobradinhoimoveis.com.br",
+          "zap": "5561991100098",
+          "instagram": "@sobradinhoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.750556,
+          "lng": -47.7775
+        },
+        {
+          "nome": "Lar Perfeito Sobradinho",
+          "porte": "Pequeno",
+          "endereco": "Quadra 12, Lote 15",
+          "bairro": "Sobradinho",
+          "telefone": "(61) 3488-2000",
+          "site": null,
+          "zap": "5561988443322",
+          "instagram": "@larperfeitosobradinho",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.750556,
+          "lng": -47.7775
+        },
+        {
+          "nome": "Investe Bem Sobradinho",
+          "porte": "Médio",
+          "endereco": "Quadra 08, Lote 01",
+          "bairro": "Sobradinho",
+          "telefone": "(61) 3489-3000",
+          "site": "https://www.investebemsobradinho.com.br",
+          "zap": "5561977332211",
+          "instagram": "@investebemsobradinho",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.750556,
+          "lng": -47.7775
+        }
+      ],
+      "Riacho Fundo": [
+        {
+          "nome": "Riacho Fundo Imóveis",
+          "porte": "Médio",
+          "endereco": "QS 07, Conjunto 10",
+          "bairro": "Riacho Fundo I",
+          "telefone": "(61) 3403-1000",
+          "site": "https://www.riachofundoimoveis.com.br",
+          "zap": "5561990099008",
+          "instagram": "@riachofundoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.889444,
+          "lng": -48.036944
+        },
+        {
+          "nome": "Lar Novo Riacho Fundo",
+          "porte": "Pequeno",
+          "endereco": "QS 12, Conjunto 03",
+          "bairro": "Riacho Fundo II",
+          "telefone": "(61) 3404-2000",
+          "site": null,
+          "zap": "5561988332211",
+          "instagram": "@larnovoriachofundo",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.889444,
+          "lng": -48.036944
+        },
+        {
+          "nome": "Seu Imóvel RF",
+          "porte": "Pequeno",
+          "endereco": "QS 05, Conjunto 07",
+          "bairro": "Riacho Fundo I",
+          "telefone": "(61) 3405-3000",
+          "site": null,
+          "zap": "5561977221100",
+          "instagram": "@seuimovel_rf",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -15.889444,
+          "lng": -48.036944
         }
       ]
     }
