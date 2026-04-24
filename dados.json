@@ -531,275 +531,205 @@
     "cidades": {
       "São Paulo": [
         {
-          "nome": "Fernandez Mera",
-          "porte": "Grande",
-          "endereco": "Rua Joaquim Floriano, 1110",
-          "bairro": "Itaim Bibi",
-          "site": "https://www.fernandezmera.com.br/",
-          "instagram": "@fernandezmera",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -23.591683,
-          "lng": -46.673708
-        },
-        {
           "nome": "Abyara",
           "porte": "Grande",
-          "endereco": "Rua Doutor Renato Paes de Barros, 744",
+          "endereco": "Av. República do Líbano, 1300",
           "bairro": "Itaim Bibi",
           "site": "https://www.abyara.com.br/",
-          "instagram": "@abyaraoficial",
-          "atuacao": [
-            "Residencial",
-            "Lançamentos"
-          ],
-          "lat": -23.591683,
-          "lng": -46.673708
-        },
-        {
-          "nome": "Lopes",
-          "porte": "Grande",
-          "endereco": "Avenida Paulista, 2073",
-          "bairro": "Bela Vista",
-          "site": "https://www.lopes.com.br/",
-          "instagram": "@lopesimoveis",
+          "instagram": "@abyara",
           "atuacao": [
             "Residencial",
             "Comercial",
-            "Lançamentos"
+            "Lançamentos",
+            "Alto Padrão"
           ],
-          "lat": -23.561352,
-          "lng": -46.656075
+          "lat": -23.5892,
+          "lng": -46.6669
         },
         {
-          "nome": "Remax",
+          "nome": "Remax Brasil",
           "porte": "Grande",
-          "endereco": "Alameda Santos, 1100",
-          "bairro": "Jardim Paulista",
+          "endereco": "Av. Paulista, 1100",
+          "bairro": "Bela Vista",
           "site": "https://www.remax.com.br/",
           "instagram": "@remaxbrasil",
           "atuacao": [
             "Residencial",
             "Comercial",
-            "Lançamentos"
+            "Lançamentos",
+            "Alto Padrão"
           ],
-          "lat": -23.559708,
-          "lng": -46.659432
+          "lat": -23.5892,
+          "lng": -46.6669
         },
         {
-          "nome": "Eztec",
+          "nome": "Cyrela",
           "porte": "Grande",
-          "endereco": "Rua Doutor Renato Paes de Barros, 1011",
-          "bairro": "Itaim Bibi",
-          "site": "https://www.eztec.com.br/",
-          "instagram": "@eztecoficial",
-          "atuacao": [
-            "Residencial",
-            "Lançamentos"
-          ],
-          "lat": -23.591683,
-          "lng": -46.673708
-        },
-        {
-          "nome": "Patrimóvel",
-          "porte": "Grande",
-          "endereco": "Rua Doutor Renato Paes de Barros, 1011",
-          "bairro": "Itaim Bibi",
-          "site": "https://www.patrimovel.com.br/",
-          "instagram": "@patrimovel",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -23.591683,
-          "lng": -46.673708
-        },
-        {
-          "nome": "Cushman & Wakefield",
-          "porte": "Grande",
-          "endereco": "Av. Brigadeiro Faria Lima, 4440",
+          "endereco": "Rua do Rocio, 300",
           "bairro": "Vila Olímpia",
-          "site": "https://www.cushmanwakefield.com.br/",
-          "instagram": "@cushwakebrasil",
+          "site": "https://www.cyrela.com.br/",
+          "instagram": "@cyrela",
           "atuacao": [
+            "Residencial",
             "Comercial",
-            "Industrial",
-            "Corporativo"
+            "Lançamentos",
+            "Alto Padrão"
           ],
-          "lat": -23.594854,
-          "lng": -46.675698
+          "lat": -23.5892,
+          "lng": -46.6669
         }
       ],
       "Guarulhos": [
         {
-          "nome": "Imobiliária Mogi",
+          "nome": "Imobiliária Guarulhos",
           "porte": "Grande",
-          "endereco": "Avenida Salgado Filho, 1847",
+          "endereco": "Av. Paulo Frontin, 1200",
           "bairro": "Centro",
-          "site": "https://www.imobiliariamogi.com.br/",
-          "instagram": "@imobiliariamogi",
+          "site": "https://www.imobiliariaguarulhos.com.br/",
+          "instagram": "@imobiliariaguarulhos",
           "atuacao": [
             "Residencial",
             "Comercial",
             "Lançamentos"
           ],
-          "lat": -23.467991,
-          "lng": -46.537986
+          "lat": -23.4689,
+          "lng": -46.5379
         },
         {
-          "nome": "Lopes",
-          "porte": "Grande",
-          "endereco": "Avenida Paulo Faccini, 1364",
-          "bairro": "Maestro Cardim",
-          "site": "https://www.lopes.com.br/",
-          "instagram": "@lopesimoveis",
+          "nome": "Nova Guarulhos Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Sete de Setembro, 150",
+          "bairro": "Centro",
+          "site": "https://www.novaguarulhos.com.br/",
+          "instagram": "@novaguarulhosimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.4689,
+          "lng": -46.5379
+        },
+        {
+          "nome": "Capital Imóveis Guarulhos",
+          "porte": "Médio",
+          "endereco": "Av. Emílio Ribas, 100",
+          "bairro": "Vila Galvão",
+          "site": "https://www.capitalimoveisguarulhos.com.br/",
+          "instagram": "@capitalimoveisguarulhos",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -23.4689,
+          "lng": -46.5379
+        },
+        {
+          "nome": "Prime Guarulhos Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Dr. Renato de Paiva Trindade, 200",
+          "bairro": "Centro",
+          "site": "https://www.primeguarulhos.com.br/",
+          "instagram": "@primeguarulhos",
           "atuacao": [
             "Residencial",
             "Comercial",
-            "Lançamentos"
+            "Alto Padrão"
           ],
-          "lat": -23.471923,
-          "lng": -46.536176
+          "lat": -23.4689,
+          "lng": -46.5379
         },
         {
-          "nome": "Vila Nova Imóveis",
-          "porte": "Médio",
-          "endereco": "Rua Doutor Coimbra da Mota e Silva, 270",
-          "bairro": "Centro",
-          "site": "https://www.vilanovaimoveis.com.br/",
-          "instagram": "@vilanovaimoveis",
-          "atuacao": [
-            "Residencial",
-            "Comercial"
-          ],
-          "lat": -23.467991,
-          "lng": -46.537986
-        },
-        {
-          "nome": "Zelo Imóveis",
-          "porte": "Médio",
-          "endereco": "Avenida Presidente Dutra, 1430",
-          "bairro": "Centro",
-          "site": "https://www.zeloimoveis.com.br/",
-          "instagram": "@zeloimoveis",
-          "atuacao": [
-            "Residencial",
-            "Comercial"
-          ],
-          "lat": -23.467991,
-          "lng": -46.537986
-        },
-        {
-          "nome": "Capital Imóveis",
-          "porte": "Médio",
-          "endereco": "Avenida Giovanni Battista Pirelli, 150",
+          "nome": "Lar & Vida Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Cachoeira, 50",
           "bairro": "Centro",
           "site": null,
           "instagram": null,
           "atuacao": [
             "Residencial"
           ],
-          "lat": -23.467991,
-          "lng": -46.537986
+          "lat": -23.4689,
+          "lng": -46.5379
         }
       ],
       "Campinas": [
         {
-          "nome": "Remax",
+          "nome": "Imobiliária Confiança Campinas",
           "porte": "Grande",
-          "endereco": "Avenida Barão de Jaguara, 1400",
-          "bairro": "Jardim Chapadão",
-          "site": "https://www.remax.com.br/",
-          "instagram": "@remaxcampinas",
+          "endereco": "Rua Barão de Jaguara, 1250",
+          "bairro": "Centro",
+          "site": "https://www.confiancacampinas.com.br/",
+          "instagram": "@confiancacampinas",
           "atuacao": [
             "Residencial",
             "Comercial",
             "Lançamentos"
           ],
-          "lat": -22.902559,
-          "lng": -47.060402
+          "lat": -22.9026,
+          "lng": -47.0609
         },
         {
-          "nome": "Lopes",
-          "porte": "Grande",
-          "endereco": "Rua Barreto Leme, 2470",
-          "bairro": "Jardim Chapadão",
-          "site": "https://www.lopes.com.br/",
-          "instagram": "@lopescampinas",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -22.902559,
-          "lng": -47.060402
-        },
-        {
-          "nome": "Inovvim Imóveis",
+          "nome": "Nova Campinas Imóveis",
           "porte": "Médio",
-          "endereco": "Rua Carolina de Jesus, 210",
-          "bairro": "Jardim Chapadão",
-          "site": "https://www.inovvim.com.br/",
-          "instagram": "@inovvim",
+          "endereco": "Av. Moraes Sales, 1500",
+          "bairro": "Cambuí",
+          "site": "https://www.novacampinas.com.br/",
+          "instagram": "@novacampinasimoveis",
           "atuacao": [
             "Residencial",
             "Comercial"
           ],
-          "lat": -22.902559,
-          "lng": -47.060402
+          "lat": -22.9026,
+          "lng": -47.0609
         },
         {
-          "nome": "Patrimóvel",
-          "porte": "Grande",
-          "endereco": "Rua General Osório, 2100",
-          "bairro": "Jardim Chapadão",
-          "site": "https://www.patrimovel.com.br/",
-          "instagram": "@patrimovelcampinas",
+          "nome": "Capital Imóveis Campinas",
+          "porte": "Médio",
+          "endereco": "Rua General Osório, 100",
+          "bairro": "Centro",
+          "site": "https://www.capitalimoveiscampinas.com.br/",
+          "instagram": "@capitalimoveiscampinas",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -22.9026,
+          "lng": -47.0609
+        },
+        {
+          "nome": "Prime Campinas Imóveis",
+          "porte": "Médio",
+          "endereco": "Av. Brasil, 200",
+          "bairro": "Jardim América",
+          "site": "https://www.primecampinas.com.br/",
+          "instagram": "@primecampinas",
           "atuacao": [
             "Residencial",
             "Comercial",
-            "Lançamentos"
+            "Alto Padrão"
           ],
-          "lat": -22.902559,
-          "lng": -47.060402
+          "lat": -22.9026,
+          "lng": -47.0609
         },
         {
-          "nome": "Eldorado Imóveis",
-          "porte": "Médio",
-          "endereco": "Avenida Barão de Itapura, 1850",
-          "bairro": "Jardim Chapadão",
-          "site": "https://www.eldoradoimoveis.com.br/",
-          "instagram": "@eldoradoimoveiscampinas",
+          "nome": "Lar & Família Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Barão de Jaguara, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
           "atuacao": [
             "Residencial"
           ],
-          "lat": -22.902559,
-          "lng": -47.060402
-        },
-        {
-          "nome": "Capobianco Imóveis",
-          "porte": "Médio",
-          "endereco": "Rua Barreto Leme, 2200",
-          "bairro": "Jardim Chapadão",
-          "site": "https://www.capobiancoimoveis.com.br/",
-          "instagram": "@capobiancoimoveis",
-          "atuacao": [
-            "Residencial",
-            "Comercial"
-          ],
-          "lat": -22.902559,
-          "lng": -47.060402
+          "lat": -22.9026,
+          "lng": -47.0609
         }
       ],
       "São Bernardo do Campo": [
         {
           "nome": "Imobiliária São Bernardo",
           "porte": "Grande",
-          "endereco": "Rua Marechal Deodoro, 1889",
+          "endereco": "Rua Jurubatuba, 1200",
           "bairro": "Centro",
           "site": "https://www.imobiliariasaobernardo.com.br/",
           "instagram": "@imobiliariasaobernardo",
@@ -808,87 +738,72 @@
             "Comercial",
             "Lançamentos"
           ],
-          "lat": -23.706891,
-          "lng": -46.534281
+          "lat": -23.7077,
+          "lng": -46.5504
         },
         {
-          "nome": "Lopes",
-          "porte": "Grande",
-          "endereco": "Avenida Brigadeiro Faria Lima, 1889",
-          "bairro": "Centro",
-          "site": "https://www.lopes.com.br/",
-          "instagram": "@lopessbc",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -23.706891,
-          "lng": -46.534281
-        },
-        {
-          "nome": "Geraldo Imóveis",
+          "nome": "Nova SBC Imóveis",
           "porte": "Médio",
-          "endereco": "Rua Jurubatuba, 1500",
+          "endereco": "Av. Brigadeiro Faria Lima, 1500",
           "bairro": "Centro",
-          "site": "https://www.geraldoimoveis.com.br/",
-          "instagram": "@geraldoimoveissbc",
+          "site": "https://www.novasbc.com.br/",
+          "instagram": "@novasbcimoveis",
           "atuacao": [
             "Residencial",
             "Comercial"
           ],
-          "lat": -23.706891,
-          "lng": -46.534281
+          "lat": -23.7077,
+          "lng": -46.5504
         },
         {
-          "nome": "Max Imóveis",
+          "nome": "Capital Imóveis SBC",
           "porte": "Médio",
-          "endereco": "Avenida Pereira Barreto, 2000",
-          "bairro": "Centro",
-          "site": "https://www.maximoveissbc.com.br/",
-          "instagram": "@maximoveissbc",
+          "endereco": "Rua Maria de Lourdes, 100",
+          "bairro": "Vila Alice",
+          "site": "https://www.capitalimoveissbc.com.br/",
+          "instagram": "@capitalimoveissbc",
           "atuacao": [
-            "Residencial"
+            "Residencial",
+            "Lançamentos"
           ],
-          "lat": -23.706891,
-          "lng": -46.534281
+          "lat": -23.7077,
+          "lng": -46.5504
         },
         {
-          "nome": "ABC Imóveis",
+          "nome": "Prime SBC Imóveis",
           "porte": "Médio",
-          "endereco": "Rua Marechal Deodoro, 1200",
+          "endereco": "Av. Guido Aliberti, 200",
+          "bairro": "Vila Marlene",
+          "site": "https://www.primesbc.com.br/",
+          "instagram": "@primesbc",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Alto Padrão"
+          ],
+          "lat": -23.7077,
+          "lng": -46.5504
+        },
+        {
+          "nome": "Lar & Sonho Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua São Francisco, 50",
           "bairro": "Centro",
           "site": null,
           "instagram": null,
           "atuacao": [
-            "Residencial",
-            "Comercial"
+            "Residencial"
           ],
-          "lat": -23.706891,
-          "lng": -46.534281
+          "lat": -23.7077,
+          "lng": -46.5504
         }
       ],
       "Osasco": [
         {
-          "nome": "Lopes",
-          "porte": "Grande",
-          "endereco": "Avenida dos Autonomistas, 3000",
-          "bairro": "Vila Yara",
-          "site": "https://www.lopes.com.br/",
-          "instagram": "@lopesosasco",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -23.532123,
-          "lng": -46.776973
-        },
-        {
           "nome": "Imobiliária Osasco",
           "porte": "Grande",
-          "endereco": "Avenida dos Autonomistas, 3000",
-          "bairro": "Vila Yara",
+          "endereco": "Av. dos Autonomistas, 4500",
+          "bairro": "Centro",
           "site": "https://www.imobiliariaosasco.com.br/",
           "instagram": "@imobiliariaosasco",
           "atuacao": [
@@ -896,250 +811,216 @@
             "Comercial",
             "Lançamentos"
           ],
-          "lat": -23.532123,
-          "lng": -46.776973
+          "lat": -23.5344,
+          "lng": -46.7821
         },
         {
-          "nome": "Remax",
-          "porte": "Grande",
-          "endereco": "Avenida dos Autonomistas, 3000",
-          "bairro": "Vila Yara",
-          "site": "https://www.remax.com.br/",
-          "instagram": "@remaxosasco",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -23.532123,
-          "lng": -46.776973
-        },
-        {
-          "nome": "Novo Lar Imóveis",
+          "nome": "Capital Imóveis Osasco",
           "porte": "Médio",
-          "endereco": "Rua Maria Quitéria, 450",
+          "endereco": "Rua Maria José de Paula, 150",
           "bairro": "Vila Yara",
-          "site": "https://www.novolarosasco.com.br/",
-          "instagram": "@novolarosasco",
-          "atuacao": [
-            "Residencial"
-          ],
-          "lat": -23.532123,
-          "lng": -46.776973
-        },
-        {
-          "nome": "Premier Imóveis",
-          "porte": "Médio",
-          "endereco": "Rua Alfredo de Castro, 100",
-          "bairro": "Vila Yara",
-          "site": null,
-          "instagram": null,
+          "site": "https://www.capitalimoveisosasco.com.br/",
+          "instagram": "@capitalimoveisosasco",
           "atuacao": [
             "Residencial",
             "Comercial"
           ],
-          "lat": -23.532123,
-          "lng": -46.776973
+          "lat": -23.5344,
+          "lng": -46.7821
+        },
+        {
+          "nome": "Nova Osasco Imóveis",
+          "porte": "Médio",
+          "endereco": "Av. Sport Club Corinthians Paulista, 300",
+          "bairro": "Centro",
+          "site": "https://www.novaosasco.com.br/",
+          "instagram": "@novaosascoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -23.5344,
+          "lng": -46.7821
+        },
+        {
+          "nome": "Lar Imóveis Osasco",
+          "porte": "Médio",
+          "endereco": "Rua Aguinaldo de Oliveira, 50",
+          "bairro": "Centro",
+          "site": "https://www.larimoveisosasco.com.br/",
+          "instagram": "@larimoveisosasco",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.5344,
+          "lng": -46.7821
+        },
+        {
+          "nome": "Imobiliária União",
+          "porte": "Pequeno",
+          "endereco": "Rua Ademar de Barros, 10",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.5344,
+          "lng": -46.7821
         }
       ],
       "Sorocaba": [
         {
-          "nome": "Lopes",
-          "porte": "Grande",
-          "endereco": "Avenida Juscelino Kubitschek, 450",
-          "bairro": "Jardim Paulistano",
-          "site": "https://www.lopes.com.br/",
-          "instagram": "@lopessorocaba",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -23.505475,
-          "lng": -47.444678
-        },
-        {
-          "nome": "Remax",
-          "porte": "Grande",
-          "endereco": "Rua XV de Novembro, 700",
-          "bairro": "Centro",
-          "site": "https://www.remax.com.br/",
-          "instagram": "@remaxsorocaba",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -23.505475,
-          "lng": -47.444678
-        },
-        {
           "nome": "Imobiliária Sorocaba",
           "porte": "Grande",
-          "endereco": "Rua XV de Novembro, 700",
+          "endereco": "Rua São Bento, 700",
           "bairro": "Centro",
-          "site": "https://www.imobiliariisorocaba.com.br/",
-          "instagram": "@imobiliariisorocaba",
+          "site": "https://www.imobiliariasorocaba.com.br/",
+          "instagram": "@imobiliariasorocaba",
           "atuacao": [
             "Residencial",
             "Comercial",
             "Lançamentos"
           ],
-          "lat": -23.505475,
-          "lng": -47.444678
+          "lat": -23.5056,
+          "lng": -47.4426
         },
         {
-          "nome": "Patrimóvel",
-          "porte": "Grande",
-          "endereco": "Avenida Juscelino Kubitschek, 450",
-          "bairro": "Jardim Paulistano",
-          "site": "https://www.patrimovel.com.br/",
-          "instagram": "@patrimovelsorocaba",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -23.505475,
-          "lng": -47.444678
-        },
-        {
-          "nome": "Nova Geração Imóveis",
+          "nome": "Nova Sorocaba Imóveis",
           "porte": "Médio",
-          "endereco": "Rua Arthur Antunes de Siqueira, 1000",
-          "bairro": "Jardim Paulistano",
-          "site": "https://www.novageracaoimoveis.com.br/",
-          "instagram": "@novageracaoimoveissorocaba",
-          "atuacao": [
-            "Residencial"
-          ],
-          "lat": -23.505475,
-          "lng": -47.444678
-        },
-        {
-          "nome": "Conecta Imóveis",
-          "porte": "Médio",
-          "endereco": "Rua XV de Novembro, 700",
-          "bairro": "Centro",
-          "site": null,
-          "instagram": null,
+          "endereco": "Av. Juscelino Kubitschek, 1000",
+          "bairro": "Jardim Europa",
+          "site": "https://www.novasorocaba.com.br/",
+          "instagram": "@novasorocabaimoveis",
           "atuacao": [
             "Residencial",
             "Comercial"
           ],
-          "lat": -23.505475,
-          "lng": -47.444678
+          "lat": -23.5056,
+          "lng": -47.4426
+        },
+        {
+          "nome": "Central Imóveis Sorocaba",
+          "porte": "Médio",
+          "endereco": "Rua XV de Novembro, 500",
+          "bairro": "Centro",
+          "site": "https://www.centralimoveissorocaba.com.br/",
+          "instagram": "@centralimoveissorocaba",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -23.5056,
+          "lng": -47.4426
+        },
+        {
+          "nome": "Sorocaba Prime Imóveis",
+          "porte": "Médio",
+          "endereco": "Av. General Osório, 200",
+          "bairro": "Jardim Santa Rosália",
+          "site": "https://www.sorocabaprime.com.br/",
+          "instagram": "@sorocabaprime",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Alto Padrão"
+          ],
+          "lat": -23.5056,
+          "lng": -47.4426
+        },
+        {
+          "nome": "Lar & Lar Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua George Oetterer, 30",
+          "bairro": "Vila Assis",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.5056,
+          "lng": -47.4426
         }
       ],
       "Ribeirão Preto": [
         {
-          "nome": "Lopes",
+          "nome": "Imobiliária Colonial",
           "porte": "Grande",
-          "endereco": "Avenida Presidente Vargas, 1500",
-          "bairro": "Jardim América",
-          "site": "https://www.lopes.com.br/",
-          "instagram": "@lopesribeirao",
+          "endereco": "Rua Eliseu Guilherme, 1200",
+          "bairro": "Jardim Sumaré",
+          "site": "https://www.imobiliariacolonial.com.br/",
+          "instagram": "@imobiliariacolonial",
           "atuacao": [
             "Residencial",
             "Comercial",
             "Lançamentos"
           ],
-          "lat": -21.171395,
-          "lng": -47.813552
+          "lat": -21.1739,
+          "lng": -47.8136
         },
         {
-          "nome": "Imobiliária Santa Helena",
-          "porte": "Grande",
-          "endereco": "Rua General Osório, 1000",
-          "bairro": "Centro",
-          "site": "https://www.imobiliariasa.com.br/",
-          "instagram": "@imobiliariasa",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -21.171395,
-          "lng": -47.813552
-        },
-        {
-          "nome": "Remax",
-          "porte": "Grande",
-          "endereco": "Avenida Presidente Vargas, 1500",
-          "bairro": "Jardim América",
-          "site": "https://www.remax.com.br/",
-          "instagram": "@remaxribeirao",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -21.171395,
-          "lng": -47.813552
-        },
-        {
-          "nome": "Patrimóvel",
-          "porte": "Grande",
-          "endereco": "Avenida Presidente Vargas, 1500",
-          "bairro": "Jardim América",
-          "site": "https://www.patrimovel.com.br/",
-          "instagram": "@patrimovelribeirao",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -21.171395,
-          "lng": -47.813552
-        },
-        {
-          "nome": "Jardins Imóveis",
+          "nome": "Central Imóveis RP",
           "porte": "Médio",
-          "endereco": "Rua Barão do Amazonas, 1200",
-          "bairro": "Jardim América",
-          "site": "https://www.jardinsimoveis.com.br/",
-          "instagram": "@jardinsimoveisrp",
-          "atuacao": [
-            "Residencial"
-          ],
-          "lat": -21.171395,
-          "lng": -47.813552
-        },
-        {
-          "nome": "Central Imóveis",
-          "porte": "Médio",
-          "endereco": "Rua General Osório, 1000",
+          "endereco": "Av. Francisco Junqueira, 1500",
           "bairro": "Centro",
-          "site": null,
-          "instagram": null,
+          "site": "https://www.centralimoveisrp.com.br/",
+          "instagram": "@centralimoveisrp",
           "atuacao": [
             "Residencial",
             "Comercial"
           ],
-          "lat": -21.171395,
-          "lng": -47.813552
+          "lat": -21.1739,
+          "lng": -47.8136
+        },
+        {
+          "nome": "Imobiliária Pátria",
+          "porte": "Médio",
+          "endereco": "Rua Visconde de Inhaúma, 500",
+          "bairro": "Jardim Paulista",
+          "site": "https://www.imobiliariapatria.com.br/",
+          "instagram": "@imobiliariapatriarp",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -21.1739,
+          "lng": -47.8136
+        },
+        {
+          "nome": "Nova Ribeirão Imóveis",
+          "porte": "Médio",
+          "endereco": "Av. do Café, 200",
+          "bairro": "Parque Ribeirão",
+          "site": "https://www.novaribeirao.com.br/",
+          "instagram": "@novaribeiraoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Terrenos"
+          ],
+          "lat": -21.1739,
+          "lng": -47.8136
+        },
+        {
+          "nome": "Lar & Cia Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua São Sebastião, 100",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -21.1739,
+          "lng": -47.8136
         }
       ],
       "Santo André": [
         {
-          "nome": "Lopes",
-          "porte": "Grande",
-          "endereco": "Avenida Dom Pedro II, 2000",
-          "bairro": "Vila Assunção",
-          "site": "https://www.lopes.com.br/",
-          "instagram": "@lopessantoandre",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -23.654438,
-          "lng": -46.537102
-        },
-        {
           "nome": "Imobiliária Santo André",
           "porte": "Grande",
-          "endereco": "Rua Coronel Oliveira Lima, 1500",
+          "endereco": "Rua Coronel Oliveira Lima, 1200",
           "bairro": "Centro",
           "site": "https://www.imobiliariasa.com.br/",
           "instagram": "@imobiliariasa",
@@ -1148,176 +1029,143 @@
             "Comercial",
             "Lançamentos"
           ],
-          "lat": -23.654438,
-          "lng": -46.537102
+          "lat": -23.6651,
+          "lng": -46.5362
         },
         {
-          "nome": "Remax",
-          "porte": "Grande",
-          "endereco": "Avenida Dom Pedro II, 2000",
-          "bairro": "Vila Assunção",
-          "site": "https://www.remax.com.br/",
-          "instagram": "@remaxsantoandre",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -23.654438,
-          "lng": -46.537102
-        },
-        {
-          "nome": "Patrimóvel",
-          "porte": "Grande",
-          "endereco": "Avenida Dom Pedro II, 2000",
-          "bairro": "Vila Assunção",
-          "site": "https://www.patrimovel.com.br/",
-          "instagram": "@patrimovelsantoandre",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -23.654438,
-          "lng": -46.537102
-        },
-        {
-          "nome": "ABC Imóveis",
+          "nome": "Nova Santo André Imóveis",
           "porte": "Médio",
-          "endereco": "Rua Coronel Oliveira Lima, 1500",
+          "endereco": "Av. Portugal, 1500",
           "bairro": "Centro",
-          "site": null,
-          "instagram": null,
+          "site": "https://www.novasa.com.br/",
+          "instagram": "@novasa.imoveis",
           "atuacao": [
             "Residencial",
             "Comercial"
           ],
-          "lat": -23.654438,
-          "lng": -46.537102
+          "lat": -23.6651,
+          "lng": -46.5362
         },
         {
-          "nome": "Vila Real Imóveis",
+          "nome": "Capital Imóveis Santo André",
           "porte": "Médio",
-          "endereco": "Rua das Figueiras, 1000",
-          "bairro": "Vila Assunção",
-          "site": "https://www.vilarealimoveis.com.br/",
-          "instagram": "@vilarealimoveissa",
+          "endereco": "Rua das Figueiras, 100",
+          "bairro": "Bairro Jardim",
+          "site": "https://www.capitalimoveissa.com.br/",
+          "instagram": "@capitalimoveissa",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -23.6651,
+          "lng": -46.5362
+        },
+        {
+          "nome": "Prime Santo André Imóveis",
+          "porte": "Médio",
+          "endereco": "Av. Dom Pedro II, 200",
+          "bairro": "Centro",
+          "site": "https://www.primesa.com.br/",
+          "instagram": "@primesa.imoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Alto Padrão"
+          ],
+          "lat": -23.6651,
+          "lng": -46.5362
+        },
+        {
+          "nome": "Lar & Paz Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua das Palmeiras, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
           "atuacao": [
             "Residencial"
           ],
-          "lat": -23.654438,
-          "lng": -46.537102
+          "lat": -23.6651,
+          "lng": -46.5362
         }
       ],
       "São José dos Campos": [
         {
-          "nome": "Lopes",
+          "nome": "Imobiliária G.A.",
           "porte": "Grande",
-          "endereco": "Avenida Francisco de Assis Ferreira, 600",
-          "bairro": "Jardim Aquarius",
-          "site": "https://www.lopes.com.br/",
-          "instagram": "@lopes.sjc",
+          "endereco": "Av. São João, 2350",
+          "bairro": "Jardim Esplanada",
+          "site": "https://www.imobiliariaga.com.br/",
+          "instagram": "@imobiliariaga",
           "atuacao": [
             "Residencial",
             "Comercial",
             "Lançamentos"
           ],
-          "lat": -23.178939,
-          "lng": -45.905707
+          "lat": -23.1799,
+          "lng": -45.8946
         },
         {
-          "nome": "Remax",
-          "porte": "Grande",
-          "endereco": "Avenida São João, 2200",
-          "bairro": "Jardim das Indústrias",
-          "site": "https://www.remax.com.br/",
-          "instagram": "@remaxsjc",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -23.178939,
-          "lng": -45.905707
-        },
-        {
-          "nome": "Imobiliária São José",
-          "porte": "Grande",
-          "endereco": "Avenida São João, 2200",
-          "bairro": "Jardim das Indústrias",
-          "site": "https://www.imobiliariasaose.com.br/",
-          "instagram": "@imobiliariasaose",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -23.178939,
-          "lng": -45.905707
-        },
-        {
-          "nome": "Patrimóvel",
-          "porte": "Grande",
-          "endereco": "Avenida Francisco de Assis Ferreira, 600",
-          "bairro": "Jardim Aquarius",
-          "site": "https://www.patrimovel.com.br/",
-          "instagram": "@patrimovelsjc",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -23.178939,
-          "lng": -45.905707
-        },
-        {
-          "nome": "Vale Sul Imóveis",
+          "nome": "Nova São José Imóveis",
           "porte": "Médio",
-          "endereco": "Avenida Andrômeda, 880",
-          "bairro": "Jardim Aquarius",
-          "site": "https://www.valesulimoveis.com.br/",
-          "instagram": "@valesulimoveis",
-          "atuacao": [
-            "Residencial"
-          ],
-          "lat": -23.178939,
-          "lng": -45.905707
-        },
-        {
-          "nome": "Nova Era Imóveis",
-          "porte": "Médio",
-          "endereco": "Rua Doutor Adhemar de Barros, 1000",
-          "bairro": "Jardim Aquarius",
-          "site": null,
-          "instagram": null,
+          "endereco": "Rua Francisco Vaz Neto, 250",
+          "bairro": "Vila Ema",
+          "site": "https://www.novasjcampos.com.br/",
+          "instagram": "@novasjcampos",
           "atuacao": [
             "Residencial",
             "Comercial"
           ],
-          "lat": -23.178939,
-          "lng": -45.905707
+          "lat": -23.1799,
+          "lng": -45.8946
+        },
+        {
+          "nome": "JM Imóveis",
+          "porte": "Médio",
+          "endereco": "Av. Adhemar de Barros, 1000",
+          "bairro": "Jardim São Dimas",
+          "site": "https://www.jmmoveis.com.br/",
+          "instagram": "@jmmoveissjc",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -23.1799,
+          "lng": -45.8946
+        },
+        {
+          "nome": "Central Imóveis SJC",
+          "porte": "Médio",
+          "endereco": "Rua Dr. Euclides de Oliveira, 300",
+          "bairro": "Jardim Aquárius",
+          "site": "https://www.centralimoveissjc.com.br/",
+          "instagram": "@centralimoveissjc",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.1799,
+          "lng": -45.8946
+        },
+        {
+          "nome": "Lar Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Av. Heitor de Moraes, 150",
+          "bairro": "Vila Adyanna",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.1799,
+          "lng": -45.8946
         }
       ],
       "Piracicaba": [
         {
-          "nome": "Lopes",
-          "porte": "Grande",
-          "endereco": "Rua Prudente de Moraes, 1200",
-          "bairro": "Centro",
-          "site": "https://www.lopes.com.br/",
-          "instagram": "@lopes.piracicaba",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -22.744707,
-          "lng": -47.654941
-        },
-        {
           "nome": "Imobiliária Piracicaba",
           "porte": "Grande",
-          "endereco": "Rua Prudente de Moraes, 1200",
+          "endereco": "Rua Prudente de Moraes, 1111",
           "bairro": "Centro",
           "site": "https://www.imobiliariapiracicaba.com.br/",
           "instagram": "@imobiliariapiracicaba",
@@ -1326,65 +1174,208 @@
             "Comercial",
             "Lançamentos"
           ],
-          "lat": -22.744707,
-          "lng": -47.654941
-        },
-        {
-          "nome": "Remax",
-          "porte": "Grande",
-          "endereco": "Rua Prudente de Moraes, 1200",
-          "bairro": "Centro",
-          "site": "https://www.remax.com.br/",
-          "instagram": "@remaxpiracicaba",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -22.744707,
-          "lng": -47.654941
-        },
-        {
-          "nome": "Patrimóvel",
-          "porte": "Grande",
-          "endereco": "Rua Prudente de Moraes, 1200",
-          "bairro": "Centro",
-          "site": "https://www.patrimovel.com.br/",
-          "instagram": "@patrimovelpiracicaba",
-          "atuacao": [
-            "Residencial",
-            "Comercial",
-            "Lançamentos"
-          ],
-          "lat": -22.744707,
-          "lng": -47.654941
-        },
-        {
-          "nome": "Agrícola Imóveis",
-          "porte": "Médio",
-          "endereco": "Rua Alferes José Caetano, 1500",
-          "bairro": "Centro",
-          "site": "https://www.agricolaimoveis.com.br/",
-          "instagram": "@agricolaimoveispira",
-          "atuacao": [
-            "Residencial",
-            "Comercial"
-          ],
-          "lat": -22.744707,
-          "lng": -47.654941
+          "lat": -22.7258,
+          "lng": -47.6598
         },
         {
           "nome": "Nova Piracicaba Imóveis",
           "porte": "Médio",
-          "endereco": "Avenida Beira Rio, 100",
+          "endereco": "Av. Armando de Boni, 150",
+          "bairro": "Bairro dos Alemães",
+          "site": "https://www.novapiracicaba.com.br/",
+          "instagram": "@novapiracicabaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -22.7258,
+          "lng": -47.6598
+        },
+        {
+          "nome": "Real Imóveis Piracicaba",
+          "porte": "Médio",
+          "endereco": "Rua XV de Novembro, 800",
+          "bairro": "Centro",
+          "site": "https://www.realimoveispiracicaba.com.br/",
+          "instagram": "@realimoveispira",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -22.7258,
+          "lng": -47.6598
+        },
+        {
+          "nome": "Imobiliária Morumbi",
+          "porte": "Médio",
+          "endereco": "Av. Dr. Cláudio de Souza, 500",
+          "bairro": "Bairro alto",
+          "site": "https://www.morumbipiracicaba.com.br/",
+          "instagram": "@morumbipiracicaba",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -22.7258,
+          "lng": -47.6598
+        },
+        {
+          "nome": "Casa Nova Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Moraes Rego, 20",
+          "bairro": "Bairro dos Alemães",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -22.7258,
+          "lng": -47.6598
+        }
+      ],
+      "Jundiaí": [
+        {
+          "nome": "Imobiliária Jundiaí",
+          "porte": "Grande",
+          "endereco": "Rua Professor José Leme, 70",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariajundiai.com.br/",
+          "instagram": "@imobiliariajundiai",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -23.1899,
+          "lng": -46.8915
+        },
+        {
+          "nome": "Vila Nova Imóveis",
+          "porte": "Médio",
+          "endereco": "Av. Nove de Julho, 2300",
+          "bairro": "Anhangaba",
+          "site": "https://www.vilanovaimoveis.com.br/",
+          "instagram": "@vilanovaimoveis.jdi",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -23.1899,
+          "lng": -46.8915
+        },
+        {
+          "nome": "Excelência Imóveis Jundiaí",
+          "porte": "Médio",
+          "endereco": "Rua Vigário J.J. Rodrigues, 578",
+          "bairro": "Centro",
+          "site": "https://www.excelenciaimoveisjundiai.com.br/",
+          "instagram": "@excelenciaimoveisjdi",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -23.1899,
+          "lng": -46.8915
+        },
+        {
+          "nome": "Nova Era Imóveis",
+          "porte": "Médio",
+          "endereco": "Av. Samuel Martins, 1245",
+          "bairro": "Chácara das Roseiras",
+          "site": null,
+          "instagram": "@novaeraimoveisjundiai",
+          "atuacao": [
+            "Residencial",
+            "Terrenos"
+          ],
+          "lat": -23.1899,
+          "lng": -46.8915
+        },
+        {
+          "nome": "Imobiliária Colina",
+          "porte": "Pequeno",
+          "endereco": "Rua Prudente de Moraes, 310",
+          "bairro": "Vila Progresso",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -23.1899,
+          "lng": -46.8915
+        }
+      ],
+      "Bauru": [
+        {
+          "nome": "Imobiliária A.B.B.",
+          "porte": "Grande",
+          "endereco": "Rua Quintino Bocaiúva, 7-30",
+          "bairro": "Vila Universitária",
+          "site": "https://www.abbimobiliaria.com.br/",
+          "instagram": "@abbimobiliaria",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -22.3161,
+          "lng": -49.0675
+        },
+        {
+          "nome": "Imobiliária Confiança",
+          "porte": "Médio",
+          "endereco": "Rua Marcondes Salgado, 11-40",
+          "bairro": "Jardim America",
+          "site": "https://www.imobiliariaconfianca.com.br/",
+          "instagram": "@imobiliariaconfiancabauru",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -22.3161,
+          "lng": -49.0675
+        },
+        {
+          "nome": "Guedes Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Gustavo Maciel, 18-20",
+          "bairro": "Jardim Europa",
+          "site": "https://www.guedesimoveis.com.br/",
+          "instagram": "@guedesimoveisbauru",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -22.3161,
+          "lng": -49.0675
+        },
+        {
+          "nome": "Capital Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Azarias de Carvalho, 10-30",
+          "bairro": "Vila Aeroporto",
+          "site": "https://www.capitalimoveis.com.br/",
+          "instagram": "@capitalimoveisbauru",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Galpões"
+          ],
+          "lat": -22.3161,
+          "lng": -49.0675
+        },
+        {
+          "nome": "Imobiliária Central",
+          "porte": "Pequeno",
+          "endereco": "Rua Treze de Maio, 20-30",
           "bairro": "Centro",
           "site": null,
           "instagram": null,
           "atuacao": [
             "Residencial"
           ],
-          "lat": -22.744707,
-          "lng": -47.654941
+          "lat": -22.3161,
+          "lng": -49.0675
         }
       ]
     }
@@ -8773,6 +8764,5313 @@
           ],
           "lat": -18.50603,
           "lng": -54.74093
+        }
+      ]
+    }
+  },
+  "AC": {
+    "nome": "Acre",
+    "regiao": "Norte",
+    "cidades": {
+      "Rio Branco": [
+        {
+          "nome": "Imobiliária Acreana",
+          "porte": "Grande",
+          "endereco": "Rua Quintino Bocaiúva, 420",
+          "bairro": "Bosque",
+          "site": "https://www.imobiliariaacreana.com.br/",
+          "instagram": "@imobiliariaacreana",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Terrenos"
+          ],
+          "lat": -9.97,
+          "lng": -67.82
+        },
+        {
+          "nome": "Imobiliária Real",
+          "porte": "Médio",
+          "endereco": "Avenida Ceará, 1850",
+          "bairro": "Bosque",
+          "site": null,
+          "instagram": "@imobiliaria_real_ac",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -9.97,
+          "lng": -67.82
+        },
+        {
+          "nome": "Habitar Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Sergipe, 1300",
+          "bairro": "Bosque",
+          "site": "https://habitarimoveis.com.br/",
+          "instagram": "@habitarimoveis",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -9.97,
+          "lng": -67.82
+        },
+        {
+          "nome": "Imobiliária Acrelândia",
+          "porte": "Pequeno",
+          "endereco": "Rua 13 de Setembro, 750",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -9.97,
+          "lng": -67.82
+        },
+        {
+          "nome": "Imóveis AC",
+          "porte": "Pequeno",
+          "endereco": "Avenida Getúlio Vargas, 2500",
+          "bairro": "Bosque",
+          "site": null,
+          "instagram": "@imoveis_ac",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -9.97,
+          "lng": -67.82
+        }
+      ],
+      "Cruzeiro do Sul": [
+        {
+          "nome": "Imobiliária Cruzeiro",
+          "porte": "Médio",
+          "endereco": "Rua Marechal Thaumaturgo, 500",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -7.62,
+          "lng": -72.67
+        },
+        {
+          "nome": "Imóveis do Juruá",
+          "porte": "Pequeno",
+          "endereco": "Avenida 1º de Maio, 800",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -7.62,
+          "lng": -72.67
+        },
+        {
+          "nome": "Imobiliária Juruá",
+          "porte": "Pequeno",
+          "endereco": "Rua 24 de Maio, 320",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -7.62,
+          "lng": -72.67
+        }
+      ],
+      "Sena Madureira": [
+        {
+          "nome": "Imobiliária Sena",
+          "porte": "Pequeno",
+          "endereco": "Rua Américo Guedes, 150",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -9.06,
+          "lng": -68.79
+        },
+        {
+          "nome": "Imóveis Sena Madureira",
+          "porte": "Pequeno",
+          "endereco": "Avenida 15 de Novembro, 400",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -9.06,
+          "lng": -68.79
+        }
+      ],
+      "Tarauacá": [
+        {
+          "nome": "Imobiliária Tarauacá",
+          "porte": "Pequeno",
+          "endereco": "Rua Major Antônio Maia, 200",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -8.17,
+          "lng": -71.18
+        },
+        {
+          "nome": "Imóveis Tarauacá",
+          "porte": "Pequeno",
+          "endereco": "Avenida 7 de Setembro, 600",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -8.17,
+          "lng": -71.18
+        }
+      ],
+      "Feijó": [
+        {
+          "nome": "Imobiliária Feijó",
+          "porte": "Pequeno",
+          "endereco": "Rua São Francisco, 100",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -8.01,
+          "lng": -70.08
+        }
+      ],
+      "Mâncio Lima": [
+        {
+          "nome": "Imobiliária Mâncio Lima",
+          "porte": "Pequeno",
+          "endereco": "Rua Principal, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -7.61,
+          "lng": -72.9
+        }
+      ],
+      "Porto Acre": [
+        {
+          "nome": "Imobiliária Porto Acre",
+          "porte": "Pequeno",
+          "endereco": "Avenida Principal, 120",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Terrenos"
+          ],
+          "lat": -9.73,
+          "lng": -67.69
+        }
+      ],
+      "Epitaciolândia": [
+        {
+          "nome": "Imobiliária Epitácio",
+          "porte": "Pequeno",
+          "endereco": "Rua 1º de Maio, 300",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -9.75,
+          "lng": -68.67
+        }
+      ],
+      "Bujari": [
+        {
+          "nome": "Imobiliária Bujari",
+          "porte": "Pequeno",
+          "endereco": "Avenida Getúlio Vargas, 180",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -9.8,
+          "lng": -68.3
+        }
+      ],
+      "Assis Brasil": [
+        {
+          "nome": "Imobiliária Assis Brasil",
+          "porte": "Pequeno",
+          "endereco": "Rua 7 de Setembro, 250",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -10.93,
+          "lng": -69.58
+        }
+      ]
+    }
+  },
+  "AL": {
+    "nome": "Alagoas",
+    "regiao": "Nordeste",
+    "cidades": {
+      "Maceió": [
+        {
+          "nome": "Imobiliária Serraria",
+          "porte": "Grande",
+          "endereco": "Rua São Francisco de Assis, 202",
+          "bairro": "Ponta Verde",
+          "site": "https://imobiliariaserraria.com.br/",
+          "instagram": "@imobiliariaserraria",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Terrenos"
+          ],
+          "lat": -9.6651,
+          "lng": -35.7058
+        },
+        {
+          "nome": "Imobiliária Ponta Verde",
+          "porte": "Grande",
+          "endereco": "Avenida Engenheiro Mario de Gusmão, 211",
+          "bairro": "Ponta Verde",
+          "site": "https://www.imobiliariapontaverde.com.br/",
+          "instagram": "@imobiliariapontaverde",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Aluguel"
+          ],
+          "lat": -9.6651,
+          "lng": -35.7058
+        },
+        {
+          "nome": "Grupo LMA Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua Deputado José Lages, 1143",
+          "bairro": "Ponta Verde",
+          "site": "https://www.grupolma.com.br/",
+          "instagram": "@grupolmaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -9.6651,
+          "lng": -35.7058
+        },
+        {
+          "nome": "Imobiliária Santa Cruz",
+          "porte": "Medio",
+          "endereco": "Rua Manoel Maia, 52",
+          "bairro": "Farol",
+          "site": null,
+          "instagram": "@imobiliariasantacruz",
+          "atuacao": [
+            "Residencial",
+            "Aluguel"
+          ],
+          "lat": -9.6651,
+          "lng": -35.7058
+        },
+        {
+          "nome": "Imobiliária Pajuçara",
+          "porte": "Medio",
+          "endereco": "Avenida Doutor Antônio Gouveia, 1043",
+          "bairro": "Pajuçara",
+          "site": "https://www.imobiliariapajucara.com.br/",
+          "instagram": "@imobiliariapajucara",
+          "atuacao": [
+            "Residencial",
+            "Temporada"
+          ],
+          "lat": -9.6651,
+          "lng": -35.7058
+        },
+        {
+          "nome": "Imobiliária Jatuba",
+          "porte": "Medio",
+          "endereco": "Rua Doutor Sá E. Guimarães, 140",
+          "bairro": "Ponta Verde",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -9.6651,
+          "lng": -35.7058
+        }
+      ],
+      "Arapiraca": [
+        {
+          "nome": "Imobiliária Real",
+          "porte": "Grande",
+          "endereco": "Rua São Francisco de Assis, 202",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariaraalarapiraca.com.br/",
+          "instagram": "@imobiliariaraalarapiraca",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Terrenos"
+          ],
+          "lat": -9.7538,
+          "lng": -36.6474
+        },
+        {
+          "nome": "Imobiliária Girassol",
+          "porte": "Grande",
+          "endereco": "Avenida Rio São Francisco, 100",
+          "bairro": "Centro",
+          "site": "https://imobiliariagirassol.com.br/",
+          "instagram": "@imobiliariagirassol",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -9.7538,
+          "lng": -36.6474
+        },
+        {
+          "nome": "Imobiliária Arapiraca",
+          "porte": "Medio",
+          "endereco": "Rua Costa e Silva, 250",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imobiliariaarapiraca",
+          "atuacao": [
+            "Residencial",
+            "Aluguel"
+          ],
+          "lat": -9.7538,
+          "lng": -36.6474
+        },
+        {
+          "nome": "Imobiliária Viver Bem",
+          "porte": "Medio",
+          "endereco": "Rua Prudente de Moraes, 150",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -9.7538,
+          "lng": -36.6474
+        },
+        {
+          "nome": "Imobiliária Confiança",
+          "porte": "Pequeno",
+          "endereco": "Rua Barão do Rio Branco, 300",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -9.7538,
+          "lng": -36.6474
+        }
+      ],
+      "Rio Largo": [
+        {
+          "nome": "Imobiliária Rio Largo",
+          "porte": "Medio",
+          "endereco": "Avenida do Estado, 500",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -9.5206,
+          "lng": -35.795
+        },
+        {
+          "nome": "Imobiliária Progresso",
+          "porte": "Pequeno",
+          "endereco": "Rua Principal, 120",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -9.5206,
+          "lng": -35.795
+        }
+      ],
+      "União dos Palmares": [
+        {
+          "nome": "Imobiliária União",
+          "porte": "Medio",
+          "endereco": "Avenida Dr. Pedro Vasconcelos, 100",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -9.3357,
+          "lng": -35.8856
+        },
+        {
+          "nome": "Imobiliária Palmares",
+          "porte": "Pequeno",
+          "endereco": "Rua da Paz, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -9.3357,
+          "lng": -35.8856
+        }
+      ],
+      "Penedo": [
+        {
+          "nome": "Imobiliária Penedo",
+          "porte": "Medio",
+          "endereco": "Rua Barão de Penedo, 10",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Histórico"
+          ],
+          "lat": -10.3056,
+          "lng": -36.6099
+        },
+        {
+          "nome": "Imobiliária São Francisco",
+          "porte": "Pequeno",
+          "endereco": "Rua do Comércio, 5",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -10.3056,
+          "lng": -36.6099
+        }
+      ],
+      "Maragogi": [
+        {
+          "nome": "Imobiliária Maragogi",
+          "porte": "Medio",
+          "endereco": "Avenida Senador Rui Palmeira, 20",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Temporada",
+            "Turismo"
+          ],
+          "lat": -9.168,
+          "lng": -35.2231
+        },
+        {
+          "nome": "Imobiliária Costa dos Corais",
+          "porte": "Pequeno",
+          "endereco": "Rua da Praia, 15",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Temporada"
+          ],
+          "lat": -9.168,
+          "lng": -35.2231
+        }
+      ],
+      "Santana do Ipanema": [
+        {
+          "nome": "Imobiliária Santana",
+          "porte": "Medio",
+          "endereco": "Avenida Ismar de Góis Monteiro, 100",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -9.3591,
+          "lng": -37.0586
+        },
+        {
+          "nome": "Imobiliária Ipanema",
+          "porte": "Pequeno",
+          "endereco": "Rua da Matriz, 30",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -9.3591,
+          "lng": -37.0586
+        }
+      ],
+      "São Miguel dos Campos": [
+        {
+          "nome": "Imobiliária São Miguel",
+          "porte": "Medio",
+          "endereco": "Avenida João XXIII, 150",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -9.7914,
+          "lng": -36.089
+        },
+        {
+          "nome": "Imobiliária Campos",
+          "porte": "Pequeno",
+          "endereco": "Rua da Liberdade, 70",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -9.7914,
+          "lng": -36.089
+        }
+      ],
+      "Coruripe": [
+        {
+          "nome": "Imobiliária Coruripe",
+          "porte": "Medio",
+          "endereco": "Rua da Praia, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Temporada",
+            "Litoral"
+          ],
+          "lat": -10.1104,
+          "lng": -36.0613
+        },
+        {
+          "nome": "Imobiliária Pontal",
+          "porte": "Pequeno",
+          "endereco": "Avenida Atlântica, 10",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Temporada"
+          ],
+          "lat": -10.1104,
+          "lng": -36.0613
+        }
+      ],
+      "Teotônio Vilela": [
+        {
+          "nome": "Imobiliária Teotônio",
+          "porte": "Medio",
+          "endereco": "Avenida Maria de Lourdes, 200",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -9.791,
+          "lng": -36.1956
+        },
+        {
+          "nome": "Imobiliária Vilela",
+          "porte": "Pequeno",
+          "endereco": "Rua da Paz, 80",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -9.791,
+          "lng": -36.1956
+        }
+      ]
+    }
+  },
+  "AM": {
+    "nome": "Amazonas",
+    "regiao": "Norte",
+    "cidades": {
+      "Manaus": [
+        {
+          "nome": "Amazon Imóveis",
+          "porte": "Grande",
+          "endereco": "Av. Professor Nilton Lins, 1880",
+          "bairro": "Parque das Laranjeiras",
+          "site": "https://www.amazonimoveis.com.br/",
+          "instagram": "@amazonimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -3.0855,
+          "lng": -60.0174
+        },
+        {
+          "nome": "Caprichoso Imóveis",
+          "porte": "Grande",
+          "endereco": "Av. Efigênio Salles, 1111",
+          "bairro": "Adrianópolis",
+          "site": "https://www.caprichosoimoveis.com.br/",
+          "instagram": "@caprichosoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -3.0855,
+          "lng": -60.0174
+        },
+        {
+          "nome": "Imobiliária Cidade Nova",
+          "porte": "Médio",
+          "endereco": "Rua Professor Carlos Bastos, 300",
+          "bairro": "Cidade Nova",
+          "site": null,
+          "instagram": "@imobiliariacidadenova",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.0855,
+          "lng": -60.0174
+        },
+        {
+          "nome": "Realiza Imóveis Manaus",
+          "porte": "Médio",
+          "endereco": "Av. Mário Ypiranga, 2333",
+          "bairro": "Adrianópolis",
+          "site": "https://www.realizamanaus.com.br/",
+          "instagram": "@realizamanaus",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.0855,
+          "lng": -60.0174
+        },
+        {
+          "nome": "Prime Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Rio Japurá, 150",
+          "bairro": "Nossa Senhora das Graças",
+          "site": null,
+          "instagram": "@primeimoveis.manaus",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.0855,
+          "lng": -60.0174
+        },
+        {
+          "nome": "Amazônia Imóveis",
+          "porte": "Médio",
+          "endereco": "Av. Torquato Tapajós, 4000",
+          "bairro": "Colônia Santo Antônio",
+          "site": null,
+          "instagram": "@amazoniaimoveismanaus",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.0855,
+          "lng": -60.0174
+        }
+      ],
+      "Parintins": [
+        {
+          "nome": "Parintins Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Guedes Cassiano, 120",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@parintinsimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -2.6255,
+          "lng": -56.6361
+        },
+        {
+          "nome": "Ilha Bela Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Ercílio Viana, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -2.6255,
+          "lng": -56.6361
+        },
+        {
+          "nome": "Amazônia Real Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Travessa São Francisco, 80",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -2.6255,
+          "lng": -56.6361
+        }
+      ],
+      "Manacapuru": [
+        {
+          "nome": "Manacapuru Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Eduardo Ribeiro, 150",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@manacapurimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.2833,
+          "lng": -60.6294
+        },
+        {
+          "nome": "Império Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida Padre Calixto, 300",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -3.2833,
+          "lng": -60.6294
+        }
+      ],
+      "Itacoatiara": [
+        {
+          "nome": "Itacoatiara Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Marechal Deodoro, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@itacoatiarainter",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.1425,
+          "lng": -58.4444
+        },
+        {
+          "nome": "Rio Amazonas Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida 1º de Maio, 200",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -3.1425,
+          "lng": -58.4444
+        }
+      ],
+      "Maués": [
+        {
+          "nome": "Maués Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua São Sebastião, 100",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@mauesimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.3825,
+          "lng": -57.7239
+        },
+        {
+          "nome": "Guaraná Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Barão do Rio Branco, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -3.3825,
+          "lng": -57.7239
+        }
+      ],
+      "Tefé": [
+        {
+          "nome": "Tefé Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua do Comércio, 150",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@tefeimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.3667,
+          "lng": -64.7333
+        },
+        {
+          "nome": "Amazônia Azul Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida Principal, 80",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -3.3667,
+          "lng": -64.7333
+        }
+      ],
+      "Coari": [
+        {
+          "nome": "Coari Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Getúlio Vargas, 120",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@coarimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -4.0833,
+          "lng": -63.1333
+        },
+        {
+          "nome": "Rio Solimões Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida Brasil, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -4.0833,
+          "lng": -63.1333
+        }
+      ],
+      "Itapiranga": [
+        {
+          "nome": "Itapiranga Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua da Paz, 30",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -2.7075,
+          "lng": -58.6003
+        },
+        {
+          "nome": "Amazonas Verde Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida Principal, 10",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -2.7075,
+          "lng": -58.6003
+        }
+      ],
+      "São Gabriel da Cachoeira": [
+        {
+          "nome": "São Gabriel Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Principal, 40",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -0.1167,
+          "lng": -67.0736
+        },
+        {
+          "nome": "Cachoeira Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida Rio Negro, 20",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -0.1167,
+          "lng": -67.0736
+        }
+      ],
+      "Autazes": [
+        {
+          "nome": "Autazes Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua São Francisco, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -3.575,
+          "lng": -59.0833
+        },
+        {
+          "nome": "Rio Autazes Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida Principal, 15",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -3.575,
+          "lng": -59.0833
+        }
+      ]
+    }
+  },
+  "AP": {
+    "nome": "Amapá",
+    "regiao": "Norte",
+    "cidades": {
+      "Macapá": [
+        {
+          "nome": "Imobiliária Equatorial",
+          "porte": "Grande",
+          "endereco": "Av. FAB, 1000",
+          "bairro": "Central",
+          "site": "https://imobiliariaequatorial.com.br",
+          "instagram": "@imobiliariaequatorial",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ]
+        },
+        {
+          "nome": "Casa Amapá Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Candido Mendes, 500",
+          "bairro": "Jesus de Nazaré",
+          "site": null,
+          "instagram": "@casaamapaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Terrenos"
+          ]
+        },
+        {
+          "nome": "Realiza Imóveis AP",
+          "porte": "Médio",
+          "endereco": "Av. Epitácio Afonso, 750",
+          "bairro": "Trem",
+          "site": "https://realizaimoveisap.com.br",
+          "instagram": "@realizaimoveisap",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ]
+        },
+        {
+          "nome": "AP Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua São José, 300",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@apimoveis",
+          "atuacao": [
+            "Residencial",
+            "Aluguel"
+          ]
+        },
+        {
+          "nome": "Venda Certa Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Travessa São Francisco, 150",
+          "bairro": "Beirol",
+          "site": null,
+          "instagram": "@vendacertaimoveis",
+          "atuacao": [
+            "Residencial"
+          ]
+        },
+        {
+          "nome": "Prime Imóveis AP",
+          "porte": "Médio",
+          "endereco": "Av. Padre Júlio Maria Lombaerd, 1200",
+          "bairro": "Jardim Marco Zero",
+          "site": "https://primeimoveisap.com.br",
+          "instagram": "@primeimoveisap",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ]
+        }
+      ],
+      "Santana": [
+        {
+          "nome": "Santana Imóveis",
+          "porte": "Médio",
+          "endereco": "Av. Princesa Isabel, 800",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@santana_imoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ]
+        },
+        {
+          "nome": "Imobiliária Porto Velho",
+          "porte": "Médio",
+          "endereco": "Rua Rio Japurá, 450",
+          "bairro": "Vila Queiroz",
+          "site": null,
+          "instagram": "@imobiliariaportovelho_ap",
+          "atuacao": [
+            "Residencial"
+          ]
+        },
+        {
+          "nome": "Casa Nova Santana",
+          "porte": "Pequeno",
+          "endereco": "Av. Barão do Rio Branco, 200",
+          "bairro": "Daniel",
+          "site": null,
+          "instagram": "@casanovasantana",
+          "atuacao": [
+            "Residencial",
+            "Terrenos"
+          ]
+        },
+        {
+          "nome": "Conquista Imóveis AP",
+          "porte": "Médio",
+          "endereco": "Rua 13 de Setembro, 600",
+          "bairro": "Paraíso",
+          "site": null,
+          "instagram": "@conquistaimoveisap",
+          "atuacao": [
+            "Residencial",
+            "Aluguel"
+          ]
+        }
+      ],
+      "Laranjal do Jari": [
+        {
+          "nome": "Laranjal Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua 7 de Setembro, 150",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@laranjalimoveis",
+          "atuacao": [
+            "Residencial"
+          ]
+        },
+        {
+          "nome": "Jari Construções e Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Av. Tancredo Neves, 300",
+          "bairro": "Porto",
+          "site": null,
+          "instagram": "@jariconstrucaoesimoveis",
+          "atuacao": [
+            "Residencial",
+            "Terrenos"
+          ]
+        }
+      ],
+      "Oiapoque": [
+        {
+          "nome": "Oiapoque Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua A, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ]
+        }
+      ],
+      "Porto Grande": [
+        {
+          "nome": "Porto Grande Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Principal, 75",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ]
+        }
+      ],
+      "Amapá": [
+        {
+          "nome": "Amapá Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua da Paz, 20",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ]
+        }
+      ],
+      "Ferreira Gomes": [
+        {
+          "nome": "Ferreira Gomes Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida Central, 10",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ]
+        }
+      ],
+      "Calçoene": [
+        {
+          "nome": "Calçoene Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua do Comércio, 30",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ]
+        }
+      ],
+      "Itaubal": [
+        {
+          "nome": "Itaubal Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua da Amizade, 5",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ]
+        }
+      ],
+      "Cutias": [
+        {
+          "nome": "Cutias Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua das Flores, 15",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ]
+        }
+      ]
+    }
+  },
+  "ES": {
+    "nome": "Espírito Santo",
+    "regiao": "Sudeste",
+    "cidades": {
+      "Vitória": [
+        {
+          "nome": "Capixaba Imóveis",
+          "porte": "Grande",
+          "endereco": "Av. Leitão da Silva, 1450",
+          "bairro": "Santa Luiza",
+          "site": "https://www.capixabaimoveis.com.br/",
+          "instagram": "@capixabaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -20.3108,
+          "lng": -40.3043
+        },
+        {
+          "nome": "Prime Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua Constante Sodré, 161",
+          "bairro": "Praia do Canto",
+          "site": "https://www.primeimoveises.com.br/",
+          "instagram": "@primeimoveises",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão",
+            "Lançamentos"
+          ],
+          "lat": -20.3108,
+          "lng": -40.3043
+        },
+        {
+          "nome": "Solução Imobiliária",
+          "porte": "Medio",
+          "endereco": "Rua São Luiz, 100",
+          "bairro": "Jardim Camburi",
+          "site": "https://www.solucaovitoria.com.br/",
+          "instagram": "@solucaovitoria",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -20.3108,
+          "lng": -40.3043
+        },
+        {
+          "nome": "Imobiliária Itapuã",
+          "porte": "Medio",
+          "endereco": "Av. Saturnino de Brito, 1500",
+          "bairro": "Itapuã",
+          "site": "https://www.imobiliariaitapua.com.br/",
+          "instagram": "@imobiliariaitapua",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -20.3108,
+          "lng": -40.3043
+        },
+        {
+          "nome": "Lar Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Eurico Azevedo, 50",
+          "bairro": "Enseada do Suá",
+          "site": null,
+          "instagram": "@lar.imoveis.vix",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -20.3108,
+          "lng": -40.3043
+        }
+      ],
+      "Vila Velha": [
+        {
+          "nome": "Imobiliária Coqueiral",
+          "porte": "Grande",
+          "endereco": "Rua Doutor Jair Gratão, 10",
+          "bairro": "Coqueiral de Itaparica",
+          "site": "https://www.coqueiralimoveis.com.br/",
+          "instagram": "@coqueiralimoveis",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos",
+            "Alto Padrão"
+          ],
+          "lat": -20.3672,
+          "lng": -40.2925
+        },
+        {
+          "nome": "Imobiliária Vila Velha",
+          "porte": "Grande",
+          "endereco": "Av. Santa Leopoldina, 120",
+          "bairro": "Olaria",
+          "site": "https://www.imobiliariavilavelha.com.br/",
+          "instagram": "@imobiliariavilavelha",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -20.3672,
+          "lng": -40.2925
+        },
+        {
+          "nome": "Imóveis Praia da Costa",
+          "porte": "Medio",
+          "endereco": "Av. Champagnat, 800",
+          "bairro": "Praia da Costa",
+          "site": "https://www.imoveispraiacosta.com.br/",
+          "instagram": "@imoveispraiacosta",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão"
+          ],
+          "lat": -20.3672,
+          "lng": -40.2925
+        },
+        {
+          "nome": "Ponto Certo Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua 1, Quadra 12, Lote 5",
+          "bairro": "Aribiri",
+          "site": "https://www.pontocertovv.com.br/",
+          "instagram": "@pontocertovv",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -20.3672,
+          "lng": -40.2925
+        },
+        {
+          "nome": "Imobiliária Atlântica",
+          "porte": "Pequeno",
+          "endereco": "Rua São Francisco de Assis, 30",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imobiliariaatlantica",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -20.3672,
+          "lng": -40.2925
+        }
+      ],
+      "Serra": [
+        {
+          "nome": "Imobiliária Serra",
+          "porte": "Grande",
+          "endereco": "Av. Eldes Schimidt, 500",
+          "bairro": "Serra Dourada III",
+          "site": "https://www.imobiliariaserra.com.br/",
+          "instagram": "@imobiliariaserra",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -20.2607,
+          "lng": -40.2548
+        },
+        {
+          "nome": "Habitat Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua Guarapari, 10",
+          "bairro": "Laranjeiras",
+          "site": "https://www.habitatimoveis.com.br/",
+          "instagram": "@habitatimoveis",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão"
+          ],
+          "lat": -20.2607,
+          "lng": -40.2548
+        },
+        {
+          "nome": "Valor Imóveis",
+          "porte": "Medio",
+          "endereco": "Av. Norte Sul, 2000",
+          "bairro": "Enseada de Jacaraípe",
+          "site": "https://www.valorimoveisserra.com.br/",
+          "instagram": "@valorimoveisserra",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -20.2607,
+          "lng": -40.2548
+        },
+        {
+          "nome": "Imobiliária Jacaraípe",
+          "porte": "Medio",
+          "endereco": "Rua São Miguel, 150",
+          "bairro": "Jacaraípe",
+          "site": "https://www.imobiliariajacaraipe.com.br/",
+          "instagram": "@imobiliariajacaraipe",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -20.2607,
+          "lng": -40.2548
+        },
+        {
+          "nome": "Lar Doce Lar Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua das Flores, 75",
+          "bairro": "Cascata",
+          "site": null,
+          "instagram": "@lardocelar.imoveis.serra",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -20.2607,
+          "lng": -40.2548
+        }
+      ],
+      "Cariacica": [
+        {
+          "nome": "Imobiliária Campo Grande",
+          "porte": "Grande",
+          "endereco": "Av. Expedito Garcia, 500",
+          "bairro": "Campo Grande",
+          "site": "https://www.imobiliariacampogrande.com.br/",
+          "instagram": "@imobiliariacampogrande",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -20.2922,
+          "lng": -40.3798
+        },
+        {
+          "nome": "Cariacica Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua Um, 100",
+          "bairro": "Alto Lage",
+          "site": "https://www.cariacicaimoveis.com.br/",
+          "instagram": "@cariacicaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -20.2922,
+          "lng": -40.3798
+        },
+        {
+          "nome": "Imobiliária Itaquari",
+          "porte": "Medio",
+          "endereco": "Av. Presidente Getúlio Vargas, 300",
+          "bairro": "Itaquari",
+          "site": "https://www.imobiliariaitaquari.com.br/",
+          "instagram": "@imobiliariaitaquari",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -20.2922,
+          "lng": -40.3798
+        },
+        {
+          "nome": "Moradia Cariacica",
+          "porte": "Pequeno",
+          "endereco": "Rua Projetada, 50",
+          "bairro": "Jardim América",
+          "site": null,
+          "instagram": "@moradiacariacica",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -20.2922,
+          "lng": -40.3798
+        }
+      ],
+      "Guarapari": [
+        {
+          "nome": "Imobiliária Guarapari",
+          "porte": "Grande",
+          "endereco": "Av. Don João Gaudenzi, 80",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariaguarapari.com.br/",
+          "instagram": "@imobiliariaguarapari",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos",
+            "Temporada"
+          ],
+          "lat": -20.6656,
+          "lng": -40.4917
+        },
+        {
+          "nome": "Horizonte Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua Joaquim de Almeida, 10",
+          "bairro": "Praia do Morro",
+          "site": "https://www.horizonteimoveis.com.br/",
+          "instagram": "@horizonteimoveisgp",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão",
+            "Temporada"
+          ],
+          "lat": -20.6656,
+          "lng": -40.4917
+        },
+        {
+          "nome": "Praia Bela Imóveis",
+          "porte": "Medio",
+          "endereco": "Av. Guarapari, 1200",
+          "bairro": "Praia Bela",
+          "site": "https://www.praiabelaimoveis.com.br/",
+          "instagram": "@praiabelaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Temporada"
+          ],
+          "lat": -20.6656,
+          "lng": -40.4917
+        },
+        {
+          "nome": "Guarapari Real",
+          "porte": "Medio",
+          "endereco": "Rua das Gaivotas, 50",
+          "bairro": "Centro",
+          "site": "https://www.guaraparireal.com.br/",
+          "instagram": "@guaraparireal",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -20.6656,
+          "lng": -40.4917
+        },
+        {
+          "nome": "Mar e Sol Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Av. Atlântica, 30",
+          "bairro": "Itaparica",
+          "site": null,
+          "instagram": "@mare_sol_imoveis",
+          "atuacao": [
+            "Residencial",
+            "Temporada"
+          ],
+          "lat": -20.6656,
+          "lng": -40.4917
+        }
+      ],
+      "Aracruz": [
+        {
+          "nome": "Imobiliária Aracruz",
+          "porte": "Grande",
+          "endereco": "Av. Jones dos Santos Neves, 100",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariaracruz.com.br/",
+          "instagram": "@imobiliariaracruz",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Industrial"
+          ],
+          "lat": -19.8352,
+          "lng": -40.2608
+        },
+        {
+          "nome": "Litoral Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua do Comércio, 50",
+          "bairro": "Centro",
+          "site": "https://www.litoralimoveisaracruz.com.br/",
+          "instagram": "@litoralimoveisaracruz",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -19.8352,
+          "lng": -40.2608
+        },
+        {
+          "nome": "Aracruz Patrimonial",
+          "porte": "Medio",
+          "endereco": "Av. Getúlio Vargas, 200",
+          "bairro": "Vila Nova",
+          "site": "https://www.aracruzpatrimonial.com.br/",
+          "instagram": "@aracruzpatrimonial",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -19.8352,
+          "lng": -40.2608
+        },
+        {
+          "nome": "Imobiliária Jacupemba",
+          "porte": "Pequeno",
+          "endereco": "Rua Principal, 15",
+          "bairro": "Jacupemba",
+          "site": null,
+          "instagram": "@imobiliariajacupemba",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -19.8352,
+          "lng": -40.2608
+        }
+      ],
+      "Linhares": [
+        {
+          "nome": "Imobiliária Linhares",
+          "porte": "Grande",
+          "endereco": "Av. Augusto Ruschi, 100",
+          "bairro": "Centro",
+          "site": "https://www.imobiliarihalinharees.com.br/",
+          "instagram": "@imobiliarihalinharees",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Rural"
+          ],
+          "lat": -19.3926,
+          "lng": -40.0596
+        },
+        {
+          "nome": "Ponto Certo Imóveis Linhares",
+          "porte": "Grande",
+          "endereco": "Rua Capitão José Lamartine, 50",
+          "bairro": "Centro",
+          "site": "https://www.pontocertolinhareaes.com.br/",
+          "instagram": "@pontocertolinhareaes",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -19.3926,
+          "lng": -40.0596
+        },
+        {
+          "nome": "Imobiliária Lagoa",
+          "porte": "Medio",
+          "endereco": "Av. Jones dos Santos Neves, 300",
+          "bairro": "Lagoa do Meio",
+          "site": "https://www.imobiliarialagoa.com.br/",
+          "instagram": "@imobiliarialagoa",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -19.3926,
+          "lng": -40.0596
+        },
+        {
+          "nome": "Terra Brasil Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Sete de Setembro, 20",
+          "bairro": "BNH",
+          "site": null,
+          "instagram": "@terrabrasilimoveis.lh",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -19.3926,
+          "lng": -40.0596
+        }
+      ],
+      "Cachoeiro de Itapemirim": [
+        {
+          "nome": "Imobiliária Cachoeiro",
+          "porte": "Grande",
+          "endereco": "Rua Dr. Arnaldo Bassini, 10",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariacachoeiro.com.br/",
+          "instagram": "@imobiliariacachoeiro",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Rural"
+          ],
+          "lat": -20.8479,
+          "lng": -41.3135
+        },
+        {
+          "nome": "Itapemirim Imóveis",
+          "porte": "Grande",
+          "endereco": "Av. Jones dos Santos Neves, 500",
+          "bairro": "Centro",
+          "site": "https://www.itapemirimimoveis.com.br/",
+          "instagram": "@itapemirimimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -20.8479,
+          "lng": -41.3135
+        },
+        {
+          "nome": "Foco Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua 7 de Setembro, 150",
+          "bairro": "Centro",
+          "site": "https://www.focimoveiscachoeiro.com.br/",
+          "instagram": "@focimoveiscachoeiro",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -20.8479,
+          "lng": -41.3135
+        },
+        {
+          "nome": "Lar Imóveis Cachoeiro",
+          "porte": "Pequeno",
+          "endereco": "Rua Benjamin Constant, 20",
+          "bairro": "Independência",
+          "site": null,
+          "instagram": "@larimoveiscachoeiro",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -20.8479,
+          "lng": -41.3135
+        }
+      ],
+      "Colatina": [
+        {
+          "nome": "Imobiliária Colatina",
+          "porte": "Grande",
+          "endereco": "Av. Getúlio Vargas, 100",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariacolatina.com.br/",
+          "instagram": "@imobiliariacolatina",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Rural"
+          ],
+          "lat": -19.5329,
+          "lng": -40.6319
+        },
+        {
+          "nome": "Ideal Imóveis Colatina",
+          "porte": "Grande",
+          "endereco": "Rua São João, 50",
+          "bairro": "Centro",
+          "site": "https://www.idealimoveiscolatina.com.br/",
+          "instagram": "@idealimoveiscolatina",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -19.5329,
+          "lng": -40.6319
+        },
+        {
+          "nome": "Colatina Patrimonial",
+          "porte": "Medio",
+          "endereco": "Av. Juscelino Kubitschek, 200",
+          "bairro": "Bela Vista",
+          "site": "https://www.colatinapatrimonial.com.br/",
+          "instagram": "@colatinapatrimonial",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -19.5329,
+          "lng": -40.6319
+        },
+        {
+          "nome": "Lar Doce Lar Colatina",
+          "porte": "Pequeno",
+          "endereco": "Rua das Acácias, 15",
+          "bairro": "Vila Nova",
+          "site": null,
+          "instagram": "@lardocelarc.es",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -19.5329,
+          "lng": -40.6319
+        }
+      ],
+      "Viana": [
+        {
+          "nome": "Imobiliária Viana",
+          "porte": "Grande",
+          "endereco": "Av. Arthur Haese, 100",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariaviana.com.br/",
+          "instagram": "@imobiliariaviana",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Industrial"
+          ],
+          "lat": -20.3031,
+          "lng": -40.4325
+        },
+        {
+          "nome": "Viana Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua Principal, 50",
+          "bairro": "Marcílio Dias",
+          "site": "https://www.vianaimoveis.com.br/",
+          "instagram": "@vianaimoveis.es",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -20.3031,
+          "lng": -40.4325
+        },
+        {
+          "nome": "Vale do Sol Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Av. Guarapari, 10",
+          "bairro": "Universal",
+          "site": null,
+          "instagram": "@valedosolimoveis",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -20.3031,
+          "lng": -40.4325
+        }
+      ]
+    }
+  },
+  "DF": {
+    "nome": "Distrito Federal",
+    "regiao": "Centro-Oeste",
+    "cidades": {
+      "Brasília": [
+        {
+          "nome": "Century Imóveis",
+          "porte": "Grande",
+          "endereco": "SCS Quadra 01 Bloco G Lojas 10/12",
+          "bairro": "Setor Comercial Sul",
+          "site": "https://www.centuryimoveis.com.br/",
+          "instagram": "@centuryimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -15.7942,
+          "lng": -47.8786
+        },
+        {
+          "nome": "Imobiliária Confiança",
+          "porte": "Grande",
+          "endereco": "SCS Quadra 02 Bloco C Lojas 30/32",
+          "bairro": "Setor Comercial Sul",
+          "site": "https://www.imobiliariaconfianca.com.br/",
+          "instagram": "@imobiliariaconfianca",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.7942,
+          "lng": -47.8786
+        },
+        {
+          "nome": "Fernanda Bastos Imóveis",
+          "porte": "Grande",
+          "endereco": "SHIS QI 09 Conjunto 11 Casa 08",
+          "bairro": "Lago Sul",
+          "site": "https://www.fernandabastos.com.br/",
+          "instagram": "@fernandabastos.imoveis",
+          "atuacao": [
+            "Residencial de Alto Padrão"
+          ],
+          "lat": -15.7942,
+          "lng": -47.8786
+        },
+        {
+          "nome": "Capital Imóveis",
+          "porte": "Grande",
+          "endereco": "SCS Quadra 08 Bloco B Lojas 08/10",
+          "bairro": "Setor Comercial Sul",
+          "site": "https://www.capitalimoveis.com.br/",
+          "instagram": "@capitalimoveisdf",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -15.7942,
+          "lng": -47.8786
+        },
+        {
+          "nome": "Agência de Imóveis",
+          "porte": "Grande",
+          "endereco": "SCS Quadra 02 Bloco A Lojas 20/22",
+          "bairro": "Setor Comercial Sul",
+          "site": "https://www.agenciadeimoveis.com.br/",
+          "instagram": "@agenciadeimoveisdf",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.7942,
+          "lng": -47.8786
+        },
+        {
+          "nome": "Prime Imóveis",
+          "porte": "Grande",
+          "endereco": "SCLS 409 Bloco C Loja 21",
+          "bairro": "Asa Sul",
+          "site": "https://www.primeimoveis.com.br/",
+          "instagram": "@primeimoveis.df",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.7942,
+          "lng": -47.8786
+        }
+      ],
+      "Taguatinga": [
+        {
+          "nome": "Imobiliária Taguatinga",
+          "porte": "Grande",
+          "endereco": "Setor A Norte, Conjunto D, Lote 2",
+          "bairro": "Setor A Norte",
+          "site": "https://www.imobiliariatag.com.br/",
+          "instagram": "@imobiliariatag",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8322,
+          "lng": -48.0566
+        },
+        {
+          "nome": "Central Imóveis Taguatinga",
+          "porte": "Grande",
+          "endereco": "Setor L Norte, Quadra 10, Lote 25",
+          "bairro": "Setor L Norte",
+          "site": "https://www.centralimobtag.com.br/",
+          "instagram": "@centralimobtag",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8322,
+          "lng": -48.0566
+        },
+        {
+          "nome": "Realiza Imóveis Taguatinga",
+          "porte": "Grande",
+          "endereco": "Setor B Sul, Quadra 1, Lote 10",
+          "bairro": "Setor B Sul",
+          "site": "https://www.realizaimobtag.com.br/",
+          "instagram": "@realizaimobtag",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8322,
+          "lng": -48.0566
+        },
+        {
+          "nome": "Conquista Imóveis Taguatinga",
+          "porte": "Grande",
+          "endereco": "Setor H Norte, Quadra 2, Lote 5",
+          "bairro": "Setor H Norte",
+          "site": "https://www.conquistaimobtag.com.br/",
+          "instagram": "@conquistaimobtag",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8322,
+          "lng": -48.0566
+        },
+        {
+          "nome": "Prime Taguatinga",
+          "porte": "Grande",
+          "endereco": "Setor C Norte, Quadra 5, Lote 15",
+          "bairro": "Setor C Norte",
+          "site": "https://www.primetag.com.br/",
+          "instagram": "@primetag",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8322,
+          "lng": -48.0566
+        }
+      ],
+      "Ceilândia": [
+        {
+          "nome": "Imobiliária Ceilândia",
+          "porte": "Grande",
+          "endereco": "Setor O, EQ 10/12, Lote 1",
+          "bairro": "Setor O",
+          "site": "https://www.imobceilandia.com.br/",
+          "instagram": "@imobceilandia",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8198,
+          "lng": -48.0712
+        },
+        {
+          "nome": "Central Imóveis Ceilândia",
+          "porte": "Grande",
+          "endereco": "Setor P Sul, EQ 18/20, Lote 2",
+          "bairro": "Setor P Sul",
+          "site": "https://www.centralimobceilandia.com.br/",
+          "instagram": "@centralimobceilandia",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8198,
+          "lng": -48.0712
+        },
+        {
+          "nome": "Realiza Ceilândia",
+          "porte": "Grande",
+          "endereco": "Setor M Norte, EQ 5/7, Lote 3",
+          "bairro": "Setor M Norte",
+          "site": "https://www.realizaceilandia.com.br/",
+          "instagram": "@realizaceilandia",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8198,
+          "lng": -48.0712
+        },
+        {
+          "nome": "Conquista Ceilândia",
+          "porte": "Grande",
+          "endereco": "Setor G Norte, EQ 2/4, Lote 4",
+          "bairro": "Setor G Norte",
+          "site": "https://www.conquistaçoitlandia.com.br/",
+          "instagram": "@conquistaçoitlandia",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8198,
+          "lng": -48.0712
+        },
+        {
+          "nome": "Prime Ceilândia",
+          "porte": "Grande",
+          "endereco": "Setor QNM 20, Conjunto A, Lote 1",
+          "bairro": "Ceilândia Sul",
+          "site": "https://www.primeceilandia.com.br/",
+          "instagram": "@primeceilandia",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8198,
+          "lng": -48.0712
+        }
+      ],
+      "Planaltina": [
+        {
+          "nome": "Imobiliária Planaltina",
+          "porte": "Grande",
+          "endereco": "Setor Leste, Quadra 10, Lote 1",
+          "bairro": "Setor Leste",
+          "site": "https://www.imobplanaltina.com.br/",
+          "instagram": "@imobplanaltina",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.7097,
+          "lng": -47.7286
+        },
+        {
+          "nome": "Central Imóveis Planaltina",
+          "porte": "Grande",
+          "endereco": "Setor Oeste, Quadra 5, Lote 2",
+          "bairro": "Setor Oeste",
+          "site": "https://www.centralimobplanaltina.com.br/",
+          "instagram": "@centralimobplanaltina",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.7097,
+          "lng": -47.7286
+        },
+        {
+          "nome": "Realiza Planaltina",
+          "porte": "Grande",
+          "endereco": "Vila Nei, Quadra 1, Lote 3",
+          "bairro": "Vila Nei",
+          "site": "https://www.realizaplanaltina.com.br/",
+          "instagram": "@realizaplanaltina",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.7097,
+          "lng": -47.7286
+        },
+        {
+          "nome": "Conquista Planaltina",
+          "porte": "Grande",
+          "endereco": "Setor Norte, Quadra 2, Lote 4",
+          "bairro": "Setor Norte",
+          "site": "https://www.conquistaplanaltina.com.br/",
+          "instagram": "@conquistaplanaltina",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.7097,
+          "lng": -47.7286
+        },
+        {
+          "nome": "Planaltina Imóveis",
+          "porte": "Grande",
+          "endereco": "Setor Leste, Quadra 15, Lote 5",
+          "bairro": "Setor Leste",
+          "site": "https://www.planaltinaimoveis.com.br/",
+          "instagram": "@planaltinaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.7097,
+          "lng": -47.7286
+        }
+      ],
+      "Gama": [
+        {
+          "nome": "Imobiliária Gama",
+          "porte": "Grande",
+          "endereco": "Setor Leste, Quadra 1, Lote 1",
+          "bairro": "Setor Leste",
+          "site": "https://www.imobgama.com.br/",
+          "instagram": "@imobgama",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.9715,
+          "lng": -47.9276
+        },
+        {
+          "nome": "Central Imóveis Gama",
+          "porte": "Grande",
+          "endereco": "Setor Sul, Quadra 2, Lote 2",
+          "bairro": "Setor Sul",
+          "site": "https://www.centralimobgama.com.br/",
+          "instagram": "@centralimobgama",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.9715,
+          "lng": -47.9276
+        },
+        {
+          "nome": "Realiza Gama",
+          "porte": "Grande",
+          "endereco": "Setor Norte, Quadra 3, Lote 3",
+          "bairro": "Setor Norte",
+          "site": "https://www.realizagama.com.br/",
+          "instagram": "@realizagama",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.9715,
+          "lng": -47.9276
+        },
+        {
+          "nome": "Gama Imóveis",
+          "porte": "Grande",
+          "endereco": "Setor Leste, Quadra 5, Lote 4",
+          "bairro": "Setor Leste",
+          "site": "https://www.gamaimoveis.com.br/",
+          "instagram": "@gamaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.9715,
+          "lng": -47.9276
+        },
+        {
+          "nome": "Conquista Gama",
+          "porte": "Grande",
+          "endereco": "Setor Sul, Quadra 4, Lote 5",
+          "bairro": "Setor Sul",
+          "site": "https://www.conquistagama.com.br/",
+          "instagram": "@conquistagama",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.9715,
+          "lng": -47.9276
+        }
+      ],
+      "Recanto das Emas": [
+        {
+          "nome": "Imobiliária Recanto",
+          "porte": "Grande",
+          "endereco": "Quadra 102, Conjunto 1, Lote 1",
+          "bairro": "Recanto das Emas",
+          "site": "https://www.imobrecanto.com.br/",
+          "instagram": "@imobrecanto",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8778,
+          "lng": -48.0799
+        },
+        {
+          "nome": "Central Imóveis Recanto",
+          "porte": "Grande",
+          "endereco": "Quadra 302, Conjunto 3, Lote 2",
+          "bairro": "Recanto das Emas",
+          "site": "https://www.centralimobrecanto.com.br/",
+          "instagram": "@centralimobrecanto",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8778,
+          "lng": -48.0799
+        },
+        {
+          "nome": "Realiza Recanto",
+          "porte": "Grande",
+          "endereco": "Quadra 502, Conjunto 5, Lote 3",
+          "bairro": "Recanto das Emas",
+          "site": "https://www.realizarecanto.com.br/",
+          "instagram": "@realizarecanto",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8778,
+          "lng": -48.0799
+        },
+        {
+          "nome": "Conquista Recanto",
+          "porte": "Grande",
+          "endereco": "Quadra 702, Conjunto 7, Lote 4",
+          "bairro": "Recanto das Emas",
+          "site": "https://www.conquistarecanto.com.br/",
+          "instagram": "@conquistarecanto",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8778,
+          "lng": -48.0799
+        },
+        {
+          "nome": "Recanto Imóveis",
+          "porte": "Grande",
+          "endereco": "Quadra 902, Conjunto 9, Lote 5",
+          "bairro": "Recanto das Emas",
+          "site": "https://www.recantimoveis.com.br/",
+          "instagram": "@recantimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8778,
+          "lng": -48.0799
+        }
+      ],
+      "Samambaia": [
+        {
+          "nome": "Imobiliária Samambaia",
+          "porte": "Grande",
+          "endereco": "Quadra 102, Conjunto 1, Lote 1",
+          "bairro": "Samambaia Sul",
+          "site": "https://www.imobsamambaia.com.br/",
+          "instagram": "@imobsamambaia",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8486,
+          "lng": -48.0867
+        },
+        {
+          "nome": "Central Imóveis Samambaia",
+          "porte": "Grande",
+          "endereco": "Quadra 302, Conjunto 3, Lote 2",
+          "bairro": "Samambaia Sul",
+          "site": "https://www.centralimobsamambaia.com.br/",
+          "instagram": "@centralimobsamambaia",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8486,
+          "lng": -48.0867
+        },
+        {
+          "nome": "Realiza Samambaia",
+          "porte": "Grande",
+          "endereco": "Quadra 502, Conjunto 5, Lote 3",
+          "bairro": "Samambaia Sul",
+          "site": "https://www.realizasamambaia.com.br/",
+          "instagram": "@realizasamambaia",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8486,
+          "lng": -48.0867
+        },
+        {
+          "nome": "Conquista Samambaia",
+          "porte": "Grande",
+          "endereco": "Quadra 702, Conjunto 7, Lote 4",
+          "bairro": "Samambaia Sul",
+          "site": "https://www.conquistasamambaia.com.br/",
+          "instagram": "@conquistasamambaia",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8486,
+          "lng": -48.0867
+        },
+        {
+          "nome": "Samambaia Imóveis",
+          "porte": "Grande",
+          "endereco": "Quadra 902, Conjunto 9, Lote 5",
+          "bairro": "Samambaia Sul",
+          "site": "https://www.samambaiimoveis.com.br/",
+          "instagram": "@samambaiimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.8486,
+          "lng": -48.0867
+        }
+      ],
+      "Nucleo Bandeirante": [
+        {
+          "nome": "Imobiliária Bandeirante",
+          "porte": "Grande",
+          "endereco": "Setor de Indústrias Gráficas, Quadra 03, Lote 05",
+          "bairro": "Setor de Indústrias Gráficas",
+          "site": "https://www.imobbandeirante.com.br/",
+          "instagram": "@imobbandeirante",
+          "atuacao": [
+            "Comercial",
+            "Industrial"
+          ],
+          "lat": -15.8333,
+          "lng": -47.9167
+        },
+        {
+          "nome": "Central Imóveis Bandeirante",
+          "porte": "Grande",
+          "endereco": "Setor Comercial, Quadra 02, Lote 03",
+          "bairro": "Setor Comercial",
+          "site": "https://www.centralimobbandeirante.com.br/",
+          "instagram": "@centralimobbandeirante",
+          "atuacao": [
+            "Comercial",
+            "Residencial"
+          ],
+          "lat": -15.8333,
+          "lng": -47.9167
+        },
+        {
+          "nome": "Bandeirante Imóveis",
+          "porte": "Grande",
+          "endereco": "Setor de Armazenagem e Distribuição, Quadra 01, Lote 02",
+          "bairro": "Setor de Armazenagem e Distribuição",
+          "site": "https://www.bandeiranteimoveis.com.br/",
+          "instagram": "@bandeiranteimoveis",
+          "atuacao": [
+            "Comercial",
+            "Industrial"
+          ],
+          "lat": -15.8333,
+          "lng": -47.9167
+        },
+        {
+          "nome": "Realiza Bandeirante",
+          "porte": "Grande",
+          "endereco": "Setor de Oficinas, Quadra 04, Lote 01",
+          "bairro": "Setor de Oficinas",
+          "site": "https://www.realizabandeirante.com.br/",
+          "instagram": "@realizabandeirante",
+          "atuacao": [
+            "Comercial",
+            "Industrial"
+          ],
+          "lat": -15.8333,
+          "lng": -47.9167
+        },
+        {
+          "nome": "Conquista Bandeirante",
+          "porte": "Grande",
+          "endereco": "Setor Comercial, Quadra 05, Lote 04",
+          "bairro": "Setor Comercial",
+          "site": "https://www.conquistabandeirante.com.br/",
+          "instagram": "@conquistabandeirante",
+          "atuacao": [
+            "Comercial",
+            "Residencial"
+          ],
+          "lat": -15.8333,
+          "lng": -47.9167
+        }
+      ],
+      "Sobradinho": [
+        {
+          "nome": "Imobili��ria Sobradinho",
+          "porte": "Grande",
+          "endereco": "Quadra 03, Bloco C, Lojas 10/12",
+          "bairro": "Quadra 03",
+          "site": "https://www.imobsobradinho.com.br/",
+          "instagram": "@imobsobradinho",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.7494,
+          "lng": -47.7967
+        },
+        {
+          "nome": "Central Imóveis Sobradinho",
+          "porte": "Grande",
+          "endereco": "Quadra 05, Bloco A, Lojas 05/07",
+          "bairro": "Quadra 05",
+          "site": "https://www.centralimobsobradinho.com.br/",
+          "instagram": "@centralimobsobradinho",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.7494,
+          "lng": -47.7967
+        },
+        {
+          "nome": "Realiza Sobradinho",
+          "porte": "Grande",
+          "endereco": "Quadra 07, Bloco D, Lojas 15/17",
+          "bairro": "Quadra 07",
+          "site": "https://www.realizasoabradinho.com.br/",
+          "instagram": "@realizasoabradinho",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.7494,
+          "lng": -47.7967
+        },
+        {
+          "nome": "Conquista Sobradinho",
+          "porte": "Grande",
+          "endereco": "Quadra 09, Bloco B, Lojas 20/22",
+          "bairro": "Quadra 09",
+          "site": "https://www.conquistasoabradinho.com.br/",
+          "instagram": "@conquistasoabradinho",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.7494,
+          "lng": -47.7967
+        },
+        {
+          "nome": "Sobradinho Imóveis",
+          "porte": "Grande",
+          "endereco": "Quadra 11, Bloco E, Lojas 25/27",
+          "bairro": "Quadra 11",
+          "site": "https://www.sobradinhoimoveis.com.br/",
+          "instagram": "@sobradinhoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.7494,
+          "lng": -47.7967
+        }
+      ],
+      "Riacho Fundo": [
+        {
+          "nome": "Imobiliária Riacho",
+          "porte": "Grande",
+          "endereco": "Quadra 07, Conjunto 1, Lote 1",
+          "bairro": "Riacho Fundo I",
+          "site": "https://www.imobriacho.com.br/",
+          "instagram": "@imobriacho",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.875,
+          "lng": -48.0306
+        },
+        {
+          "nome": "Central Imóveis Riacho",
+          "porte": "Grande",
+          "endereco": "Quadra 10, Conjunto 2, Lote 2",
+          "bairro": "Riacho Fundo II",
+          "site": "https://www.centralimobriacho.com.br/",
+          "instagram": "@centralimobriacho",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.875,
+          "lng": -48.0306
+        },
+        {
+          "nome": "Realiza Riacho",
+          "porte": "Grande",
+          "endereco": "Quadra 15, Conjunto 3, Lote 3",
+          "bairro": "Riacho Fundo I",
+          "site": "https://www.realizariacho.com.br/",
+          "instagram": "@realizariacho",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.875,
+          "lng": -48.0306
+        },
+        {
+          "nome": "Conquista Riacho",
+          "porte": "Grande",
+          "endereco": "Quadra 20, Conjunto 4, Lote 4",
+          "bairro": "Riacho Fundo II",
+          "site": "https://www.conquistariacho.com.br/",
+          "instagram": "@conquistariacho",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.875,
+          "lng": -48.0306
+        },
+        {
+          "nome": "Riacho Imóveis",
+          "porte": "Grande",
+          "endereco": "Quadra 25, Conjunto 5, Lote 5",
+          "bairro": "Riacho Fundo I",
+          "site": "https://www.riachoimoveis.com.br/",
+          "instagram": "@riachoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -15.875,
+          "lng": -48.0306
+        }
+      ]
+    }
+  },
+  "CE": {
+    "nome": "Ceará",
+    "regiao": "Nordeste",
+    "cidades": {
+      "Fortaleza": [
+        {
+          "nome": "Capim Macio Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua Professor Antero de Quental, 550",
+          "bairro": "Meireles",
+          "site": "https://www.capimmacio.com.br/",
+          "instagram": "@capimmacioimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -3.73186,
+          "lng": -38.52686
+        },
+        {
+          "nome": "Mansão Imóveis",
+          "porte": "Grande",
+          "endereco": "Avenida Dom Luís, 1200",
+          "bairro": "Aldeota",
+          "site": "https://www.mansaoimoveis.com.br/",
+          "instagram": "@mansaoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão",
+            "Lançamentos"
+          ],
+          "lat": -3.73186,
+          "lng": -38.52686
+        },
+        {
+          "nome": "J. Sales Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua Osvaldo Aranha, 110",
+          "bairro": "Aldeota",
+          "site": "https://www.jsalesimoveis.com.br/",
+          "instagram": "@jsalesimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -3.73186,
+          "lng": -38.52686
+        },
+        {
+          "nome": "Apolônio Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Santos Dumont, 3131",
+          "bairro": "Aldeota",
+          "site": "https://www.apolonimoveis.com.br/",
+          "instagram": "@apolonimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.73186,
+          "lng": -38.52686
+        },
+        {
+          "nome": "Elite Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Beira Mar, 4100",
+          "bairro": "Mucuripe",
+          "site": null,
+          "instagram": "@eliteimoveisfortaleza",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão"
+          ],
+          "lat": -3.73186,
+          "lng": -38.52686
+        },
+        {
+          "nome": "Urban Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua Professor Olavo Sá, 150",
+          "bairro": "Meireles",
+          "site": "https://www.urbanimoveis.com.br/",
+          "instagram": "@urbanimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.73186,
+          "lng": -38.52686
+        }
+      ],
+      "Juazeiro do Norte": [
+        {
+          "nome": "Imobiliária Sales",
+          "porte": "Medio",
+          "endereco": "Rua São Pedro, 1140",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariasales.com.br/",
+          "instagram": "@imobiliariasalesjuazeiro",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Terrenos"
+          ],
+          "lat": -7.21014,
+          "lng": -39.31574
+        },
+        {
+          "nome": "Gomes Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Castelo Branco, 1150",
+          "bairro": "Triângulo",
+          "site": null,
+          "instagram": "@gomesimoveisjuazeiro",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -7.21014,
+          "lng": -39.31574
+        },
+        {
+          "nome": "Lopes Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua Sargento Inácio, 450",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@lopesimoveisjuazeiro",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -7.21014,
+          "lng": -39.31574
+        },
+        {
+          "nome": "Casa Nova Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua do Cruzeiro, 780",
+          "bairro": "Franciscanos",
+          "site": null,
+          "instagram": "@casanovaimoveisjuazeiro",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -7.21014,
+          "lng": -39.31574
+        }
+      ],
+      "Caucaia": [
+        {
+          "nome": "Imobiliária Cumbuco",
+          "porte": "Medio",
+          "endereco": "Rua da Liberdade, 300",
+          "bairro": "Cumbuco",
+          "site": null,
+          "instagram": "@imobiliariacumbuco",
+          "atuacao": [
+            "Residencial",
+            "Litoral",
+            "Aluguel de Temporada"
+          ],
+          "lat": -3.67562,
+          "lng": -38.54594
+        },
+        {
+          "nome": "Caucaia Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Alcântara, 900",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@caucaiaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.67562,
+          "lng": -38.54594
+        },
+        {
+          "nome": "Praia do Futuro Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua das Dunas, 150",
+          "bairro": "Icarai",
+          "site": null,
+          "instagram": "@praiado Futuroimoveis",
+          "atuacao": [
+            "Residencial",
+            "Litoral"
+          ],
+          "lat": -3.67562,
+          "lng": -38.54594
+        }
+      ],
+      "Maracanaú": [
+        {
+          "nome": "Maracanaú Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida V, 1200",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@maracanaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.85197,
+          "lng": -38.61945
+        },
+        {
+          "nome": "J. Silva Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua Principal, 345",
+          "bairro": "Pajuçara",
+          "site": null,
+          "instagram": "@jsilvaimoveis",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -3.85197,
+          "lng": -38.61945
+        }
+      ],
+      "Sobral": [
+        {
+          "nome": "Sobral Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Dom José Tupinambá da Frota, 1500",
+          "bairro": "Centro",
+          "site": "https://www.sobralimoveis.com.br/",
+          "instagram": "@sobralimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.69067,
+          "lng": -40.36322
+        },
+        {
+          "nome": "Real Imobiliária",
+          "porte": "Medio",
+          "endereco": "Rua Coronel Mont'Alverne, 400",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@realimobsobral",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.69067,
+          "lng": -40.36322
+        },
+        {
+          "nome": "Nova Era Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida John Kennedy, 750",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@novaeraimoveissobral",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -3.69067,
+          "lng": -40.36322
+        }
+      ],
+      "Eusébio": [
+        {
+          "nome": "Eusébio Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Eusébio de Queiroz, 1000",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@eusebioimoveis",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão",
+            "Lançamentos"
+          ],
+          "lat": -3.85216,
+          "lng": -38.40015
+        },
+        {
+          "nome": "Alphaville Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Central, 500",
+          "bairro": "Alphaville Eusébio",
+          "site": null,
+          "instagram": "@alphavilleeusebio",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão"
+          ],
+          "lat": -3.85216,
+          "lng": -38.40015
+        }
+      ],
+      "Pacatuba": [
+        {
+          "nome": "Pacatuba Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua da Matriz, 120",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@pacatubaimoveis",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -3.88811,
+          "lng": -38.55005
+        }
+      ],
+      "Horizonte": [
+        {
+          "nome": "Horizonte Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida principal, 800",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@horizonteimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.86933,
+          "lng": -38.53036
+        },
+        {
+          "nome": "Nova Horizonte Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Rua das Flores, 50",
+          "bairro": "Jardim das Flores",
+          "site": null,
+          "instagram": "@novahorizonteimoveis",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -3.86933,
+          "lng": -38.53036
+        }
+      ],
+      "Aquiraz": [
+        {
+          "nome": "Aquiraz Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Manoel de Castro, 300",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@aquirazimoveis",
+          "atuacao": [
+            "Residencial",
+            "Litoral",
+            "Lançamentos"
+          ],
+          "lat": -3.89395,
+          "lng": -38.39691
+        },
+        {
+          "nome": "Porto das Dunas Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida dos Golfinhos, 100",
+          "bairro": "Porto das Dunas",
+          "site": null,
+          "instagram": "@portodasdunasimoveis",
+          "atuacao": [
+            "Residencial",
+            "Litoral",
+            "Aluguel de Temporada"
+          ],
+          "lat": -3.89395,
+          "lng": -38.39691
+        }
+      ],
+      "Iguatu": [
+        {
+          "nome": "Iguatu Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua Coronel Costa, 500",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@iguatuimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -6.07783,
+          "lng": -39.10668
+        },
+        {
+          "nome": "Sul Ceará Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Avenida Adauto Bezerra, 200",
+          "bairro": "Vila Centenário",
+          "site": null,
+          "instagram": "@sulcearaimoveis",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -6.07783,
+          "lng": -39.10668
+        }
+      ]
+    }
+  },
+  "BA": {
+    "nome": "Bahia",
+    "regiao": "Nordeste",
+    "cidades": {
+      "Salvador": [
+        {
+          "nome": "Capital Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua Professor Fernando Filgueiras, 147",
+          "bairro": "Caminho das Árvores",
+          "site": "https://www.capitalimoveis.com.br/",
+          "instagram": "@capitalimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos",
+            "Alto Padrão"
+          ],
+          "lat": -12.9961,
+          "lng": -38.4759
+        },
+        {
+          "nome": "Aloísio de Andrade Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua Altino Serbeto de Barros, 265",
+          "bairro": "Pituba",
+          "site": "https://www.aloisioandrade.com.br/",
+          "instagram": "@aloisioandradeimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -12.9961,
+          "lng": -38.4759
+        },
+        {
+          "nome": "Real Invest Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua Doutor José Peroba, 235",
+          "bairro": "Stiep",
+          "site": "https://www.realinvestimoveis.com.br/",
+          "instagram": "@realinvestimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -12.9961,
+          "lng": -38.4759
+        },
+        {
+          "nome": "Bahia Real Imóveis",
+          "porte": "Medio",
+          "endereco": "Avenida Manoel Dias da Silva, 1880",
+          "bairro": "Pituba",
+          "site": "https://www.bahi real.com.br/",
+          "instagram": "@bahiainvestimentos",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -12.9961,
+          "lng": -38.4759
+        },
+        {
+          "nome": "Prime Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua das Hortênsias, 777",
+          "bairro": "Pituba",
+          "site": null,
+          "instagram": "@primeimoveis.ba",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Alto Padrão"
+          ],
+          "lat": -12.9961,
+          "lng": -38.4759
+        }
+      ],
+      "Feira de Santana": [
+        {
+          "nome": "Imobiliária União",
+          "porte": "Grande",
+          "endereco": "Rua do Telégrafo, 63",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariauniao.com.br/",
+          "instagram": "@imobiliariauniao.feiradesantana",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -12.2619,
+          "lng": -38.9574
+        },
+        {
+          "nome": "Imobiliária Real Feira",
+          "porte": "Medio",
+          "endereco": "Rua Frei apolinário, 21",
+          "bairro": "Centro",
+          "site": "https://www.realfeiraimoveis.com.br/",
+          "instagram": "@imobiliariarealfeiraimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -12.2619,
+          "lng": -38.9574
+        },
+        {
+          "nome": "Imobiliária Central",
+          "porte": "Medio",
+          "endereco": "Rua São Francisco, 40",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imobiliariacentralfs",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -12.2619,
+          "lng": -38.9574
+        },
+        {
+          "nome": "Imobiliária Conquista",
+          "porte": "Medio",
+          "endereco": "Rua Frei apolinário, 21",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariaconquista.com.br/",
+          "instagram": "@imobiliariaconquista",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -12.2619,
+          "lng": -38.9574
+        },
+        {
+          "nome": "Imobiliária Nova Era",
+          "porte": "Pequeno",
+          "endereco": "Rua da Consolação, 15",
+          "bairro": "Ponto Central",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -12.2619,
+          "lng": -38.9574
+        }
+      ],
+      "Vitória da Conquista": [
+        {
+          "nome": "Imobiliária Colonial",
+          "porte": "Grande",
+          "endereco": "Rua São Pedro, 77",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariacolonial.com.br/",
+          "instagram": "@imobiliariacolonial",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -14.8576,
+          "lng": -40.8366
+        },
+        {
+          "nome": "Imobiliária Conquista",
+          "porte": "Medio",
+          "endereco": "Avenida Lauro de Freitas, 450",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariaconquista.com.br/",
+          "instagram": "@imobiliariaconquista.vc",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -14.8576,
+          "lng": -40.8366
+        },
+        {
+          "nome": "Imobiliária Real",
+          "porte": "Medio",
+          "endereco": "Rua Siqueira Campos, 120",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imobiliariareal.vc",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -14.8576,
+          "lng": -40.8366
+        },
+        {
+          "nome": "Imobiliária Progresso",
+          "porte": "Medio",
+          "endereco": "Rua do Cruzeiro, 35",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariaprogresso.com.br/",
+          "instagram": "@imobiliariaprogresso",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -14.8576,
+          "lng": -40.8366
+        },
+        {
+          "nome": "Imobiliária Central",
+          "porte": "Pequeno",
+          "endereco": "Rua 10 de Novembro, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -14.8576,
+          "lng": -40.8366
+        }
+      ],
+      "Camaçari": [
+        {
+          "nome": "Camaçari Imóveis",
+          "porte": "Grande",
+          "endereco": "Avenida do Contorno, 100",
+          "bairro": "Centro",
+          "site": "https://www.camaçariimoveis.com.br/",
+          "instagram": "@camaçariimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -12.7088,
+          "lng": -38.3172
+        },
+        {
+          "nome": "Imobiliária Bela Vista",
+          "porte": "Medio",
+          "endereco": "Rua Rio de Janeiro, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imobiliariabelavistacamacari",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -12.7088,
+          "lng": -38.3172
+        },
+        {
+          "nome": "Imobiliária Sol Nascente",
+          "porte": "Medio",
+          "endereco": "Avenida 28 de Setembro, 20",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariasolnascente.com.br/",
+          "instagram": "@imobiliariasolnascentecamacari",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -12.7088,
+          "lng": -38.3172
+        },
+        {
+          "nome": "Imobiliária Camaçari Viva",
+          "porte": "Medio",
+          "endereco": "Rua Paraíba, 15",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@camaçari.viva.imoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -12.7088,
+          "lng": -38.3172
+        },
+        {
+          "nome": "Imobiliária Futura",
+          "porte": "Pequeno",
+          "endereco": "Rua Bahia, 30",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -12.7088,
+          "lng": -38.3172
+        }
+      ],
+      "Juazeiro": [
+        {
+          "nome": "Imobiliária Juazeiro",
+          "porte": "Grande",
+          "endereco": "Rua Oscar Ribeiro, 120",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariajuazeiro.com.br/",
+          "instagram": "@imobiliariajuazeiro",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -9.4097,
+          "lng": -40.5078
+        },
+        {
+          "nome": "Imobiliária Rio São Francisco",
+          "porte": "Medio",
+          "endereco": "Avenida Raul Alves, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imobiliariariosaofrancisco",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -9.4097,
+          "lng": -40.5078
+        },
+        {
+          "nome": "Imobiliária Portal do Sertão",
+          "porte": "Medio",
+          "endereco": "Rua da Aurora, 30",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariaportaldosertao.com.br/",
+          "instagram": "@portaldosertao.imoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -9.4097,
+          "lng": -40.5078
+        },
+        {
+          "nome": "Imobiliária Nova Vida",
+          "porte": "Medio",
+          "endereco": "Rua do Comércio, 15",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -9.4097,
+          "lng": -40.5078
+        },
+        {
+          "nome": "Imobiliária Real",
+          "porte": "Pequeno",
+          "endereco": "Rua do Sol, 25",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -9.4097,
+          "lng": -40.5078
+        }
+      ],
+      "Lauro de Freitas": [
+        {
+          "nome": "Lauro de Freitas Imóveis",
+          "porte": "Grande",
+          "endereco": "Avenida Santos Dumont, 100",
+          "bairro": "Centro",
+          "site": "https://www.laurodefreitasimoveis.com.br/",
+          "instagram": "@laurodefreitasimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos",
+            "Alto Padrão"
+          ],
+          "lat": -12.9215,
+          "lng": -38.3188
+        },
+        {
+          "nome": "Imobiliária Vilas",
+          "porte": "Medio",
+          "endereco": "Rua das Bromélias, 50",
+          "bairro": "Vilas do Atlântico",
+          "site": "https://www.imobiliariavilas.com.br/",
+          "instagram": "@imobiliariavilas",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão"
+          ],
+          "lat": -12.9215,
+          "lng": -38.3188
+        },
+        {
+          "nome": "Imobiliária Inter",
+          "porte": "Medio",
+          "endereco": "Avenida do Atlântico, 20",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imobiliariainter.lf",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -12.9215,
+          "lng": -38.3188
+        },
+        {
+          "nome": "Imobiliária Conquista Lauro",
+          "porte": "Medio",
+          "endereco": "Rua do Sol, 30",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariaconquistalauro.com.br/",
+          "instagram": "@imobiliariaconquistalauro",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -12.9215,
+          "lng": -38.3188
+        },
+        {
+          "nome": "Imobiliária Nova Era Lauro",
+          "porte": "Pequeno",
+          "endereco": "Rua das Flores, 10",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -12.9215,
+          "lng": -38.3188
+        }
+      ],
+      "Itabuna": [
+        {
+          "nome": "Imobiliária Jacarandá",
+          "porte": "Grande",
+          "endereco": "Rua Elias Zacarias, 100",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariajacaranda.com.br/",
+          "instagram": "@imobiliariajacaranda",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -14.8073,
+          "lng": -39.2939
+        },
+        {
+          "nome": "Imobiliária Bahia Sul",
+          "porte": "Medio",
+          "endereco": "Avenida Juracy Magalhães, 50",
+          "bairro": "Centro",
+          "site": "https://www.bahiassulimoveis.com.br/",
+          "instagram": "@bahiasulimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -14.8073,
+          "lng": -39.2939
+        },
+        {
+          "nome": "Imobiliária Real Itabuna",
+          "porte": "Medio",
+          "endereco": "Rua do Comércio, 20",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imobiliariareal.itabuna",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -14.8073,
+          "lng": -39.2939
+        },
+        {
+          "nome": "Imobiliária Itabuna",
+          "porte": "Medio",
+          "endereco": "Rua Elias Zacarias, 77",
+          "bairro": "Centro",
+          "site": "https://www.imobiliaria-itabuna.com.br/",
+          "instagram": "@imobiliariadeitabuna",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -14.8073,
+          "lng": -39.2939
+        },
+        {
+          "nome": "Imobiliária Novo Lar",
+          "porte": "Pequeno",
+          "endereco": "Rua São João, 15",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -14.8073,
+          "lng": -39.2939
+        }
+      ],
+      "Ilhéus": [
+        {
+          "nome": "Ilhéus Imóveis",
+          "porte": "Grande",
+          "endereco": "Avenida Soares Lopes, 100",
+          "bairro": "Centro",
+          "site": "https://www.ilheusimoveis.com.br/",
+          "instagram": "@ilheusimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos",
+            "Turismo"
+          ],
+          "lat": -14.7909,
+          "lng": -39.0398
+        },
+        {
+          "nome": "Imobiliária Costa do Cacau",
+          "porte": "Medio",
+          "endereco": "Rua Visconde de Mauá, 50",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariacostadocacau.com.br/",
+          "instagram": "@costadocacauimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Turismo"
+          ],
+          "lat": -14.7909,
+          "lng": -39.0398
+        },
+        {
+          "nome": "Imobiliária Atlântica",
+          "porte": "Medio",
+          "endereco": "Avenida Lomanto Júnior, 20",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imobiliariaatlantica.ilheus",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -14.7909,
+          "lng": -39.0398
+        },
+        {
+          "nome": "Imobiliária Real Ilhéus",
+          "porte": "Medio",
+          "endereco": "Rua Dom Pedro II, 30",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imobiliariareal.ilheus",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -14.7909,
+          "lng": -39.0398
+        },
+        {
+          "nome": "Imobiliária Novo Horizonte",
+          "porte": "Pequeno",
+          "endereco": "Rua do Sol, 10",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -14.7909,
+          "lng": -39.0398
+        }
+      ],
+      "Porto Seguro": [
+        {
+          "nome": "Porto Seguro Imóveis",
+          "porte": "Grande",
+          "endereco": "Avenida Beira Mar, 100",
+          "bairro": "Centro",
+          "site": "https://www.portoseguroimoveis.com.br/",
+          "instagram": "@portoseguroimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Turismo",
+            "Lançamentos"
+          ],
+          "lat": -16.4441,
+          "lng": -39.0714
+        },
+        {
+          "nome": "Imobiliária Arraial D'Ajuda",
+          "porte": "Medio",
+          "endereco": "Rua do Mucugê, 50",
+          "bairro": "Arraial d'Ajuda",
+          "site": "https://www.imobiliariaarraial.com.br/",
+          "instagram": "@imobiliariaarraial",
+          "atuacao": [
+            "Residencial",
+            "Turismo"
+          ],
+          "lat": -16.4441,
+          "lng": -39.0714
+        },
+        {
+          "nome": "Imobiliária Trancoso",
+          "porte": "Medio",
+          "endereco": "Rua Principal, 20",
+          "bairro": "Trancoso",
+          "site": "https://www.imobiliariatrancoso.com.br/",
+          "instagram": "@imobiliariatrancoso",
+          "atuacao": [
+            "Residencial",
+            "Turismo",
+            "Alto Padrão"
+          ],
+          "lat": -16.4441,
+          "lng": -39.0714
+        },
+        {
+          "nome": "Imobiliária Porto Seguro Viva",
+          "porte": "Medio",
+          "endereco": "Avenida Getúlio Vargas, 30",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@portoseguroviva.imoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.4441,
+          "lng": -39.0714
+        },
+        {
+          "nome": "Imobiliária Sol Nascente Porto",
+          "porte": "Pequeno",
+          "endereco": "Rua do Mar, 15",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -16.4441,
+          "lng": -39.0714
+        }
+      ],
+      "Barreiras": [
+        {
+          "nome": "Barreiras Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua do Comércio, 100",
+          "bairro": "Centro",
+          "site": "https://www.barreirasimoveis.com.br/",
+          "instagram": "@barreirasimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -12.1404,
+          "lng": -42.7027
+        },
+        {
+          "nome": "Imobiliária Oeste",
+          "porte": "Medio",
+          "endereco": "Avenida ACM, 50",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariaoeste.com.br/",
+          "instagram": "@imobiliariaoeste.ba",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -12.1404,
+          "lng": -42.7027
+        },
+        {
+          "nome": "Imobiliária Portal do Oeste",
+          "porte": "Medio",
+          "endereco": "Rua São João, 20",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@portaldooeste.imoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -12.1404,
+          "lng": -42.7027
+        },
+        {
+          "nome": "Imobiliária Real Barreiras",
+          "porte": "Medio",
+          "endereco": "Rua do Sol, 30",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imobiliariareal.barreiras",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -12.1404,
+          "lng": -42.7027
+        },
+        {
+          "nome": "Imobiliária Nova Vida Barreiras",
+          "porte": "Pequeno",
+          "endereco": "Rua da Paz, 15",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -12.1404,
+          "lng": -42.7027
+        }
+      ],
+      "Jequié": [
+        {
+          "nome": "Jequié Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua 7 de Setembro, 100",
+          "bairro": "Centro",
+          "site": "https://www.jequieimoveis.com.br/",
+          "instagram": "@jequieimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -13.5797,
+          "lng": -40.0974
+        },
+        {
+          "nome": "Imobiliária Central Jequié",
+          "porte": "Medio",
+          "endereco": "Avenida Rio Branco, 50",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariacentraljequie.com.br/",
+          "instagram": "@imobiliariacentraljequie",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -13.5797,
+          "lng": -40.0974
+        },
+        {
+          "nome": "Imobiliária Progresso Jequié",
+          "porte": "Medio",
+          "endereco": "Rua da Saudade, 20",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imobiliariaprogresso.jequie",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -13.5797,
+          "lng": -40.0974
+        },
+        {
+          "nome": "Imobiliária Real Jequié",
+          "porte": "Medio",
+          "endereco": "Rua 2 de Julho, 30",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imobiliariareal.jequie",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -13.5797,
+          "lng": -40.0974
+        },
+        {
+          "nome": "Imobiliária Nova Era Jequié",
+          "porte": "Pequeno",
+          "endereco": "Rua do Comércio, 15",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -13.5797,
+          "lng": -40.0974
+        }
+      ]
+    }
+  },
+  "GO": {
+    "nome": "Goiás",
+    "regiao": "Centro-Oeste",
+    "cidades": {
+      "Goiânia": [
+        {
+          "nome": "Adriluz Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua 13, 223 - Setor Marista",
+          "bairro": "Setor Marista",
+          "site": "https://www.adriluz.com.br/",
+          "instagram": "@adriluzimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.6991,
+          "lng": -49.2796
+        },
+        {
+          "nome": "Century Empreendimentos Imobiliários",
+          "porte": "Grande",
+          "endereco": "Av. Dep. Jamel Cecílio, 2971 - Jardim Goiás",
+          "bairro": "Jardim Goiás",
+          "site": "https://www.century21.com.br/",
+          "instagram": "@century21goiania",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -16.6991,
+          "lng": -49.2796
+        },
+        {
+          "nome": "Portal Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua 9, 350 - Setor Marista",
+          "bairro": "Setor Marista",
+          "site": "https://www.portalimoveis.com.br/",
+          "instagram": "@portalimoveisgo",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Alto Padrão"
+          ],
+          "lat": -16.6991,
+          "lng": -49.2796
+        },
+        {
+          "nome": "EZTEC",
+          "porte": "Grande",
+          "endereco": "Av. Alphaville Residencial, 777 - Alphaville",
+          "bairro": "Alphaville",
+          "site": "https://www.eztec.com.br/",
+          "instagram": "@eztecoficial",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -16.6991,
+          "lng": -49.2796
+        },
+        {
+          "nome": "Riva Imóveis",
+          "porte": "Medio",
+          "endereco": "Av. Ricardo Paranhos, 1000 - Setor Marista",
+          "bairro": "Setor Marista",
+          "site": "https://www.rivaimoveis.com.br/",
+          "instagram": "@rivaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.6991,
+          "lng": -49.2796
+        },
+        {
+          "nome": "Capital Imóveis",
+          "porte": "Medio",
+          "endereco": "Av. Olinda, 300 - Setor Nova Suíça",
+          "bairro": "Setor Nova Suíça",
+          "site": "https://www.capitalimoveis.com.br/",
+          "instagram": "@capitalimoveisgo",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.6991,
+          "lng": -49.2796
+        }
+      ],
+      "Aparecida de Goiânia": [
+        {
+          "nome": "Ademi Aparecida",
+          "porte": "Grande",
+          "endereco": "Rua São Francisco, 200 - Setor Central",
+          "bairro": "Setor Central",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -16.7615,
+          "lng": -49.2718
+        },
+        {
+          "nome": "Nova Goiânia Imóveis",
+          "porte": "Medio",
+          "endereco": "Av. Independência, 1500 - Setor dos Funcionários",
+          "bairro": "Setor dos Funcionários",
+          "site": "https://www.novagoianiaimoveis.com.br/",
+          "instagram": "@novagoianiaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.7615,
+          "lng": -49.2718
+        },
+        {
+          "nome": "Imobiliária Aparecida",
+          "porte": "Medio",
+          "endereco": "Av. Epitácio Pessoa, 800 - Setor Central",
+          "bairro": "Setor Central",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.7615,
+          "lng": -49.2718
+        },
+        {
+          "nome": "Goiás Real Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua 10, 50 - Setor Garavelo",
+          "bairro": "Setor Garavelo",
+          "site": "https://www.goiasreaimoveis.com.br/",
+          "instagram": "@goiasreaimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.7615,
+          "lng": -49.2718
+        },
+        {
+          "nome": "Prime Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Av. Viena, 300 - Setor Park Real",
+          "bairro": "Setor Park Real",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -16.7615,
+          "lng": -49.2718
+        }
+      ],
+      "Anápolis": [
+        {
+          "nome": "Imobiliária Anapolina",
+          "porte": "Grande",
+          "endereco": "Av. São Francisco, 1200 - Setor Central",
+          "bairro": "Setor Central",
+          "site": "https://www.imobiliariaanapolina.com.br/",
+          "instagram": "@imobiliariaanapolina",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Industrial"
+          ],
+          "lat": -16.3359,
+          "lng": -48.9448
+        },
+        {
+          "nome": "Central Imóveis Anápolis",
+          "porte": "Medio",
+          "endereco": "Rua Barão do Rio Branco, 450 - Centro",
+          "bairro": "Centro",
+          "site": "https://www.centralimoveisanapolis.com.br/",
+          "instagram": "@centralimoveisanapolis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.3359,
+          "lng": -48.9448
+        },
+        {
+          "nome": "União Imóveis",
+          "porte": "Medio",
+          "endereco": "Av. Adhemar de Barros, 150 - Vila Jaiara",
+          "bairro": "Vila Jaiara",
+          "site": "https://www.uniaoimoveisanapolis.com.br/",
+          "instagram": "@uniaoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.3359,
+          "lng": -48.9448
+        },
+        {
+          "nome": "Goiás Sul Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua 7 de Setembro, 100 - Setor Industrial",
+          "bairro": "Setor Industrial",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Comercial",
+            "Industrial"
+          ],
+          "lat": -16.3359,
+          "lng": -48.9448
+        },
+        {
+          "nome": "Realiza Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Av. Juscelino Kubitschek, 200 - Setor Aeroporto",
+          "bairro": "Setor Aeroporto",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -16.3359,
+          "lng": -48.9448
+        }
+      ],
+      "Rio Verde": [
+        {
+          "nome": "Imobiliária Rio Verde",
+          "porte": "Grande",
+          "endereco": "Av. Presidente Vargas, 1000 - Setor Central",
+          "bairro": "Setor Central",
+          "site": "https://www.imobiliariarioverde.com.br/",
+          "instagram": "@imobiliariarioverde",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Rural"
+          ],
+          "lat": -17.7904,
+          "lng": -51.9336
+        },
+        {
+          "nome": "Agro Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua Piauí, 150 - Setor Oeste",
+          "bairro": "Setor Oeste",
+          "site": "https://www.agroimoveis.com.br/",
+          "instagram": "@agroimoveisrv",
+          "atuacao": [
+            "Rural",
+            "Comercial"
+          ],
+          "lat": -17.7904,
+          "lng": -51.9336
+        },
+        {
+          "nome": "Portal Imóveis Rio Verde",
+          "porte": "Medio",
+          "endereco": "Av. Rio de Janeiro, 500 - Setor Aeroporto",
+          "bairro": "Setor Aeroporto",
+          "site": "https://www.portalimoveisrv.com.br/",
+          "instagram": "@portalimoveisrv",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -17.7904,
+          "lng": -51.9336
+        },
+        {
+          "nome": "Capital Imóveis Rio Verde",
+          "porte": "Medio",
+          "endereco": "Rua Sergipe, 200 - Setor Universitário",
+          "bairro": "Setor Universitário",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -17.7904,
+          "lng": -51.9336
+        },
+        {
+          "nome": "Vida Nova Imóveis",
+          "porte": "Pequeno",
+          "endereco": "Av. Joaquim Faustino, 300 - Setor Vila Olinda",
+          "bairro": "Setor Vila Olinda",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -17.7904,
+          "lng": -51.9336
+        }
+      ],
+      "Luziânia": [
+        {
+          "nome": "Imobiliária Luziânia",
+          "porte": "Medio",
+          "endereco": "Rua Marechal Deodoro, 400 - Setor Central",
+          "bairro": "Setor Central",
+          "site": "https://www.imobiliarialuziania.com.br/",
+          "instagram": "@imobiliarialuziania",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.2526,
+          "lng": -47.9434
+        },
+        {
+          "nome": "Luziânia Imóveis",
+          "porte": "Medio",
+          "endereco": "Av. 1º de Maio, 800 - Setor Parque JK",
+          "bairro": "Setor Parque JK",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.2526,
+          "lng": -47.9434
+        },
+        {
+          "nome": "Goiás Sul Imóveis Luziânia",
+          "porte": "Pequeno",
+          "endereco": "Rua São João, 150 - Setor Mansões",
+          "bairro": "Setor Mansões",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -16.2526,
+          "lng": -47.9434
+        },
+        {
+          "nome": "Realiza Luziânia",
+          "porte": "Pequeno",
+          "endereco": "Av. Principal, 300 - Setor Expansul",
+          "bairro": "Setor Expansul",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -16.2526,
+          "lng": -47.9434
+        }
+      ],
+      "Águas Claras": [
+        {
+          "nome": "Águas Claras Imóveis",
+          "porte": "Medio",
+          "endereco": "Av. Comercial, 500 - Centro",
+          "bairro": "Centro",
+          "site": "https://www.aguasclarasimoveis.com.br/",
+          "instagram": "@aguasclarasimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.0559,
+          "lng": -48.3169
+        },
+        {
+          "nome": "Imobiliária Águas Claras",
+          "porte": "Medio",
+          "endereco": "Rua Principal, 100 - Setor Norte",
+          "bairro": "Setor Norte",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.0559,
+          "lng": -48.3169
+        },
+        {
+          "nome": "Central Imóveis Águas Claras",
+          "porte": "Pequeno",
+          "endereco": "Av. Brasil, 200 - Setor Sul",
+          "bairro": "Setor Sul",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -16.0559,
+          "lng": -48.3169
+        }
+      ],
+      "Valparaíso de Goiás": [
+        {
+          "nome": "Valparaíso Imóveis",
+          "porte": "Medio",
+          "endereco": "Av. Valparaíso, 700 - Setor Central",
+          "bairro": "Setor Central",
+          "site": "https://www.valparaisoimoveis.com.br/",
+          "instagram": "@valparaisoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.1158,
+          "lng": -47.9409
+        },
+        {
+          "nome": "Imobiliária Valparaíso",
+          "porte": "Medio",
+          "endereco": "Rua 15 de Novembro, 120 - Setor Sul",
+          "bairro": "Setor Sul",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.1158,
+          "lng": -47.9409
+        },
+        {
+          "nome": "Realiza Valparaíso",
+          "porte": "Pequeno",
+          "endereco": "Av. Principal, 300 - Setor Mansões",
+          "bairro": "Setor Mansões",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -16.1158,
+          "lng": -47.9409
+        }
+      ],
+      "Senador Canedo": [
+        {
+          "nome": "Senador Canedo Imóveis",
+          "porte": "Medio",
+          "endereco": "Av. Principal, 500 - Setor Central",
+          "bairro": "Setor Central",
+          "site": "https://www.senadorcanedoimoveis.com.br/",
+          "instagram": "@senadorcanedoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.7486,
+          "lng": -49.0761
+        },
+        {
+          "nome": "Canedo Imóveis",
+          "porte": "Medio",
+          "endereco": "Rua 10, 150 - Setor Jardim das Oliveiras",
+          "bairro": "Setor Jardim das Oliveiras",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.7486,
+          "lng": -49.0761
+        },
+        {
+          "nome": "Prime Imóveis Canedo",
+          "porte": "Pequeno",
+          "endereco": "Av. Brasil, 200 - Setor Residencial",
+          "bairro": "Setor Residencial",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -16.7486,
+          "lng": -49.0761
+        }
+      ],
+      "Trindade": [
+        {
+          "nome": "Trindade Imóveis",
+          "porte": "Medio",
+          "endereco": "Av. Manoel Montes, 600 - Setor Central",
+          "bairro": "Setor Central",
+          "site": "https://www.trindadeimoveis.com.br/",
+          "instagram": "@trindadeimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.6703,
+          "lng": -49.4739
+        },
+        {
+          "nome": "Imobiliária Trindade",
+          "porte": "Medio",
+          "endereco": "Rua São Sebastião, 100 - Setor Aeroporto",
+          "bairro": "Setor Aeroporto",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.6703,
+          "lng": -49.4739
+        },
+        {
+          "nome": "Capital Imóveis Trindade",
+          "porte": "Pequeno",
+          "endereco": "Av. 24 de Outubro, 300 - Setor Nova Trindade",
+          "bairro": "Setor Nova Trindade",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -16.6703,
+          "lng": -49.4739
+        }
+      ],
+      "Catalão": [
+        {
+          "nome": "Catalão Imóveis",
+          "porte": "Medio",
+          "endereco": "Av. Raulina Fonseca, 800 - Setor Central",
+          "bairro": "Setor Central",
+          "site": "https://www.catalaoimoveis.com.br/",
+          "instagram": "@catalaoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Industrial"
+          ],
+          "lat": -18.1611,
+          "lng": -47.9453
+        },
+        {
+          "nome": "Imobiliária Catalão",
+          "porte": "Medio",
+          "endereco": "Rua 11 de Agosto, 150 - Centro",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -18.1611,
+          "lng": -47.9453
+        },
+        {
+          "nome": "Goiás Sul Imóveis Catalão",
+          "porte": "Pequeno",
+          "endereco": "Av. Brasil, 250 - Setor Universitário",
+          "bairro": "Setor Universitário",
+          "site": null,
+          "instagram": null,
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -18.1611,
+          "lng": -47.9453
+        }
+      ]
+    }
+  },
+  "MA": {
+    "nome": "Maranhão",
+    "regiao": "Nordeste",
+    "cidades": {
+      "São Luís": [
+        {
+          "nome": "Imobiliária Ponto Seguro",
+          "porte": "Grande",
+          "endereco": "Av. Coronel Colares Moreira, 400",
+          "bairro": "Renascença",
+          "site": "https://www.pontoseguro.com.br/",
+          "instagram": "@pontoseguroimob",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -2.521079,
+          "lng": -44.29911
+        },
+        {
+          "nome": "Imobiliária Coqueiro",
+          "porte": "Grande",
+          "endereco": "Av. dos Holandeses, 1",
+          "bairro": "Calhau",
+          "site": "https://www.imobiliariacoqueiro.com.br/",
+          "instagram": "@imobiliariacoqueiro",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -2.521079,
+          "lng": -44.29911
+        },
+        {
+          "nome": "Imobiliária Miramar",
+          "porte": "Médio",
+          "endereco": "Rua das Flores, 50",
+          "bairro": "Renascença",
+          "site": "https://www.miramarimoveis.com.br/",
+          "instagram": "@miramarimoveis",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -2.521079,
+          "lng": -44.29911
+        },
+        {
+          "nome": "Imobiliária Confiança",
+          "porte": "Médio",
+          "endereco": "Rua da Paz, 100",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imconfianca",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -2.521079,
+          "lng": -44.29911
+        },
+        {
+          "nome": "Imobiliária Portal",
+          "porte": "Pequeno",
+          "endereco": "Rua da Alegria, 20",
+          "bairro": "Jaracati",
+          "site": null,
+          "instagram": "@portalimoveis.slz",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -2.521079,
+          "lng": -44.29911
+        }
+      ],
+      "Imperatriz": [
+        {
+          "nome": "Imobiliária Real",
+          "porte": "Grande",
+          "endereco": "Rua Coronel Manoel Bandeira, 300",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariarealimperatriz.com.br/",
+          "instagram": "@imobiliariarealimp",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -5.513066,
+          "lng": -47.476991
+        },
+        {
+          "nome": "Imobiliária Central",
+          "porte": "Médio",
+          "endereco": "Av. Getúlio Vargas, 150",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imobiliariacentralitz",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -5.513066,
+          "lng": -47.476991
+        },
+        {
+          "nome": "Imobiliária Planalto",
+          "porte": "Médio",
+          "endereco": "Rua do Comércio, 75",
+          "bairro": "Planalto",
+          "site": null,
+          "instagram": "@planaltosimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -5.513066,
+          "lng": -47.476991
+        },
+        {
+          "nome": "Imobiliária Nova Era",
+          "porte": "Pequeno",
+          "endereco": "Travessa da Paz, 10",
+          "bairro": "Bacuri",
+          "site": null,
+          "instagram": "@novaeraimoveis.itz",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -5.513066,
+          "lng": -47.476991
+        }
+      ],
+      "São José de Ribamar": [
+        {
+          "nome": "Imobiliária Costa",
+          "porte": "Médio",
+          "endereco": "Av. Principal, 500",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@costaimoveisribamar",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -2.574608,
+          "lng": -44.10725
+        },
+        {
+          "nome": "Imobiliária Atlântica",
+          "porte": "Médio",
+          "endereco": "Rua do Sol, 12",
+          "bairro": "Parque Vitória",
+          "site": null,
+          "instagram": "@atlanticaimob.sjr",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -2.574608,
+          "lng": -44.10725
+        },
+        {
+          "nome": "Imobiliária Ribamar",
+          "porte": "Pequeno",
+          "endereco": "Praça da Matriz, 5",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@ribamarimoveis",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -2.574608,
+          "lng": -44.10725
+        }
+      ],
+      "Caxias": [
+        {
+          "nome": "Imobiliária Caxiense",
+          "porte": "Médio",
+          "endereco": "Rua da Bandeira, 100",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@imocaxias",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -4.851934,
+          "lng": -43.35289
+        },
+        {
+          "nome": "Imobiliária Progresso",
+          "porte": "Pequeno",
+          "endereco": "Av. Principal, 250",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@progressoimoveiscxs",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -4.851934,
+          "lng": -43.35289
+        }
+      ],
+      "Timon": [
+        {
+          "nome": "Imobiliária Timonense",
+          "porte": "Médio",
+          "endereco": "Av. Presidente Médici, 70",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@timonenseimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -5.397846,
+          "lng": -42.812164
+        },
+        {
+          "nome": "Imobiliária Confiança Timon",
+          "porte": "Pequeno",
+          "endereco": "Rua do Comércio, 30",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@confiancatimon",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -5.397846,
+          "lng": -42.812164
+        }
+      ],
+      "Pindaré-Mirim": [
+        {
+          "nome": "Imobiliária Pindaré",
+          "porte": "Pequeno",
+          "endereco": "Rua da Matriz, 15",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@pindareimoveis",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -2.506374,
+          "lng": -45.34679
+        }
+      ],
+      "Santa Inês": [
+        {
+          "nome": "Imobiliária Santa Inês",
+          "porte": "Médio",
+          "endereco": "Av. Castelo Branco, 100",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@santainesimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -3.676589,
+          "lng": -45.38382
+        },
+        {
+          "nome": "Imobiliária Real Santa Inês",
+          "porte": "Pequeno",
+          "endereco": "Rua do Comércio, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@real_santaines",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -3.676589,
+          "lng": -45.38382
+        }
+      ],
+      "Bacabal": [
+        {
+          "nome": "Imobiliária Bacabal",
+          "porte": "Médio",
+          "endereco": "Av. João Pereira, 200",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@bacabalimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -4.23817,
+          "lng": -44.77778
+        },
+        {
+          "nome": "Imobiliária Progresso Bacabal",
+          "porte": "Pequeno",
+          "endereco": "Rua da União, 10",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@progressobacabal",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -4.23817,
+          "lng": -44.77778
+        }
+      ],
+      "Chapadinha": [
+        {
+          "nome": "Imobiliária Chapadinha",
+          "porte": "Pequeno",
+          "endereco": "Av. Principal, 80",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@chapadinhaimoveis",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -3.675645,
+          "lng": -43.55525
+        }
+      ],
+      "Barreirinhas": [
+        {
+          "nome": "Imobiliária Lençóis",
+          "porte": "Médio",
+          "endereco": "Av. Beira Rio, 50",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariascampos.com.br/",
+          "instagram": "@imobiliariacamposbarreirinhas",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Turismo"
+          ],
+          "lat": -2.527249,
+          "lng": -42.83199
+        },
+        {
+          "nome": "Imobiliária Barreirinhas",
+          "porte": "Pequeno",
+          "endereco": "Rua da Praia, 25",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@barreirinhasimoveis",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -2.527249,
+          "lng": -42.83199
+        }
+      ]
+    }
+  },
+  "MG": {
+    "nome": "Minas Gerais",
+    "regiao": "Sudeste",
+    "cidades": {
+      "Belo Horizonte": [
+        {
+          "nome": "Porto Seguro Imóveis",
+          "porte": "Grande",
+          "endereco": "Rua Rio de Janeiro, 1000",
+          "bairro": "Centro",
+          "site": "https://www.portoseguroimoveis.com.br/",
+          "instagram": "@portoseguroimoveisbh",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -19.9167,
+          "lng": -43.9345
+        },
+        {
+          "nome": "Caparaó Imóveis",
+          "porte": "Grande",
+          "endereco": "Avenida do Contorno, 3000",
+          "bairro": "Lourdes",
+          "site": "https://www.caparaoimoveis.com.br/",
+          "instagram": "@caparaoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão"
+          ],
+          "lat": -19.9167,
+          "lng": -43.9345
+        },
+        {
+          "nome": "MRV Engenharia",
+          "porte": "Grande",
+          "endereco": "Avenida Raja Gabaglia, 2000",
+          "bairro": "Luxemburgo",
+          "site": "https://www.mrv.com.br/",
+          "instagram": "@mrvengenharia",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -19.9167,
+          "lng": -43.9345
+        },
+        {
+          "nome": "Rodo Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Tupis, 500",
+          "bairro": "Centro",
+          "site": "https://www.rodoimoveis.com.br/",
+          "instagram": "@rodoimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -19.9167,
+          "lng": -43.9345
+        },
+        {
+          "nome": "Villela e Siqueira Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Bernardo Guimarães, 100",
+          "bairro": "Funcionários",
+          "site": "https://www.villelaesiqueira.com.br/",
+          "instagram": "@villelaesiqueira",
+          "atuacao": [
+            "Residencial",
+            "Alto Padrão"
+          ],
+          "lat": -19.9167,
+          "lng": -43.9345
+        },
+        {
+          "nome": "BH Imóveis",
+          "porte": "Médio",
+          "endereco": "Avenida Afonso Pena, 1500",
+          "bairro": "Savassi",
+          "site": "https://www.bhimoveis.com.br/",
+          "instagram": "@bhimoveis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -19.9167,
+          "lng": -43.9345
+        }
+      ],
+      "Uberlândia": [
+        {
+          "nome": "Imobiliária Bom Jesus",
+          "porte": "Grande",
+          "endereco": "Avenida Rondon Pacheco, 2000",
+          "bairro": "Lídice",
+          "site": "https://www.imobiliariabomjesus.com.br/",
+          "instagram": "@imobiliariabomjesus",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -18.9195,
+          "lng": -48.2652
+        },
+        {
+          "nome": "Central Imóveis",
+          "porte": "Grande",
+          "endereco": "Avenida João Naves de Ávila, 3000",
+          "bairro": "Laranjeiras",
+          "site": "https://www.centralimoveis.com.br/",
+          "instagram": "@centralimoveisud",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -18.9195,
+          "lng": -48.2652
+        },
+        {
+          "nome": "Real Imóveis",
+          "porte": "Médio",
+          "endereco": "Rua Rio de Janeiro, 100",
+          "bairro": "Centro",
+          "site": "https://www.realimoveis.com.br/",
+          "instagram": "@realimoveisuberlandia",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -18.9195,
+          "lng": -48.2652
+        },
+        {
+          "nome": "Imobiliária Triângulo",
+          "porte": "Médio",
+          "endereco": "Avenida Getúlio Vargas, 500",
+          "bairro": "Copacabana",
+          "site": "https://www.imobiliariatriangulo.com.br/",
+          "instagram": "@imobiliariatriangulo",
+          "atuacao": [
+            "Residencial",
+            "Lançamentos"
+          ],
+          "lat": -18.9195,
+          "lng": -48.2652
+        },
+        {
+          "nome": "Grupo Patrimônio",
+          "porte": "Médio",
+          "endereco": "Rua Professor Odilon, 700",
+          "bairro": "Santa Mônica",
+          "site": "https://www.grupopatrimonio.com.br/",
+          "instagram": "@grupopatrimoniouberlandia",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Alto Padrão"
+          ],
+          "lat": -18.9195,
+          "lng": -48.2652
+        }
+      ],
+      "Contagem": [
+        {
+          "nome": "Imobiliária Contagem",
+          "porte": "Médio",
+          "endereco": "Avenida Babita Camargos, 1000",
+          "bairro": "Cidade Industrial",
+          "site": "https://www.imobiliariacontagem.com.br/",
+          "instagram": "@imobiliariacontagem",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -19.9051,
+          "lng": -44.0702
+        },
+        {
+          "nome": "Realiza Imóveis Contagem",
+          "porte": "Médio",
+          "endereco": "Rua Rio de Janeiro, 200",
+          "bairro": "Centro",
+          "site": "https://www.realizaimoveis.com.br/",
+          "instagram": "@realizaimoveiscontagem",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -19.9051,
+          "lng": -44.0702
+        },
+        {
+          "nome": "Lar Imóveis Contagem",
+          "porte": "Pequeno",
+          "endereco": "Avenida João César de Oliveira, 500",
+          "bairro": "Eldorado",
+          "site": null,
+          "instagram": "@larimoveiscontagem",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -19.9051,
+          "lng": -44.0702
+        },
+        {
+          "nome": "Prime Imóveis Contagem",
+          "porte": "Pequeno",
+          "endereco": "Rua Portugal, 150",
+          "bairro": "Nossa Senhora das Graças",
+          "site": null,
+          "instagram": "@primeimoveiscontagem",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -19.9051,
+          "lng": -44.0702
+        }
+      ],
+      "Juiz de Fora": [
+        {
+          "nome": "Imobiliária União",
+          "porte": "Médio",
+          "endereco": "Rua Halfeld, 500",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariauniao.com.br/",
+          "instagram": "@imobiliariauniao_jf",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -21.7615,
+          "lng": -43.4677
+        },
+        {
+          "nome": "Imobiliária Invest",
+          "porte": "Médio",
+          "endereco": "Avenida Rio Branco, 2000",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariainvest.com.br/",
+          "instagram": "@imobiliariainvestjf",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -21.7615,
+          "lng": -43.4677
+        },
+        {
+          "nome": "Realize Imóveis Juiz de Fora",
+          "porte": "Médio",
+          "endereco": "Rua Tiradentes, 100",
+          "bairro": "Centro",
+          "site": "https://www.realizeimoveisjf.com.br/",
+          "instagram": "@realizeimoveisjf",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -21.7615,
+          "lng": -43.4677
+        },
+        {
+          "nome": "Lar Imóveis Juiz de Fora",
+          "porte": "Pequeno",
+          "endereco": "Avenida Barão do Rio Branco, 1500",
+          "bairro": "Cascatinha",
+          "site": null,
+          "instagram": "@larimoveisjf",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -21.7615,
+          "lng": -43.4677
+        }
+      ],
+      "Betim": [
+        {
+          "nome": "Imobiliária Betim",
+          "porte": "Médio",
+          "endereco": "Avenida Amazonas, 1000",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariabetim.com.br/",
+          "instagram": "@imobiliariabetim",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -19.9756,
+          "lng": -44.2077
+        },
+        {
+          "nome": "Realiza Imóveis Betim",
+          "porte": "Médio",
+          "endereco": "Rua Rio de Janeiro, 50",
+          "bairro": "Centro",
+          "site": "https://www.realizaimoveis.com.br/",
+          "instagram": "@realizaimoveisbetim",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -19.9756,
+          "lng": -44.2077
+        },
+        {
+          "nome": "Lar Imóveis Betim",
+          "porte": "Pequeno",
+          "endereco": "Avenida Edméia Matos Lins, 200",
+          "bairro": "Jardim da Cidade",
+          "site": null,
+          "instagram": "@larimoveisbetim",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -19.9756,
+          "lng": -44.2077
+        }
+      ],
+      "Montes Claros": [
+        {
+          "nome": "Imobiliária Montes Claros",
+          "porte": "Médio",
+          "endereco": "Avenida Mestra Fininha, 100",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariamtosclaros.com.br/",
+          "instagram": "@imobiliariamtosclaros",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -16.7346,
+          "lng": -43.8556
+        },
+        {
+          "nome": "Central Imóveis Montes Claros",
+          "porte": "Médio",
+          "endereco": "Rua Doutor Veloso, 500",
+          "bairro": "Centro",
+          "site": "https://www.centralimoveismc.com.br/",
+          "instagram": "@centralimoveismc",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -16.7346,
+          "lng": -43.8556
+        },
+        {
+          "nome": "Lar Imóveis Montes Claros",
+          "porte": "Pequeno",
+          "endereco": "Avenida João XXIII, 200",
+          "bairro": "Morrinhos",
+          "site": null,
+          "instagram": "@larimoveismc",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -16.7346,
+          "lng": -43.8556
+        }
+      ],
+      "Ribeirão das Neves": [
+        {
+          "nome": "Imobiliária Ribeirão das Neves",
+          "porte": "Médio",
+          "endereco": "Avenida São Judas Tadeu, 100",
+          "bairro": "Savassi",
+          "site": "https://www.imobiliariardn.com.br/",
+          "instagram": "@imobiliariardn",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -19.8455,
+          "lng": -44.1219
+        },
+        {
+          "nome": "Lar Imóveis Ribeirão das Neves",
+          "porte": "Pequeno",
+          "endereco": "Rua do Rosário, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@larimoveisrdn",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -19.8455,
+          "lng": -44.1219
+        }
+      ],
+      "Uberaba": [
+        {
+          "nome": "Imobiliária Uberaba",
+          "porte": "Médio",
+          "endereco": "Avenida Guilherme Ferreira, 500",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariauberaba.com.br/",
+          "instagram": "@imobiliariauberaba",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -19.7563,
+          "lng": -47.9338
+        },
+        {
+          "nome": "Central Imóveis Uberaba",
+          "porte": "Médio",
+          "endereco": "Rua Vigário Jorge, 100",
+          "bairro": "Centro",
+          "site": "https://www.centralimoveisuberaba.com.br/",
+          "instagram": "@centralimoveisuberaba",
+          "atuacao": [
+            "Residencial",
+            "Comercial",
+            "Lançamentos"
+          ],
+          "lat": -19.7563,
+          "lng": -47.9338
+        },
+        {
+          "nome": "Lar Imóveis Uberaba",
+          "porte": "Pequeno",
+          "endereco": "Avenida Santa Beatriz, 200",
+          "bairro": "Mercês",
+          "site": null,
+          "instagram": "@larimoveisuberaba",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -19.7563,
+          "lng": -47.9338
+        }
+      ],
+      "Araxá": [
+        {
+          "nome": "Imobiliária Araxá",
+          "porte": "Médio",
+          "endereco": "Avenida Reverendo Israel Dias, 100",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariaaraxa.com.br/",
+          "instagram": "@imobiliariaaraxa",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -19.5921,
+          "lng": -46.6369
+        },
+        {
+          "nome": "Lar Imóveis Araxá",
+          "porte": "Pequeno",
+          "endereco": "Rua Presidente Vargas, 50",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@larimoveisaraxa",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -19.5921,
+          "lng": -46.6369
+        }
+      ],
+      "Divinópolis": [
+        {
+          "nome": "Imobiliária Divinópolis",
+          "porte": "Médio",
+          "endereco": "Avenida 1º de Junho, 500",
+          "bairro": "Centro",
+          "site": "https://www.imobiliariadivinopolis.com.br/",
+          "instagram": "@imobiliariadivinopolis",
+          "atuacao": [
+            "Residencial",
+            "Comercial"
+          ],
+          "lat": -20.1353,
+          "lng": -45.8848
+        },
+        {
+          "nome": "Lar Imóveis Divinópolis",
+          "porte": "Pequeno",
+          "endereco": "Rua Rio de Janeiro, 100",
+          "bairro": "Centro",
+          "site": null,
+          "instagram": "@larimoveisdivinopolis",
+          "atuacao": [
+            "Residencial"
+          ],
+          "lat": -20.1353,
+          "lng": -45.8848
         }
       ]
     }
